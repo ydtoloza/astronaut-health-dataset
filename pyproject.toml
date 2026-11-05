@@ -1,0 +1,21 @@
+[project]
+name = "astrohealth"
+version = "0.1.0"
+description = "Dataset verificado de salud de astronautas (NASA UTMB bed rest + Inspiration4) para NASA Space Apps 2026"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.2"]
+
+[project.optional-dependencies]
+analisis = ["matplotlib>=3.8", "jupyter>=1.0"]
+test = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

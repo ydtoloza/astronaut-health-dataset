@@ -1,16 +1,14 @@
 """Single pipeline: raw NASA files -> clean UTMB tables (utmb/) + unified demo dataset (demo/).
 Replaces tidy_utmb.py + build_demo.py after the independent audit (verificacion/01-03).
 
-usage (from the repository root):  python3 -I scripts/build_all.py
+usage:  make data   (or: python -m astrohealth.build, with src/ on PYTHONPATH)
 Every correction applied is logged to utmb/registro_correcciones.csv.
 """
 import csv, glob, math, os, random, re, statistics as st
 from datetime import date, datetime
 
-ROOT = os.getcwd()
-RAW = os.path.join(ROOT, 'data', 'raw', 'nlsp')
-U = os.path.join(ROOT, 'data', 'utmb')
-OUT = os.path.join(ROOT, 'demo')
+from astrohealth.config import ROOT, RAW_NLSP as RAW, INTERIM as U, PROCESSED as OUT
+ROOT, RAW, U, OUT = str(ROOT), str(RAW), str(U), str(OUT)
 os.makedirs(U, exist_ok=True)
 os.makedirs(OUT, exist_ok=True)
 SEED = 2026

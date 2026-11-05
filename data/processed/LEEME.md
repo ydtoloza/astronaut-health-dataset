@@ -1,14 +1,14 @@
 # Dataset de demo unificado (versión corregida tras la auditoría)
 
-Junta **todos los datos reales** reunidos (reposo en cama de NASA en UTMB e Inspiration4) y agrega 4 indicadores **simulados**, marcados con el sufijo `_sim`. Esta versión corrige los errores encontrados por la auditoría independiente (`../docs/verificacion/01` a `04`).
+Junta **todos los datos reales** reunidos (reposo en cama de NASA en UTMB e Inspiration4) y agrega 4 indicadores **simulados**, marcados con el sufijo `_sim`. Esta versión corrige los errores encontrados por la auditoría independiente (`../../docs/verificacion/01` a `04`).
 
-Se regenera desde la raíz del repositorio con un solo script, que reemplaza a `tidy_utmb.py` y `build_demo.py` (ya obsoletos):
+Se regenera con `make data` (en Windows: `$env:PYTHONPATH="src"; python -m astrohealth.build`). El pipeline está en `src/astrohealth/build.py` y reemplaza a los scripts obsoletos `tidy_utmb.py` y `build_demo.py`:
 
 ```
-python3 -I scripts/build_all.py
+make data
 ```
 
-La semilla es fija (2026), así que el resultado es reproducible. Cada corrección aplicada a los datos de origen queda registrada en `../data/utmb/registro_correcciones.csv`.
+La semilla es fija (2026), así que el resultado es reproducible. Cada corrección aplicada a los datos de origen queda registrada en `../interim/registro_correcciones.csv`.
 
 ## Archivos
 
@@ -63,4 +63,4 @@ Semáforo: verde 79,1 %, amarillo 14,8 %, rojo 6,1 %. No verde por fase: antes 1
 - NLSP (UTMB): los datasets están marcados como "Open-Access Data", pero el portal no publica una licencia explícita. Hay que citar el DOI de cada experimento. De los 30 experimentos marcados como públicos, 28 lo son por completo y 2 en parte.
 
 ## Fuentes
-UTMB vía NLSP: doi:10.83263/wjw1-ta27 (vitales y síntomas), 10.83263/rank-k271 (laboratorio), 10.83263/gz1q-a824 (tilt), 10.83263/v7n1-ht75 (actigrafía), 10.83263/sbne-th55 (WinSCAT). Inspiration4: NASA OSDR OSD-569 y OSD-575. Lista completa en `../docs/FUENTES.md`; auditoría en `../docs/verificacion/`.
+UTMB vía NLSP: doi:10.83263/wjw1-ta27 (vitales y síntomas), 10.83263/rank-k271 (laboratorio), 10.83263/gz1q-a824 (tilt), 10.83263/v7n1-ht75 (actigrafía), 10.83263/sbne-th55 (WinSCAT). Inspiration4: NASA OSDR OSD-569 y OSD-575. Lista completa en `../../docs/FUENTES.md`; auditoría en `../../docs/verificacion/`.
