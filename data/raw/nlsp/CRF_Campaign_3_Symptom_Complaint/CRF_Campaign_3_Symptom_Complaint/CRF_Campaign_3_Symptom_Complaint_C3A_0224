@@ -1,0 +1,15 @@
+﻿ID,Subject,Campaign,Date,Time,Symptom/Complaint,Action_Taken,Intervention,Result_of_Test_Y/N,BR_Day,Protocol,Resolution,Resolution_Date,Resolution_Time
+1,224,C3A,2/25/2005,17:10,HA (headache),Pt left for test will medicate upon return,Tylenol 650 mg PO,No,10,655,headache resolved pain level 1/10,2/25/2005,20:25
+2,224,C3A,3/5/2005,6:00,abdominal hyperactivity,assess & monitor,monitor for diarrhea,No,2,655,Not reported,Not reported,Not reported
+3,224,C3A,3/18/2005,0:40,unable to sleep,given Ambien,5 mg 1 PO,No,12,655,slept rest of the night,3/18/2005,6:00
+4,224,C3A,4/7/2005,14:30,slight headache,assessment made,Motrin 400 mg PO 15:30,No,32,655,Not reported,Not reported,Not reported
+5,224,C3A,4/7/2005,19:30,None reported,assessed level of pain,none needed,No,32,655,"headache at a 1 on 0-10 scale, pt. verbalizes headache relieved",4/7/2005,19:30
+6,224,C3A,4/21/2005,17:10,"HA to frontal region = ""3"" on 0-10 scale quality= ache duration ~1 hour with recent increase in intensity",ibuprofen 400 mg PO as requested per pt.,Not reported,No,46,655,"HA decrease ""1"" on 0-10 scale",4/21/2005,16:10
+7,224,C3A,4/23/2005,18:00,slight headache 2-3 (scale 0-10),assessment pf pain level using scale (0-10),Motrin 400 mg PO given,No,48,655,Not reported,Not reported,Not reported
+8,224,C3A,4/25/2005,12:25,HA (headache),Motrin 400 mg tab 2 PO given,pain med given cont. to monitor,No,50,655,"18:00 - HA ""1"" on scale 0-10 denies further need for meds",4/25/2005,18:00
+9,224,C3A,4/30/2005,21:10,"unable to sleep last HS R/t other subject snoring, could hear even with ear plugs in",assessed for sleeping aid this HS,given 5 mg Ambien PO,No,55,655,sleeping,4/30/2005,23:00
+10,224,C3A,5/2/2005,21:20,"HA (headache) ""7""",assessment,Motrin 2 tab PO & ate dinner,No,57,655,"now ""3""",5/2/2005,22:00
+11,224,C3A,5/15/2005,19:35,"headache ""all over - just started"" 3 on 0-10 scale",assessed for comfort measures vs meds,gave 1 325 mg Tylenol ,No,70,655,21:56 - HA relieved,5/15/2005,21:56
+12,224,C3A,5/16/2005,19:25,"frontal region HA = ""3"" x 15 min.",assessment,acetaminophen 650 mg given PO,No,71,655,"states pain decreased to ""1/2"" on 0-10",5/16/2005,21:00
+13,224,C3A,5/30/2005,14:00,"rt. foot (bottom) ""burned"" from heating pad during dorsal foot vein test",Assessed- area 3mm x 5mm in size- bright red in color,"cool compress applied, Vaseline applied",No,85,655,2700- 1/2 cm slightly pink area noted- pt denies pain or tenderness. 1830- area now completely gone.,5/31/2005,18:30
+14,224,C3A,6/17/2005,21:20,"unable to sleep, excited about discharge",Ambien 5mg given (1) PO,assessed needed meds/ comfort measures,No,12,655,2300 Sleeping,6/17/2005,23:00

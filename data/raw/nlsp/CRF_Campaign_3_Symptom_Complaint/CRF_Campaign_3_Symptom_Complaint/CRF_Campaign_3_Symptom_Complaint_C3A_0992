@@ -1,0 +1,73 @@
+﻿ID,Subject,Campaign,Date,Time,Symptom/Complaint,Action_Taken,Intervention,Result_of_Test_Y/N,BR_Day,Protocol,Resolution,Resolution_Date,Resolution_Time
+1,992,C3A,2/22/2005,10:00,diarrhea,monitor subject - explained to subject side effect of med given for lactalose / acetaminophen test,Not reported,Not reported,9,Not reported,Not reported,Not reported,Not reported
+2,992,C3A,2/22/2005,13:00,rectal burning from diarrhea,Vaseline obtained for subject to apply to rectal area,Not reported,Not reported,9,Not reported,Not reported,Not reported,Not reported
+3,992,C3A,2/22/2005,22:15,c/o abd. cramping,heating pad,Not reported,Not reported,9,Not reported,24:00 - subject sleeping,Not reported,Not reported
+4,992,C3A,2/23/2005,10:00,diarrhea,Dr. Ware talked to subject re: protocol,Not reported,Not reported,8,Not reported,Not reported,Not reported,Not reported
+5,992,C3A,2/23/2005,12:05,skin irritation (anal area) ,assessed by Dr. Ware,Not reported,Not reported,8,Not reported,Not reported,Not reported,Not reported
+6,992,C3A,2/24/2005,12:30,headache 8 of 10,"dream lights, reduce noise",rest for 1 hour then reevaluate,No,7,655,Not reported,Not reported,Not reported
+7,992,C3A,2/24/2005,13:30,headache 6 of 10,continue quiet & dream lights,Not reported,Not reported,7,Not reported,headache subsided,2/24/2005,17:30
+8,992,C3A,3/3/2005,21:00,muscle biopsy site pain,assess site,"icepack to area, Rx",No,1,655,pt. Sleeping comfortably,3/3/2005,23:30
+9,992,C3A,3/4/2005,10:30,backache,"offered Tylenol, offered heating pad","pt. refused Tylenol, accepted heating pad",No,2,NC,"Pt. stated that the ""pain"" did not change 1",3/5/2005,12:00
+10,992,C3A,3/4/2005,14:20,backache,offered Tylenol back massage by PT.,"pt. refused Tylenol, massage",No,2,NC,Pt. Refuses Tylenol,3/5/2005,7:00
+11,992,C3A,3/5/2005,8:00,back pain,"Tylenol offered, heating pad supplied",Tylenol + heating pad to relieve pain.  Pt. was assessed by Dr. Ware,No,3,Normal,"0 changes.  Pain remains at ""8""",3/5/2005,17:40
+12,992,C3A,3/5/2005,Not reported,back pain,Tylenol offered,Tylenol 650 mg PO at 17:40,No,3,Normal,Not reported,Not reported,Not reported
+13,992,C3A,3/5/2005,21:00,back pain,offered Tylenol,refused med heating pad,No,3,Normal,asleep,3/5/2005,22:30
+14,992,C3A,3/6/2005,10:00,back pain,PRN Motrin offered; heating pad offered,Motrin 400 mg given 10:35,No,4,655,"pain level ""4""",3/6/2005,15:45
+15,992,C3A,3/9/2005,11:00,backache,Tylenol offered,heating pad used to relieve pain,No,7,655,Not reported,Not reported,Not reported
+16,992,C3A,3/9/2005,21:00,constipation,med,Colace 1 cap (Docusate SOD 100mg PO),No,7,655,pending,Not reported,Not reported
+17,992,C3A,3/16/2005,17:00,leg pain,Tylenol offered (pt. refused),Physical therapy relaxation massage given by PT.,No,14,655,Not reported,Not reported,Not reported
+18,992,C3A,3/17/2005,6:15,dizziness,Dr. Ware notified,Dr. Ware in to exam subject,No,15,655,Not reported,Not reported,Not reported
+19,992,C3A,3/18/2005,7:30,dizziness,Dr. Ware notified,Dr. Ware in to examine subject,No,16,655,Not reported,Not reported,Not reported
+20,992,C3A,3/19/2005,2:40,"headache ""all over"" 5 on scale of 0 -10.",Ibuprofen offered 400 mg,ibuprofen 400 mg given PO,No,17,655,Pt resting sleeping peacefully,3/19/2005,3:05
+21,992,C3A,3/19/2005,17:00,dizziness,assessment made to ensure pt.'s safety,Dr. Ware notified,No,17,655,continue monitoring,3/19/2005,18:00
+22,992,C3A,3/20/2005,8:30,dizziness,assessment made to ensure pt.'s safety,comfort measures discussed with pt.,No,18,655,continue monitoring ,3/20/2005,14:00
+23,992,C3A,3/21/2005,8:00,"""feeling dizzy""",monitoring physical status of the pt.,Dr. Ware notified previously (3/19/2005). Dr. Ware notified 3/21/2005 16:00,No,19,655,continue monitoring,Not reported,Not reported
+24,992,C3A,3/23/2005,11:30,HA (head ache),Motrin 400 mg tab 1 PO given,Not reported,No,21,655,Not reported,Not reported,Not reported
+25,992,C3A,3/23/2005,14:00,HA (head ache),Motrin 400 mg tab 1 PO given,Not reported,No,21,655,Not reported,Not reported,Not reported
+26,992,C3A,3/23/2005,19:45,HA (head ache),Motrin 400 mg 1 PO,given Motrin,No,21,655,HA gone @ 2015,3/23/2005,20:15
+27,992,C3A,3/31/2005,16:00,canker sore in mouth,"Dr. Ware notified, Dr. Meck notified",Ora-jel PRN TOP to mouth sore - ice,No,29,655,Not reported,Not reported,Not reported
+28,992,C3A,3/31/2005,20:15,c/o biopsy site pain left vastus lat. Area,assessed for comfort measures,given 1 (400 mg) Ibuprofen PO,No,29,655,21:40 pain relieved,3/31/2005,21:40
+29,992,C3A,4/1/2005,7:00,canker sore in mouth,has Ora-jel request Orabase paste Dr. Ware notified,Orabase paste PRN TOP,No,30,655,Not reported,Not reported,Not reported
+30,992,C3A,4/21/2005,12:30,slight headache,offered alternative ways to control pain,Pt. can't have any analgesics because pt has cardiovascular testing scheduled for tomorrow,No,50,655,Discuss alternative ways to cope with signs/ symptoms of headache,Not reported,Not reported
+31,992,C3A,4/23/2005,17:30,"""feeling dizzy after this test.""",continue monitoring,Progress notes documentation of complaint.  Will notify next shift re: pt's physical complaint.,No,52,655,water & fluids offered,Not reported,Not reported
+32,992,C3A,4/25/2005,14:15,HA (head ache),Motrin given,ice pack applied to back of neck,No,55,655,Pt. Still with level 7 headache.  Declines further interactions.,4/26/2005,20:00
+33,992,C3A,4/29/2005,10:00,"leg pain ""5"" (scale 0 - 10)",Motrin 800 mg PO given at 10:15,assessment of biopsy site done,No,58,655,Not reported,Not reported,Not reported
+34,992,C3A,4/29/2005,16:05,"leg pain ""6 - 7""",Motrin 800 mg PO given 16:15,"assessment done, zero abnormal findings noted",No,58,655,"Pt. States ibuprofen relieved pain somewhat, but pain has increased over the last hour to ""8"" on pain scale.",4/29/2005,19:00
+35,992,C3A,4/29/2005,19:15,"""ache"" to left lateral thigh biopsy site = ""8"" on pain scale (0 - 10).  C/o increased pain x hour.",acetaminophen 325 mg PO,Pt refused ice compress.  Very mild inflammation at site.  No erythema or warmth.  Site well approximated.,No,58,655,20:00 - no change in pain intensity or quality - plan to give ibuprofen at 20:15 - pt agreeable,4/29/2005,20:00
+36,992,C3A,4/29/2005,21:45,"""ache"" persistent to left lateral thigh biopsy site",ibuprofen 800 mg given PO,assessment of biopsy site unchanged,No,58,655,Not reported,Not reported,Not reported
+37,992,C3A,5/1/2005,12:15,HA (head ache) - due to nitro used during testing,assessment ,Motrin 400 mg tab 1 PO given,No,60,655,"HA ""much better""",5/1/2005,13:30
+38,992,C3A,5/1/2005,20:00,HA (head ache),assessment,subject refused any intervention,No,60,655,Not reported,Not reported,Not reported
+39,992,C3A,5/15/2005,10:50,insect bites,1) room inspected; 2) pest control notified; 3) housekeeping notified; 4) bags / garbage cans cleaned,Not reported,No,74,655,no further c/o bites.,5/15/2005,20:00
+40,992,C3A,5/15/2005,20:55,cankers in mouth are painful,assessed pt's pain level,Pt had Ora-jel at the bedside.  Placed on cancers.,No,74,655,decrease in mouth pain slightly,5/15/2005,22:00
+41,992,C3A,5/16/2005,8:00,mouth - sore,"attempted to assess mouth sore,  pt. refused assessment",dietician notified re: food adjustment,No,75,655,emailed J. Meck re: using of Ora-jel; continue monitoring,5/16/2005,Not reported
+42,992,C3A,5/16/2005,16:00,headache,Tylenol 325 mg PO given,ice pack given,No,75,655,Not reported,Not reported,Not reported
+43,992,C3A,5/16/2005,18:58,"c/o HA (head ache) = ""12"" on 0 - 10 scale.  States HA to all regions of head.",assessment,"offered acetaminophen + ice packs,  Lights to room dim & door closed to decrease stimulation.",No,75,655,Pt. Refused acetaminophen & ice packs.,5/16/2005,19:00
+44,992,C3A,5/16/2005,20:55,"HA remains = ""12""",assessment,325 mg acetaminophen given PO - pt. Refuses 650 mg,No,75,655,"Pt states Tylenol not effective, refuses comfort measures.  MD Ware contacted.  States pt. May not have further medication for pain.  Pain remains = ""12"" to HA.",5/16/2005,21:45
+45,992,C3A,5/17/2005,8:30,HA (head ache),assessed,Tylenol 325 mg tab 1 given,No,76,655,Not reported,Not reported,Not reported
+46,992,C3A,5/17/2005,12:10,HA (head ache),assessed,Tylenol 325 mg tab 1 given,No,76,655,Not reported,Not reported,Not reported
+47,992,C3A,5/17/2005,14:10,HA (head ache),assessed,Tylenol 325 mg tab 1 given,No,76,655,HA gone after massage,5/17/2005,18:00
+48,992,C3A,5/18/2005,9:25,right thigh cramping,assessed,"Tylenol 325 mg PO given, heating pad applied",No,77,655,Tylenol did not help - cont. with heating pad,5/18/2005,11:30
+49,992,C3A,5/18/2005,11:30,abd cramping related to menses per pt.,assessed,heating pad,No,77,655,Not reported,Not reported,Not reported
+50,992,C3A,5/18/2005,19:08,right LE cramp. Sharp pain = 6-7 on pain scale,assessment,plans to take 325 mg acetaminophen after shower,No,77,655,"1945 - following shower pt. Decides that patient does not want Tylenol, but ""Cramp"" to left LE remains unchanged",5/18/2005,19:45
+51,992,C3A,5/25/2005,10:10,"""morning sickness"" upset stomach","assessed- Dr. Ware, J. Neigut, S. Dreyer, J. Meck notified","order OK'd, rec'd for Pepcid 20mg PO BID PRN - Pepcid 20mg given.",No,84,655,Stomach upset gone,5/25/2005,14:30
+52,992,C3A,5/26/2005,7:10,voices vomiting in the shower,assessment,"Pepcid/phenergan offered- pt refused meds at this time. Wants to eat breakfast first, et see if this helps.",No,85,655,"No complaints per day-shift RN, pt tol meals well today, cont. to refuse prn medication.",5/26/2005,19:50
+53,992,C3A,5/28/2005,12:10,"pain in the right side ""around kidney area"".",Tylenol  650mg PO. was given. Ice pack applied to affected area.  ,Nursing assessment done. Will notify attending physician during rounds.,No,87,655,Not reported,Not reported,Not reported
+54,992,C3A,5/31/2005,16:00,HA (head ache),assessed- no meds due to test schedule.,"massage ice pack offer, but declined.",No,90,655,"HA (head ache) ""better""",5/31/2005,18:30
+55,992,C3A,6/1/2005,19:37,"c/o ""dizziness"" + aching to left ankle after 3 laps on functional mobility test.",assessment of pt.,Pt sits x (for) ~ 1 min,No,0,655,Resumes testing p (after) ~1 min break. No c/o dizziness - states resolved.  No signs of orthostatic hypotension or distress - completed testing without problems.,6/1/2005,19:42
+56,992,C3A,6/1/2005,20:10,"c/o ""ache"" to joints of left bilat. LE, to back to neck & to frontal region of head. Pain = ""12-15"" on pain scale.",assessment - Pt reclining in bed c (with) HOB raised.,Medicated with acetaminophen 650mg PO as pt requested. Plan for massage & relaxation CD.,No,0,655,"States pain decreased ""some"" following massage. Prepares for sleep.",6/1/2005,22:00
+57,992,C3A,6/2/2005,13:45,"backache ""8""",assessment made,Tylenol 650mg PO,No,1,655,"""not effective"" per pt",6/2/2005,17:00
+58,992,C3A,6/2/2005,19:00,"back ache, legs ache, body ache",assessed comfort measures vs. meds,Tylenol 2 tabs po (325mg) given. Massage by therapist in 1/2 hour.,No,1,655,"With earlier massage Tylenol was effective. ""Barely feels achy""",6/2/2005,21:50
+59,992,C3A,6/3/2005,20:15,back ache lower calves/thighs ache,assessed for comfort measures as pt has no meds re: CV testing,Assisted pt to ace wrap lower abdomen and made sure heating pad was at bedside,No,2,655,Still aching at bedtime but more bearable,6/3/2005,21:50
+60,992,C3A,6/4/2005,15:20,backache,Tylenol 650mg PO given. ,Nursing assessment done completed,No,3,655,Continue Monitoring,6/4/2005,15:50
+61,992,C3A,6/4/2005,21:30,back/leg ache,Tylenol 650 mg PO,told patient to ring if further pain.,No,3,655,sleeping at 2300,6/4/2005,23:00
+62,992,C3A,6/5/2005,6:45,addendum: Back ache,assessed for needed intervention,2 Tylenol PO (325mg) given for pain.,No,4,655,Reported to oncoming staff. They will monitor further needs.,6/5/2005,6:45
+63,992,C3A,6/5/2005,12:35,backache,Tylenol 650 mg PO,nursing assessment done ,No,4,655,Not reported,Not reported,Not reported
+64,992,C3A,6/6/2005,14:15,backache,Motrin 400mg PO,assessment (pain level),No,5,655,effective,6/6/2005,17:10
+65,992,C3A,6/6/2005,21:00,"""tightness"" to bilat anterior thighs, very minimal discomfort, unable to rate on 0-10 scale. Requests ibuprofen.",assessment,ibuprofen 400mg,No,5,655,2130- States no discomfort,6/6/2005,21:30
+66,992,C3A,6/7/2005,8:30,muscle soreness,assessed,"Motrin 400mg 1 tab given, heating pad",No,6,655,Not reported,Not reported,Not reported
+67,992,C3A,6/8/2005,9:40,"muscle ""soreness, stiffness""",assessed,"pt doing stretches, Motrin 400mg given",No,7,655,effective,Not reported,Not reported
+68,992,C3A,6/9/2005,10:25,right top of foot pain/cramp,assessed area,offered pain med and declined at this time. Will monitor,No,8,655,Not reported,Not reported,Not reported
+69,992,C3A,6/9/2005,19:30,body aches,assessed for comfort measures vs  meds,Gave 1 (400mg) Motrin,No,8,655,2300 pt sleeping peacefully,6/9/2005,23:00
+70,992,C3A,6/11/2005,14:00,"HA (head ache), neck ache",assessed,Motrin 400mg tab 1 PO given,No,10,655,"1630 ""better""",6/11/2005,16:30
+71,992,C3A,6/12/2005,11:00,"muscle soreness ""all over"" worse in bilateral calves",assessed,Motrin 400mg tab given heating pad applied,No,11,655,"""much better""",6/12/2005,13:30
+72,992,C3A,6/14/2005,13:30,menses cramping,assessed,"Motrin 400mg given, heating pad to abd",No,13,655,Not reported,Not reported,Not reported

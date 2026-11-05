@@ -1,0 +1,73 @@
+variable,fase,n,media,de,p5,p95
+pulso_lpm,pre,394,69.26,12.23,51.0,91.0
+pulso_lpm,mision,2176,70.62,11.91,52.75,92.0
+pulso_lpm,post,359,76.05,14.26,55.0,101.1
+pas_mmhg,pre,395,116.01,10.35,100.0,134.0
+pas_mmhg,mision,2184,116.16,10.86,99.0,135.0
+pas_mmhg,post,359,114.99,12.33,98.0,136.0
+pad_mmhg,pre,395,70.05,9.61,55.0,85.0
+pad_mmhg,mision,2184,71.43,8.72,57.0,86.0
+pad_mmhg,post,359,69.16,9.7,54.0,86.0
+resp_rpm,pre,394,16.91,1.48,16.0,20.0
+resp_rpm,mision,2179,16.93,1.63,14.0,20.0
+resp_rpm,post,358,16.99,1.71,14.0,20.0
+temp_c,pre,369,36.5,0.4,35.8,37.1
+temp_c,mision,2078,36.53,0.37,35.9,37.1
+temp_c,post,350,36.49,0.41,35.9,37.1
+peso_kg,pre,377,74.96,14.6,49.14,93.69
+peso_kg,mision,2161,73.99,14.99,48.53,93.95
+peso_kg,post,357,73.2,14.08,49.98,94.85
+sueno_h,mision,167,7.2,0.53,6.07,7.7
+sueno_h,post,21,7.4,0.4,6.67,7.97
+sueno_eficiencia_pct,mision,167,81.65,8.47,66.07,93.3
+sueno_eficiencia_pct,post,21,83.26,5.79,73.8,90.4
+sueno_latencia_min,mision,167,42.75,31.86,12.0,110.4
+sueno_latencia_min,post,21,32.57,24.25,0.0,78.0
+cog_memoria_trabajo_ms,pre,161,523.56,117.0,354.0,730.0
+cog_memoria_trabajo_ms,mision,100,492.75,83.41,348.0,615.25
+cog_memoria_trabajo_ms,post,41,475.45,84.99,334.0,605.0
+cog_memoria_trabajo_precision_pct,pre,161,88.41,12.13,61.01,98.11
+cog_memoria_trabajo_precision_pct,mision,100,92.1,7.54,74.18,99.37
+cog_memoria_trabajo_precision_pct,post,41,92.14,5.62,81.76,98.74
+cog_matematica_ms,pre,161,2190.25,625.51,1335.0,3394.0
+cog_matematica_ms,mision,100,2068.97,568.45,1190.38,3049.25
+cog_matematica_ms,post,41,1953.39,494.64,1164.0,2723.0
+cog_emparejamiento_ms,pre,161,1592.63,549.2,772.0,2573.0
+cog_emparejamiento_ms,mision,100,1521.28,502.31,753.7,2387.15
+cog_emparejamiento_ms,post,41,1534.3,460.72,884.0,2392.0
+cog_codigo_diferido_ms,pre,161,1264.38,455.49,705.0,2007.5
+cog_codigo_diferido_ms,mision,100,1119.61,363.62,685.05,1767.0
+cog_codigo_diferido_ms,post,41,1030.17,282.54,740.0,1597.0
+tilt_aumento_pulso_lpm,pre,26,34.07,10.16,19.25,54.65
+tilt_aumento_pulso_lpm,mision,11,56.89,12.58,35.15,69.5
+tilt_aumento_pulso_lpm,post,41,43.83,16.93,25.4,68.4
+tilt_minutos_inclinado_con_dato,pre,26,22.46,8.61,7.5,30.0
+tilt_minutos_inclinado_con_dato,mision,11,15.45,9.77,4.0,29.5
+tilt_minutos_inclinado_con_dato,post,41,20.07,10.11,4.0,30.0
+lab:glucosa (mg/dl),pre,31,81.39,6.92,70.0,91.0
+lab:glucosa (mg/dl),mision,44,81.25,6.57,71.15,89.0
+lab:glucosa (mg/dl),post,42,82.86,8.0,66.1,91.0
+lab:hemoglobina (g/dl),pre,31,14.64,1.45,12.6,16.9
+lab:hemoglobina (g/dl),mision,44,14.94,1.76,12.13,17.67
+lab:hemoglobina (g/dl),post,41,14.28,1.85,12.0,16.9
+lab:leucocitos (10^3/ul),pre,31,6.25,1.51,4.05,8.1
+lab:leucocitos (10^3/ul),mision,44,6.48,2.17,3.81,11.07
+lab:leucocitos (10^3/ul),post,42,6.75,2.05,3.81,9.9
+lab:calcio (mg/dl),pre,31,9.25,0.39,8.5,9.8
+lab:calcio (mg/dl),mision,44,9.3,0.37,8.71,9.89
+lab:calcio (mg/dl),post,42,9.24,0.39,8.61,9.89
+lab:potasio (mmol/l),pre,30,4.04,0.22,3.7,4.35
+lab:potasio (mmol/l),mision,42,4.12,0.22,3.8,4.5
+lab:potasio (mmol/l),post,40,3.95,0.24,3.6,4.3
+lab:sodio (mmol/l),pre,31,139.32,2.02,136.0,142.0
+lab:sodio (mmol/l),mision,44,139.45,1.41,137.0,141.85
+lab:sodio (mmol/l),post,42,140.21,1.39,138.0,142.0
+lab:creatinina (mg/dl),pre,31,0.95,0.17,0.7,1.22
+lab:creatinina (mg/dl),mision,44,0.95,0.22,0.63,1.31
+lab:creatinina (mg/dl),post,42,0.9,0.21,0.6,1.2
+lab:albumina (g/dl),pre,31,4.41,0.33,3.85,4.95
+lab:albumina (g/dl),mision,44,4.27,0.28,3.8,4.69
+lab:albumina (g/dl),post,39,4.23,0.28,3.89,4.8
+lab:pcr (mg/dl),pre,30,0.41,0.67,0.02,1.84
+lab:pcr (mg/dl),mision,43,0.76,2.26,0.02,2.33
+lab:pcr (mg/dl),post,40,0.55,0.9,0.03,1.65

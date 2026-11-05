@@ -1,0 +1,825 @@
+{
+  "titulo": "Base de conocimiento HRP de la NASA (riesgos a la salud humana en vuelo)",
+  "fuente": "Páginas públicas del Human Research Program de la NASA (dominio público de EE. UU.), extraídas el 2026-11-05",
+  "nota": "Los peligros relacionados son asignación propia a partir del texto de cada página, no una lista oficial. Los indicadores marcados con inferido:true no aparecen en la página y son sugerencias estándar. El contenido de nav/pie de página se descartó. Algunas URL de evidencia aparecen en varias páginas (son enlaces que la página enlaza). Verificado el 2026-11-05 contra las páginas de NASA: las citas de riesgos y peligros son literales; los indicadores inferido:true son sugerencias estándar, salvo los revisados en la verificación (inferido:false en R11 y R10 'Fondo de ojo'; inferido:true en R17 'Dosimetría').",
+  "peligros_contexto": [
+    {
+      "peligro": "Radiación espacial",
+      "url": "https://www.nasa.gov/hrp/hazard-space-radiation/",
+      "descripcion_es": "La radiación ionizante de rayos cósmicos galácticos y tormentas solares es invisible y una de las amenazas más graves del vuelo espacial. Aumenta el riesgo de cáncer y daña el sistema nervioso central.",
+      "cifras": []
+    },
+    {
+      "peligro": "Aislamiento y confinamiento",
+      "url": "https://www.nasa.gov/hrp/hazard-isolation-and-confinement/",
+      "descripcion_es": "Las tripulaciones aisladas y confinadas largo tiempo pueden tener respuestas conductuales. La privación de sueño, la desincronización circadiana y la sobrecarga de trabajo agravan el problema.",
+      "cifras": [
+        {
+          "valor": "650 pies² (unos 60 m²), habitat HERA",
+          "contexto": "Hábitat análogo HERA con dos plantas y altillo",
+          "cita_textual": "650-square-foot habitat split among two floors and a loft"
+        },
+        {
+          "valor": "45 días por estancia (HERA)",
+          "contexto": "Tiempo que viven los voluntarios dentro del hábitat HERA",
+          "cita_textual": "Crews of volunteers live inside this habitat for 45 days at a time"
+        },
+        {
+          "valor": "1.700 pies² (unos 158 m²), hábitat CHAPEA (Mars Dune Alpha)",
+          "contexto": "Hábitat aislado de la misión análoga a Marte",
+          "cita_textual": "an isolated 1,700-square-foot habitat"
+        },
+        {
+          "valor": "4 tripulantes (CHAPEA)",
+          "contexto": "Tripulación de cada misión CHAPEA",
+          "cita_textual": "Each mission will consist of four crew members"
+        },
+        {
+          "valor": "Un año (estancias CHAPEA)",
+          "contexto": "Duración de las estancias en la misión análoga a Marte",
+          "cita_textual": "simulate year-long stays on the surface of Mars"
+        }
+      ]
+    },
+    {
+      "peligro": "Distancia a la Tierra",
+      "url": "https://www.nasa.gov/hrp/hazard-distance-from-earth/",
+      "descripcion_es": "Recibir instrucciones, suministros y atención médica desde la Tierra es más difícil a medida que aumenta la distancia.",
+      "cifras": [
+        {
+          "valor": "Unos 140 millones de millas",
+          "contexto": "Distancia media entre la Tierra y Marte",
+          "cita_textual": "Mars is, on average, 140 million miles from Earth."
+        },
+        {
+          "valor": "Hasta 20 minutos de retraso de comunicación en un sentido",
+          "contexto": "Retraso de comunicación con la Tierra en misiones a Marte",
+          "cita_textual": "Facing a communication delay of up to 20 minutes one way"
+        },
+        {
+          "valor": "Unos tres años",
+          "contexto": "Tiempo fuera del planeta en una misión a Marte",
+          "cita_textual": "leaving our planet for roughly three years"
+        }
+      ]
+    },
+    {
+      "peligro": "Campos gravitatorios",
+      "url": "https://www.nasa.gov/hrp/hazard-gravity-fields/",
+      "descripcion_es": "Cambiar entre gravedad cero, aproximadamente un tercio de la gravedad terrestre (según NASA; el valor físico de la gravedad en Marte es ≈0,38 g) y la gravedad de la Tierra afecta la orientación, la coordinación, el equilibrio y los huesos.",
+      "cifras": [
+        {
+          "valor": "1 % a 1,5 % al mes",
+          "contexto": "Pérdida de densidad mineral ósea en huesos que soportan peso durante el vuelo",
+          "cita_textual": "weight-bearing bones lose on average 1% to 1.5% of mineral density per month during spaceflight"
+        },
+        {
+          "valor": "Aproximadamente un tercio de la gravedad terrestre (según NASA)",
+          "contexto": "Gravedad en Marte. Valor físico ≈0,38 g (≈3/8 de la gravedad terrestre), no exactamente 1/3",
+          "cita_textual": "crews will be in approximately one-third of Earth’s gravity"
+        }
+      ]
+    },
+    {
+      "peligro": "Entornos hostiles/cerrados",
+      "url": "https://www.nasa.gov/hrp/hazard-hostile-closed-environments/",
+      "descripcion_es": "Mantener un ecosistema seguro en la nave implica temperatura, presión, iluminación, ruido y microbiota, con efectos en el sistema inmune.",
+      "cifras": [
+        {
+          "valor": "650 pies² (unos 60 m²), habitat HERA",
+          "contexto": "Hábitat análogo HERA con dos plantas y altillo",
+          "cita_textual": "650-square-foot habitat split among two floors and a loft"
+        }
+      ]
+    }
+  ],
+  "riesgos": [
+    {
+      "id": "HRP-R01",
+      "nombre_es": "Riesgo de respuestas alteradas del sistema inmunológico",
+      "nombre_en": "Risk of Altered Immune System Responses",
+      "url": "https://www.nasa.gov/reference/risk-of-altered-immune-system-responses/",
+      "peligros_relacionados": [
+        "Radiación espacial",
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Inmunológico",
+      "descripcion_es": "La radiación, la microgravedad, el sueño deficiente y otros factores del vuelo pueden alterar el sistema inmune de los astronautas. Pueden provocar reacciones alérgicas o reactivar virus latentes (herpes labial, herpes zóster). Estos cambios podrían aumentar la incidencia de infecciones o alergias.",
+      "efectos_salud": [
+        "Reactivación de virus latentes (p. ej., herpes labial, herpes zóster)",
+        "Reacciones alérgicas",
+        "Mayor susceptibilidad a infecciones",
+        "Erupciones cutáneas y otras reacciones inmunes atípicas",
+        "Impactos en misión y efectos adversos de salud a largo plazo"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Muestras biológicas en vuelo de sangre, saliva y orina para seguir los cambios del sistema inmune",
+          "inferido": false
+        },
+        {
+          "indicador": "Carga de virus latentes en sangre o saliva",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Monitorización de muestras biológicas en vuelo y devueltas a la Tierra"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=85",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R02",
+      "nombre_es": "Riesgo de función sensoriomotora y vestibular alterada",
+      "nombre_en": "Risk of Altered Sensorimotor and Vestibular Function",
+      "url": "https://www.nasa.gov/reference/risk-of-altered-sensorimotor-and-vestibular-function/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Vestibular / sensoriomotor",
+      "descripcion_es": "El cambio entre distintos campos gravitatorios puede provocar mareo por movimiento y desorientación espacial. Estos problemas son especialmente preocupantes porque un tripulante enfermo puede tener dificultades con las tareas de la misión o los controles del vehículo. La mayoría de los astronautas sufre mareo durante el vuelo espacial.",
+      "efectos_salud": [
+        "Mareo por movimiento (mal de espacio)",
+        "Desorientación espacial",
+        "Dificultad de coordinación ojo-cabeza y mano-ojo",
+        "Alteración del equilibrio y la locomoción tras el aterrizaje",
+        "Mareo y aturdimiento al readaptarse a la gravedad"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Encuestas de síntomas de mareo y uso de medicación antimareo",
+          "inferido": false
+        },
+        {
+          "indicador": "Pruebas de coordinación ojo-mano y de equilibrio",
+          "inferido": true
+        },
+        {
+          "indicador": "Medición de la orientación espacial tras el aterrizaje",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Medicación antimareo combinada con entrenamiento y ayudas de orientación",
+        "Pruebas con la Marina de EE. UU. sobre movimientos de cabeza para aliviar el mareo al salir de un simulador de vuelo"
+      ],
+      "cifras": [
+        {
+          "valor": "La mayoría de los astronautas",
+          "contexto": "Mareo durante el vuelo espacial",
+          "cita_textual": "The majority of astronauts experience motion sickness during spaceflight."
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=88",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R03",
+      "nombre_es": "Riesgo de adaptaciones cardiovasculares",
+      "nombre_en": "Risk of Cardiovascular Adaptations",
+      "url": "https://www.nasa.gov/reference/risk-of-cardiovascular-adaptations/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Cardiovascular",
+      "descripcion_es": "La gravedad baja y otros factores del vuelo pueden alterar el corazón y los vasos sanguíneos. Esto puede derivar en coágulos, arritmias, enfermedad cardiovascular e hipotensión, que aumenta el riesgo de desmayo al aterrizar. El riesgo crece con misiones de larga duración como un viaje de varios años a Marte.",
+      "efectos_salud": [
+        "Coágulos sanguíneos",
+        "Arritmias cardíacas",
+        "Enfermedad cardiovascular",
+        "Hipotensión y desmayo al aterrizar",
+        "Cambio de forma del corazón (más esférico)"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Presión arterial, incluida la respuesta ortostática",
+          "inferido": true
+        },
+        {
+          "indicador": "Frecuencia cardíaca y electrocardiograma",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Ejercicio regular y dieta saludable",
+        "Prendas de compresión de miembros inferiores",
+        "Hidratación abundante antes del aterrizaje",
+        "Entrenamiento mejorado para emergencias cardiovasculares en misiones a Marte"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/evidence/reports/Cardio%20Risk%20EB%202022%20FINAL_4-3-2023.pdf?rnd=0.824337259784498",
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=179",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R04",
+      "nombre_es": "Riesgo de enfermedad por descompresión",
+      "nombre_en": "Risk of Decompression Sickness",
+      "url": "https://www.nasa.gov/reference/risk-of-decompression-sickness/",
+      "peligros_relacionados": [
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Respiratorio / circulatorio (burbujas de nitrógeno)",
+      "descripcion_es": "Al pasar de la presión de la nave a la presión menor del traje en caminatas espaciales, el nitrógeno disuelto en la sangre puede formar burbujas que dañan los tejidos. En casos graves pueden afectar la respiración o bloquear vasos sanguíneos, con síntomas similares a un ictus. Es un riesgo de salud y operacional, dado que las EVA son de las actividades más arriesgadas.",
+      "efectos_salud": [
+        "Dolor intenso por burbujas de nitrógeno ('the bends')",
+        "Afectación respiratoria en casos graves",
+        "Bloqueo de vasos sanguíneos con síntomas tipo ictus"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Síntomas de dolor articular o muscular durante o después de la EVA",
+          "inferido": true
+        },
+        {
+          "indicador": "Signos neurológicos y respiratorios tras la EVA",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Entrenamiento en ambientes de alta y baja presión antes de la misión",
+        "Protocolos de prebreathe con oxígeno para desplazar el nitrógeno",
+        "Trajes de presión variable en desarrollo",
+        "Naves para espacio profundo diseñadas a menor presión para reducir cambios de presión",
+        "Finalizar la EVA y volver a la nave si aparecen síntomas"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R05",
+      "nombre_es": "Riesgo de interacciones con microorganismos del huésped",
+      "nombre_en": "Risk of Host-Microorganism Interactions",
+      "url": "https://www.nasa.gov/reference/risk-of-host-microorganism-interactions/",
+      "peligros_relacionados": [
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Inmunológico / microbiota",
+      "descripcion_es": "En el espacio cambia la comunidad de microbios de la piel y el intestino de los astronautas, aunque aún no se sabe cómo afecta a la probabilidad de enfermar. Algunos microbios resultan más virulentos en vuelo, lo que podría elevar el riesgo de infección. Los microbios se transmiten con más facilidad entre personas en hábitats cerrados.",
+      "efectos_salud": [
+        "Alteración de la microbiota de piel e intestino",
+        "Microbios más virulentos en vuelo",
+        "Mayor riesgo de infecciones",
+        "Transmisión más fácil de microorganismos entre tripulantes"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Muestras biológicas y frotis de superficies de la estación para seguir cambios microbianos",
+          "inferido": false
+        },
+        {
+          "indicador": "Análisis de microbioma intestinal y cutáneo",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Limitar la exposición de la tripulación a grandes grupos en las dos semanas previas al lanzamiento",
+        "Evaluación de desinfectantes y otras intervenciones (en investigación)"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=80",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R06",
+      "nombre_es": "Riesgo de hipoxia",
+      "nombre_en": "Risk of Hypoxia",
+      "url": "https://www.nasa.gov/reference/risk-of-hypoxia/",
+      "peligros_relacionados": [
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Respiratorio / cardiovascular",
+      "descripcion_es": "Las futuras misiones tendrán cabinas con despresurización parcial constante para reducir el oxígeno puro necesario en las EVA. Esto aumenta el riesgo de hipoxia leve, en la que los tejidos reciben menos oxígeno de lo normal. La NASA considera que el riesgo es relativamente bajo, pero es un estresor adicional que hay que vigilar.",
+      "efectos_salud": [
+        "Confusión",
+        "Cefalea",
+        "Alteración visual",
+        "Dificultad para dormir"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Saturación de oxígeno en sangre (SpO2)",
+          "inferido": true
+        },
+        {
+          "indicador": "Presión parcial de oxígeno y presión de cabina (parámetro ambiental)",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Protocolos que equilibran concentración y presión de oxígeno antes y durante EVA",
+        "Trajes con presión ajustable por el tripulante (en investigación)",
+        "Protocolos de monitorización de salud y tratamiento para la adaptación a la despresurización parcial"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R07",
+      "nombre_es": "Riesgo de alimentación y nutrición inadecuadas",
+      "nombre_en": "Risk of Inadequate Food and Nutrition",
+      "url": "https://www.nasa.gov/reference/risk-of-inadequate-food-and-nutrition/",
+      "peligros_relacionados": [
+        "Distancia a la Tierra",
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Metabólico / nutricional",
+      "descripcion_es": "Mantener cuerpo y mente sanos requiere una nutrición adecuada, pero los menús para misiones largas deben ser aceptables, seguros, nutritivos, duraderos y variados. La NASA ha reducido el sodio y ampliado la variedad, y prepara sistemas de alimentos para Marte con mayor valor nutricional. Los tripulantes evalúan y seleccionan sus alimentos antes de la misión.",
+      "efectos_salud": [
+        "Fatiga de menú",
+        "Impacto en la salud física y mental"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Peso corporal e índice de masa corporal",
+          "inferido": true
+        },
+        {
+          "indicador": "Ingesta calórica y de nutrientes",
+          "inferido": true
+        },
+        {
+          "indicador": "Niveles de vitaminas y minerales en sangre",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Reducción del sodio y adición de alimentos nuevos",
+        "Dietas mejoradas para aumentar el valor nutricional",
+        "Diseño de un sistema de alimentos para misiones a Marte",
+        "Selección previa de alimentos por parte de los tripulantes"
+      ],
+      "cifras": [
+        {
+          "valor": "Más de 200 alimentos y bebidas",
+          "contexto": "Disponibles a bordo de la ISS",
+          "cita_textual": "More than 200 foods and beverages are available aboard the space station."
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Evidence/other/Nutrition%20ER_human_adaptation_2020_final.pdf",
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=176",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R08",
+      "nombre_es": "Riesgo de lesión y rendimiento comprometido por actividad extravehicular (EVA)",
+      "nombre_en": "Risk of Injury and Compromised Performance from Spacewalks",
+      "url": "https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/",
+      "peligros_relacionados": [
+        "Entornos hostiles/cerrados",
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Musculoesquelético / respiratorio",
+      "descripcion_es": "Las caminatas espaciales reales o simuladas pueden comprometer el rendimiento o causar lesiones al tripulante. Las presiones y los niveles de oxígeno del hábitat y del traje deben considerarse, ya que el paso entre ambos puede provocar enfermedad por descompresión. Los trajes se rediseñan para ser duraderos y seguros, con destreza y monitorización biomédica.",
+      "efectos_salud": [
+        "Lesiones durante la EVA",
+        "Enfermedad por descompresión al pasar al traje",
+        "Carga física y mental de la actividad",
+        "Peso del traje en misiones de superficie"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Monitorización biomédica integrada en el traje",
+          "inferido": false
+        },
+        {
+          "indicador": "Frecuencia cardíaca y consumo de oxígeno durante la EVA",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Protocolos de prebreathe",
+        "Rediseño de trajes con monitorización biomédica",
+        "Ejercicio para mantener fuerza ósea y muscular"
+      ],
+      "cifras": [
+        {
+          "valor": "8 horas y 56 minutos",
+          "contexto": "Récord de la caminata espacial más larga (James Voss y Susan Helms, 12 de marzo de 2001)",
+          "cita_textual": "It lasted 8 hours and 56 minutes."
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=84",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R09",
+      "nombre_es": "Riesgo de reducción de la aptitud cardiorrespiratoria y musculoesquelética",
+      "nombre_en": "Risk of Reduced Cardiorespiratory and Musculoskeletal Fitness",
+      "url": "https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Cardiorrespiratorio / musculoesquelético",
+      "descripcion_es": "La vida en microgravedad debilita huesos, músculos y sistema cardiopulmonar, lo que dificulta las tareas críticas y aumenta el riesgo de caídas y lesiones, especialmente al volver a la gravedad. Los efectos varían entre astronautas. En la ISS se mantiene la forma física con entrenamiento de resistencia y aeróbico 6 a 7 días por semana.",
+      "efectos_salud": [
+        "Pérdida de fuerza muscular",
+        "Pérdida de capacidad aeróbica",
+        "Debilitamiento óseo",
+        "Mayor riesgo de caídas y tropiezos",
+        "Dificultad para tareas críticas de la misión"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Autoevaluaciones periódicas de forma física (fitness)",
+          "inferido": false
+        },
+        {
+          "indicador": "Consumo máximo de oxígeno (VO2 máx.)",
+          "inferido": true
+        },
+        {
+          "indicador": "Fuerza muscular",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Entrenamiento de resistencia y aeróbico de 1,5 horas diarias, 6 a 7 días por semana en la ISS"
+      ],
+      "cifras": [
+        {
+          "valor": "1,5 horas por día",
+          "contexto": "Entrenamiento de resistencia y aeróbico en la ISS",
+          "cita_textual": "Six to seven days a week, astronauts on the International Space Station perform resistance training and aerobic exercises for 1.5 hours per day"
+        },
+        {
+          "valor": "10-12%",
+          "contexto": "Pérdida media de fuerza y aptitud aeróbica respecto a niveles previos a la misión",
+          "cita_textual": "average losses to strength and aerobic fitness are 10-12% of pre-mission levels"
+        },
+        {
+          "valor": "12-38% de la tripulación",
+          "contexto": "Pierden más del 20% de su aptitud previa a la misión (según la medición)",
+          "cita_textual": "between 12-38% of space station crew members lose more than 20% of their pre-mission fitness"
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=180",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R10",
+      "nombre_es": "Riesgo de síndrome neuroocular asociado al vuelo espacial (SANS)",
+      "nombre_en": "Risk of Spaceflight Associated Neuro-ocular Syndrome (SANS)",
+      "url": "https://www.nasa.gov/reference/risk-of-spaceflight-associated-neuro-ocular-syndrome-sans/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Ocular / neurológico",
+      "descripcion_es": "La ausencia prolongada de gravedad desplaza fluidos corporales, como sangre y líquido cefalorraquídeo, hacia la cabeza. Esto puede causar inflamación del nervio óptico, pliegues en la retina, aplanamiento de la parte posterior del ojo e inflamación cerebral, conjunto conocido como SANS. Unos 70 % de los astronautas de la ISS presenta cierta inflamación en la parte posterior del ojo.",
+      "efectos_salud": [
+        "Inflamación del nervio óptico",
+        "Pliegues en la retina",
+        "Aplanamiento de la parte posterior del globo ocular",
+        "Inflamación cerebral"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Tomografía de coherencia óptica (OCT) de retina y nervio óptico",
+          "inferido": true
+        },
+        {
+          "indicador": "Fondo de ojo (examen de la retina con fundoscopio)",
+          "inferido": false
+        },
+        {
+          "indicador": "Agudeza visual",
+          "inferido": true
+        },
+        {
+          "indicador": "Presión intracraneal o del líquido cefalorraquídeo",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Suplementos nutricionales para proteger los ojos (en investigación)",
+        "Intervenciones mecánicas para revertir el desplazamiento de fluidos hacia la cabeza",
+        "Estudios en tierra que replican los cambios fisiológicos"
+      ],
+      "cifras": [
+        {
+          "valor": "Aproximadamente 70 %",
+          "contexto": "Astronautas de la ISS con cierta inflamación en la parte posterior del ojo",
+          "cita_textual": "Approximately 70 percent of astronauts aboard the International Space Station experience some swelling in the back of their eyes."
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=105",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R11",
+      "nombre_es": "Riesgo de cambios óseos inducidos por el vuelo espacial",
+      "nombre_en": "Risk of Spaceflight-Induced Bone Changes",
+      "url": "https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Musculoesquelético (óseo)",
+      "descripcion_es": "Sin la carga de la gravedad, los huesos que soportan peso pierden densidad mes a mes, lo que aumenta la susceptibilidad a fracturas. La columna se alarga y la estatura puede aumentar hasta un 3 % en el espacio. Se hacen escáneres óseos antes y después del vuelo para seguir los cambios.",
+      "efectos_salud": [
+        "Pérdida de densidad ósea",
+        "Mayor riesgo de fractura",
+        "Alargamiento y enderezamiento de la columna",
+        "Aumento de estatura en el espacio"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Densidad ósea mediante escaneos antes y después del vuelo",
+          "inferido": false
+        },
+        {
+          "indicador": "Densidad mineral ósea por DXA (método de ejemplo)",
+          "inferido": true
+        },
+        {
+          "indicador": "Estatura y longitud de la columna",
+          "inferido": false
+        }
+      ],
+      "contramedidas": [
+        "Ejercicio para reducir la pérdida ósea y fortalecer la fuerza muscular",
+        "Escaneos óseos rutinarios antes y después del vuelo",
+        "Medicamentos tipo bisfosfonato (estudios de la NASA sugieren que mitigan parte de la pérdida ósea)"
+      ],
+      "cifras": [
+        {
+          "valor": "1 % a 1,5 % al mes",
+          "contexto": "Pérdida media de densidad de los huesos que soportan peso durante misiones de 4 a 6 meses",
+          "cita_textual": "on average, bones lose between 1% and 1.5% of their density each month during four-to-six-month missions"
+        },
+        {
+          "valor": "Hasta 3 %",
+          "contexto": "Aumento de estatura de la tripulación en el espacio",
+          "cita_textual": "the height of crew members can increase as much as 3% in space."
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=77",
+        "https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-030-bone-loss.pdf?emrc=705e1b",
+        "https://www.nasa.gov/wp-content/uploads/2018/05/whatisyourspaceheight.pdf?emrc=87cc88",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R12",
+      "nombre_es": "Riesgo de condiciones conductuales y trastornos psiquiátricos",
+      "nombre_en": "Risk of Behavioral Changes and Psychiatric Disorders",
+      "url": "https://www.nasa.gov/reference/risk-of-behavioral-conditions-and-psychiatric-disorders/",
+      "peligros_relacionados": [
+        "Aislamiento y confinamiento",
+        "Distancia a la Tierra"
+      ],
+      "sistema_corporal": "Neurológico / psicológico",
+      "descripcion_es": "El aislamiento y el confinamiento prolongados pueden aumentar el riesgo de problemas conductuales y trastornos como ansiedad y depresión. Estos factores afectan al sueño, la moral y la toma de decisiones. Las misiones de años exigirán diseñar espacios que respeten la privacidad y el bienestar psicológico.",
+      "efectos_salud": [
+        "Ansiedad",
+        "Depresión",
+        "Alteración del sueño",
+        "Pérdida de moral",
+        "Afectación de la toma de decisiones"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Cuestionarios de ansiedad, depresión y estado de ánimo",
+          "inferido": true
+        },
+        {
+          "indicador": "Calidad y cantidad de sueño",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Autocuidado como llevar un diario",
+        "Cultivo de vegetales frescos a bordo (investigado como apoyo al bienestar)",
+        "Ventanas que reducen la monotonía y la sensación de confinamiento",
+        "Diseño que garantice la privacidad de la tripulación"
+      ],
+      "cifras": [
+        {
+          "valor": "Tamaño aproximado de un apartamento tipo estudio, durante varios años",
+          "contexto": "Confinamiento de la tripulación en misiones de espacio profundo",
+          "cita_textual": "Future deep space exploration will require crews to live together in a confined environment roughly the size of a studio apartment for multiple years"
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=99",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R13",
+      "nombre_es": "Riesgo de trabajo en equipo inadecuado",
+      "nombre_en": "Risk of Inadequate Teamwork",
+      "url": "https://www.nasa.gov/reference/risk-of-inadequate-teamwork/",
+      "peligros_relacionados": [
+        "Aislamiento y confinamiento",
+        "Distancia a la Tierra"
+      ],
+      "sistema_corporal": "Psicosocial (no es un sistema corporal)",
+      "descripcion_es": "Seleccionar un equipo que trabaje bien es prioritario, pero en misiones a Marte aparecen retos como retrasos de comunicación, aislamiento y restricciones de recursos. Los astronautas practican habilidades de trabajo en equipo antes de la misión. Las simulaciones en tierra estudian la convivencia en condiciones similares a las de Marte.",
+      "efectos_salud": [
+        "Tensiones interpersonales",
+        "Problemas de coordinación, cooperación y comunicación",
+        "Dificultades de comunicación por retrasos",
+        "Menor rendimiento colectivo"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Encuestas de cohesión y dinámica de equipo",
+          "inferido": true
+        },
+        {
+          "indicador": "Métricas de comunicación y resolución de problemas en simulación",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Selección de equipos y entrenamiento previo en habilidades de equipo",
+        "Apoyo médico durante la misión",
+        "Simulaciones terrestres de convivencia tipo Marte"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=101",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R14",
+      "nombre_es": "Riesgo de sueño inadecuado y horarios irregulares",
+      "nombre_en": "Risk from Inadequate Sleep and Irregular Schedules",
+      "url": "https://www.nasa.gov/reference/risk-from-inadequate-sleep-and-irregular-schedules/",
+      "peligros_relacionados": [
+        "Aislamiento y confinamiento",
+        "Entornos hostiles/cerrados"
+      ],
+      "sistema_corporal": "Sueño / ritmos circadianos",
+      "descripcion_es": "Los astronautas sufren sobrecarga de trabajo, ciclos de luz y oscuridad irregulares y alteraciones del sueño. Estos factores afectan la salud a corto y largo plazo y el éxito de la misión. En la ISS se usan LEDs que simulan el ciclo día-noche para mejorar el sueño.",
+      "efectos_salud": [
+        "Alteración del sueño",
+        "Desincronización circadiana",
+        "Efectos en salud a corto y largo plazo",
+        "Reducción del rendimiento"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Actigrafía y patrones de sueño-vigilia",
+          "inferido": true
+        },
+        {
+          "indicador": "Marcadores circadianos como melatonina o cortisol",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Iluminación LED que simula el ciclo día-noche",
+        "Investigación sobre el efecto de la luz y la cafeína en los relojes biológicos",
+        "Tiempos designados para relajación y autocuidado"
+      ],
+      "cifras": [
+        {
+          "valor": "16 amaneceres y atardeceres por día",
+          "contexto": "Experimentados por la tripulación en la ISS",
+          "cita_textual": "Astronauts witness 16 sunrises and sunsets per day aboard the space station"
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=100",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R15",
+      "nombre_es": "Riesgo de apoyo inadecuado para operaciones de sistemas",
+      "nombre_en": "Risk of Inadequate Systems Operations Support",
+      "url": "https://www.nasa.gov/reference/risk-of-inadequate-systems-operations-support/",
+      "peligros_relacionados": [
+        "Distancia a la Tierra"
+      ],
+      "sistema_corporal": "No aplica (riesgo operacional humano-sistema)",
+      "descripcion_es": "La tripulación aprende a operar los sistemas de la ISS, pero necesita asistencia en tiempo real cuando surgen problemas. En misiones más largas y lejanas, el apoyo desde tierra será limitado. Se diseñan sistemas más intuitivos y se entrena con simulaciones antes del lanzamiento.",
+      "efectos_salud": [
+        "Dependencia de soporte en tiempo real",
+        "Dificultad para operar sistemas en emergencias"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Tiempo de ejecución de procedimientos y errores en simulación",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Entrenamiento en simuladores antes del lanzamiento",
+        "Diseño de sistemas fáciles de usar para trabajo autónomo"
+      ],
+      "cifras": [
+        {
+          "valor": "300 horas",
+          "contexto": "Promedio de entrenamiento en simuladores antes del lanzamiento",
+          "cita_textual": "NASA astronauts train, on average, 300 hours in simulators before launch"
+        }
+      ],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=175",
+        "https://www.nasa.gov/wp-content/uploads/2015/10/160410main_space_training_fact_sheet.pdf?emrc=6cb004",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R16",
+      "nombre_es": "Riesgo de lesión por cargas dinámicas",
+      "nombre_en": "Risk of Injury from Dynamic Loads",
+      "url": "https://www.nasa.gov/reference/risk-of-injury-from-dynamic-loads/",
+      "peligros_relacionados": [
+        "Campos gravitatorios"
+      ],
+      "sistema_corporal": "Musculoesquelético / vestibular",
+      "descripcion_es": "Al regresar a la Tierra, las transiciones de gravedad, la posible desorientación y la pérdida ósea pueden aumentar el riesgo de lesión durante el aterrizaje, lo que afectaría a la tripulación. La NASA desarrolla modelos del cuerpo humano para fijar estándares de diseño de vehículos. En la Luna y Marte, donde habrá gravedad variable, la tripulación deberá salir del vehículo por sí misma.",
+      "efectos_salud": [
+        "Lesiones durante el aterrizaje",
+        "Desorientación al regresar a la gravedad",
+        "Dificultad para salir del vehículo por sí mismo en Luna o Marte"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Pruebas de equilibrio y estabilidad postvuelo",
+          "inferido": true
+        },
+        {
+          "indicador": "Fuerza de piernas y tiempo de recuperación postvuelo",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Modelos del cuerpo humano para estándares de diseño de vehículos",
+        "Equipos de apoyo en espera durante el aterrizaje"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=167",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    },
+    {
+      "id": "HRP-R17",
+      "nombre_es": "Riesgo de cánceres inducidos por radiación",
+      "nombre_en": "Risk of Radiation-Induced Cancers",
+      "url": "https://www.nasa.gov/reference/risk-of-radiation-induced-cancers/",
+      "peligros_relacionados": [
+        "Radiación espacial"
+      ],
+      "sistema_corporal": "Multisistémico (tejidos)",
+      "descripcion_es": "Los astronautas reciben más radiación en el espacio que en la Tierra, lo que puede provocar ciertos cánceres. La exposición también puede aumentar el riesgo de otros trastornos degenerativos que afectan a varios tejidos. La NASA desarrolla estrategias de vigilancia sanitaria y medicamentos contra los efectos de la radiación.",
+      "efectos_salud": [
+        "Mayor riesgo de cánceres específicos",
+        "Trastornos degenerativos en múltiples tejidos",
+        "Efectos sobre el sistema nervioso central (de la página de peligro de radiación)"
+      ],
+      "indicadores_medibles_en_vuelo": [
+        {
+          "indicador": "Dosimetría personal de radiación de la tripulación (monitorización rutinaria)",
+          "inferido": true
+        },
+        {
+          "indicador": "Biomarcadores de daño por radiación",
+          "inferido": true
+        }
+      ],
+      "contramedidas": [
+        "Vigilancia sanitaria con mejores prácticas",
+        "Medicamentos para contrarrestar la radiación durante el vuelo"
+      ],
+      "cifras": [],
+      "enlaces_evidencia": [
+        "https://humanresearchroadmap.nasa.gov/evidence/reports/Degen.pdf?rnd=0.883156046216914",
+        "https://humanresearchroadmap.nasa.gov/Risks/risk.aspx?i=96",
+        "https://humanresearchroadmap.nasa.gov/evidence/"
+      ]
+    }
+  ],
+  "verificacion": {
+    "fecha": "2026-11-05",
+    "fuente": "verificacion/07-hrp-base-conocimiento.md",
+    "cambios": 37
+  }
+}

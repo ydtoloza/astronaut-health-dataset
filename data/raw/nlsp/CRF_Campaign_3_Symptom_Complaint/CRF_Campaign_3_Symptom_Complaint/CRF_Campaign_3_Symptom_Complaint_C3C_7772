@@ -1,0 +1,45 @@
+﻿ID,Subject,Date,Campaign,Time,Symptom/Complaint,Action_Taken,Intervention,Result_of_Test?_Y/N,Test_Phase,BR_Day,Protocol,Resolution,Resolution_Date,Resolution_Time
+1,7772,5/22/2006,C3C,Not reported,Muscle bx site pain,Assessed,Ibuprofen 600mg PO given,Yes,IN_TEST,1,655,"Decrease in pain, no pain when not moving leg.  Little soreness with movement.",5/22/2006,13:30
+2,7772,5/26/2006,C3C,8:00,Constipation no BM since 5/21/2006,Obtained order: Lactulose 20g/30cc,Given full dose @ 8:00,Yes,IN_TEST,5,655,No BM by 1800 Colace 100mg given (1) PO @ 1800,5/26/2006,18:00
+3,7772,5/26/2006,C3C,19:40,Headache  after trying to have BM,Heating pad offered,Tylenol,Yes,IN_TEST,5,655,2100 feels much better - headache improved to 1 now,5/26/2006,21:05
+4,7772,5/27/2006,C3C,10:45,Headache,Medication,Tylenol 650mg PO,No,IN_TEST,6,655,Not reported,Not reported,Not reported
+5,7772,5/27/2006,C3C,Not reported,Difficulty passing stool (hard stool),Medication,Lactulose (20g/30ml) 15cc PO,No,IN_TEST,6,655,Subject had BM,5/27/2006,18:00
+6,7772,5/23/2006,C3C,6:05,Discomfort to left leg bx (biopsy) site when subject moves leg.  Pain = 2-3 with movement.,Offered ice after assessment,Ice applied to area,Yes,IN_TEST,2,655,Not reported,Not reported,Not reported
+7,7772,5/27/2006,C3C,18:30,C/o (complaint of) mild headache,Medication,Tylenol 650 mg PO per order,No,IN_TEST,6,655,Feels better almost gone,5/27/2006,20:30
+8,7772,5/28/2006,C3C,19:40,Headache to top & crown of head with movement.  Rates as 4.,Medication,Tylenol 650 mg PO per order,No,IN_TEST,7,655,2100 no further c/o's (complaints),5/28/2006,21:00
+9,7772,5/30/2006,C3C,17:43,Headache from CV testing re to top of head.,Assessed for comfort versus medication,Tylenol 650 mg given PO,Yes,IN_TEST,9,655,Headache relieved,5/30/2006,18:00
+10,7772,5/31/2006,C3C,8:00,Headache frontal sinus,Assessed for comfort measure,Ice pack for headache given,No,IN_TEST,10,655,Headache @ a 3.  Continues ice.,5/31/2006,Not reported
+11,7772,6/3/2006,C3C,10:15,Post biopsy pain left vastus,Assessment,Tylenol 650 mg PO pain 4 (scale 0-10),Yes,IN_TEST,13,Not reported,Not reported,Not reported,Not reported
+12,7772,6/3/2006,C3C,20:00,Subject requested gauze & ace wrap be reapplied to bx (biopsy) site,"Assessment - suture, steri strip intact.  Scant dried blood noted",Bacitracin applied 4x4 & ace wrap applied,Not reported,IN_TEST,13,Not reported,Not reported,Not reported,Not reported
+13,7772,6/6/2006,C3C,11:00,Headache,Medicated,Tylenol 650 mg PO pain 3 of 10,No,IN_TEST,16,No,Zero headache,6/6/2006,12:00
+14,7772,6/7/2006,C3C,7:30,Constipation,Assessed,Lactalose 30cc,No,IN_TEST,17,3C,No results,6/7/2006,14:30
+15,7772,6/11/2006,C3C,16:30,Pounding HA (headache) = 6 on pain scale,Assessment,Acetaminophen 650 mg PO & ice pack,Yes,IN_TEST,21,655,"Decrease @ 17:00, but 6 @ 18:10 - 0",6/11/2006,18:10
+16,7772,6/21/2006,C3C,15:35,Muscle bx site pain with movement of leg,Assessed,Tylenol 650 mg PO given - decline ice pack,Yes,IN_TEST,31,3C,Not reported,Not reported,Not reported
+17,7772,6/24/2006,C3C,13:50,Pounding headache to right frontal region = 3,Assessment; ice pack,Tylenol 650 mg,No,IN_TEST,34,655,States pain decreased to 1,6/24/2006,14:10
+18,7772,7/2/2006,C3C,11:59,Nasal congestion,Assessed,Oxymetazoline 2 puff/nasal,No,IN_TEST,42,655,Still c/o (complaint of) of stuffy nasal feeling,7/2/2006,13:00
+19,7772,7/4/2006,C3C,7:40,Nasal/head congestion,Assessed,Oxymetazoline nasal spray 2 puffs each nostril,No,IN_TEST,44,3C,Voices some relief,7/4/2006,8:30
+20,7772,7/5/2006,C3C,11:50,Nasal/head congestion,Assessed,Tylenol 650 mg PO,No,IN_TEST,45,655,Decrease in headache,7/5/2006,14:00
+21,7772,7/10/2006,C3C,9:05,Dry skin left elbow,Assessed,Aquaphore ointment applied,No,IN_TEST,50,3C,Helped per subject,7/10/2006,9:30
+22,7772,7/15/2006,C3C,20:25,Pain with movement/soreness left leg s/p muscle bx (biopsy),"Physical assessment no hematoma or active bleeding, min swelling",Tylenol 650 mg,Yes,IN_TEST,55,655,Helped pain - numbness area along left thigh laterally from bx (biopsy) to knee,7/16/2006,7:10
+23,7772,7/17/2006,C3C,8:30,C/o (complaint of) numbness at left VL muscle bx (biopsy) sites,Assessed - Dr. Ware will be notified,Continue to monitor,Yes,IN_TEST,57,3C,Numbness continues,7/17/2006,16:00
+24,7772,7/18/2006,C3C,7:45,Numbness at left VL muscle bx sites,Assessed,Continue to monitor,Yes,IN_TEST,58,3C,Numbness continues,7/18/2006,10:00
+25,7772,7/24/2006,C3C,9:00,Left VL muscle bx (biopsy) sites with burning sharp shooting pain,Assessed,Continue to monitor reported to PI and Dr. Ware,Yes,IN_TEST,64,3C,Numbness pretty well gone now,7/24/2006,9:00
+26,7772,7/26/2006,C3C,14:50,Headache,Assessed,Tylenol 650 mg given PO,No,IN_TEST,66,667,HA (headache) gone,7/26/2006,17:00
+27,7772,8/4/2006,C3C,8:50,Ant bite,Assessed,Bacitracin ointment,No,IN_TEST,75,3C,Unchanged,8/4/2006,11:20
+28,7772,8/4/2006,C3C,21:40,Headache,Assessed,Tylenol 650 mg PO given,Yes,IN_TEST,75,655,Not reported,Not reported,Not reported
+29,7772,8/20/2006,C3C,14:00,Body aches sore lower back no pain.,Assessed need for comfort measures versus Tylenol,Declined heating pad and Tylenol.  Massage @ 1800.,No,POST_TEST,0,655,Unchanged,8/20/2006,18:30
+30,7772,8/21/2006,C3C,6:22,HA (headache),Assessed,Tylenol 650 mg PO,No,POST_TEST,1,655,Decreased HA (headache),8/21/2006,7:00
+31,7772,8/21/2006,C3C,11:20,Headache,Tylenol given 650 mg,Tylenol 650 mg given,Yes,POST_TEST,1,3C,"Yes, subject reported that HA (headache) is gone",8/21/2006,17:00
+32,7772,8/21/2006,C3C,19:27,Headache,Tylenol 650 mg given as requested,Tylenol 650 mg,Yes,POST_TEST,1,3C,States headache gone,8/21/2006,21:20
+33,7772,8/25/2006,C3C,15:25,HA (headache) - right ankle soreness,Assessed,Tylenol 650 mg PO given - declines heating pad / ice pack,No,POST_TEST,5,3C,HA (headache) gone,8/25/2006,17:30
+34,7772,8/25/2006,C3C,21:40,Sore ankles bilaterally,Assessed pedal pulses plus good cap refill,Tylenol 650 mg PO,No,POST_TEST,5,3C,Subject sleeping unable to assess,8/25/2006,22:30
+35,7772,8/26/2006,C3C,10:05,Right ankle soreness,Assessed,Denies need for ice/heat (is no meds day),No,POST_TEST,6,3C,Continues,8/26/2006,Not reported
+36,7772,8/26/2006,C3C,17:45,Bilateral ankle pain,Assessed,Ice packs on - Dr. Ware notifies - Rx received - ibuprofen given,No,POST_TEST,6,3C,Helped per subject,8/26/2006,18:15
+37,7772,8/26/2006,C3C,18:40,Bilateral ankle pain,Assessed,Ice packs on bilaterally,No,POST_TEST,6,3C,Decrease in pain,8/26/2006,20:00
+38,7772,8/28/2006,C3C,19:15,Bilateral ankle pain,Assessed,Ice packs available.  Subject sitting in chair resting,No,POST_TEST,8,3C,Better - 5/10 decreased to 2/10,8/28/2006,22:00
+39,7772,8/29/2006,C3C,19:30,Right ankle pain,Assessed,Ibuprofen,Yes,POST_TEST,9,3C,Not reported,Not reported,Not reported
+40,7772,8/30/2006,C3C,8:10,Right ankle pain,Assessed,Ibuprofen 600 mg PO given,No,POST_TEST,10,3C,Decreased soreness,8/30/2006,10:10
+41,7772,8/30/2006,C3C,14:00,Right ankle soreness,Assessed,Ibuprofen 600 mg PO given,No,POST_TEST,10,3C,Decreased soreness,8/30/2006,15:00
+42,7772,8/30/2006,C3C,20:12,Ankle soreness,Assessed,Ibuprofen 600 mg PO given,No,POST_TEST,10,3C-655,Not reported,Not reported,Not reported
+43,7772,8/31/2006,C3C,7:55,Right ankle soreness with ambulation,Assessment,Ibuprofen 600 mg PO,No,POST_TEST,11,655,Not reported,Not reported,Not reported
+44,7772,8/31/2006,C3C,18:40,Right ankle soreness of 4 on 0-10 scale,Assessed need for medical / comfort intervention,Subject requesting 600 mg Ibuprofen.  Requested from pharmacy x 2.  Out in drawer.,No,POST_TEST,11,655,Not reported,Not reported,Not reported

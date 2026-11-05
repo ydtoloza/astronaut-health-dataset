@@ -1,0 +1,108 @@
+﻿ID,Subject,Campaign,Date,Time,Symptom/Complaint,Action_Taken,Intervention,Result_of_Test_Y/N,BR_Day,Protocol,Resolution,Resolution_Date,Resolution_Time
+1,446,C3A,3/5/2005,0:45,c/o diarrhea,assess & monitor,"vs, increase PO fluids, wt, monitor # of stools, call MD if persists",No,5,655,effective,3/5/2005,17:00
+2,446,C3A,3/11/2005,10:00,little bit of back pain,Dr. Ware was notified.  Pain assessment done.,offered Tylenol,No,2,655,"Pt. Stated that pain is ""OK"" now.  Pt. talked to Dr. Ware re: his complaints.",3/11/2005,15:10
+3,446,C3A,3/11/2005,17:05,more pain in the back,Not reported,Tylenol 650 mg given at 17:05,No,2,655,Not reported,Not reported,Not reported
+4,446,C3A,3/11/2005,20:45,Middle - upper back/shoulder pain.  (Both 5 on scale of 0 - 10) Frontal sinus pressure & pain.,2 Tylenol 650 mg total PO,Not reported,No,2,655,"Helped with pain, did help with symptoms.",3/11/2005,21:00
+5,446,C3A,3/12/2005,16:00,headache,Tylenol,medication & dream lights,No,3,655,17:30 rates at 5/10,Not reported,Not reported
+6,446,C3A,3/13/2005,21:00,back pain,"assessed subject, offered heating pad",Motrin 1 400 mg PO given,No,4,655,Not reported,Not reported,Not reported
+7,446,C3A,3/16/2005,11:30,"""slight headache about 2.5 (on scale of 0 - 10)""",Tylenol 650 mg given 11:40,Tylenol 650 mg given (OK by Dr. Ware) ,No,7,655,effective,3/16/2005,15:00
+8,446,C3A,3/16/2005,15:30,"""Incision site has opened""  after pt. took a shower.",assessed incision site,covered incision site with Bacitracin ointment & band-aid.  Monitor for s/s of infection.,No,7,655,teaching re: shower & protection of incision area given,3/16/2005,15:30
+9,446,C3A,3/16/2005,18:25,headache,Tylenol 650 mg given,Tylenol given,No,7,655,Not reported,Not reported,Not reported
+10,446,C3A,3/16/2005,20:04,headache,ibuprofen 400 mg x 1 PO given,ibuprofen given,No,7,655,"teaching done on medication dosage, administration and amount given verbalized understanding",3/16/2005,20:40
+11,446,C3A,3/16/2005,21:00,headache,ibuprofen 400 mg x 1 PO given,ibuprofen given,No,7,655,headache feeling better @ 22:00,3/16/2005,22:00
+12,446,C3A,3/17/2005,5:20,headache,ibuprofen 400 mg x 1 PO given,ibuprofen given,No,7,Not reported,Not reported,Not reported,Not reported
+13,446,C3A,3/17/2005,8:05,headache,Tylenol given,Tylenol given.  Dr. Ware was notified re: headache,No,8,655,Tylenol not effective Dr. Ware notified,3/17/2005,9:10
+14,446,C3A,3/17/2005,11:10,headache,aspirin given,aspirin 325 mg given pain level assessed,No,8,655,continue monitoring,Not reported,Not reported
+15,446,C3A,3/17/2005,13:55,headache,aspirin given,aspirin 325 mg given pain level assessed,No,8,655,Not reported,Not reported,Not reported
+16,446,C3A,3/17/2005,18:10,headache,Tylenol given,Tylenol 325 mg tab 2 given - cont. to monitor,No,8,655,Not reported,Not reported,Not reported
+17,446,C3A,3/17/2005,19:20,headache,ASA 325 mg given,ASA 325 mg given 1 PO will assess for pain mgt,No,8,655,continue to monitor,3/7/2005,19:40
+18,446,C3A,3/26/2005,20:50,headache #3/10 scale,Tylenol tabs 2,Not reported,No,17,655,"pain level decreased 1.5 /10, medication effective",3/26/2005,21:55
+19,446,C3A,3/27/2005,5:20,mid thoracic back pain (muscle ache) #4 / 10,Tylenol tabs 2 & heating pad,Not reported,No,18,655,pain level remaining same 4/10,3/27/2005,7:00
+20,446,C3A,3/27/2005,7:10,"muscle ""tightness"" in back",heating pad given to pt.,Not reported,No,18,655,"feeling ""much better""",3/27/2005,9:40
+21,446,C3A,3/27/2005,20:30,back discomfort,Motrin 2 tabs given,Not reported,No,18,655,Not reported,Not reported,Not reported
+22,446,C3A,3/30/2005,16:40,headache,offered pain meds,given ibuprofen 400 mg x 2 PO,No,21,655,from a 3 to a 0,3/30/2005,17:15
+23,446,C3A,3/30/2005,21:00,headache,offered pain meds,given ibuprofen 400 mg x 1 PO,No,21,655,from a 3 to a 0,3/30/2005,21:40
+24,446,C3A,3/31/2005,23:15,headache of 5 on 0-10 scale,assessed for needed pain medication,given 2 ibuprofen 400 mg @ PO,No,22,655,pt. Resting peacefully re: monitor,3/31/2005,0:00
+25,446,C3A,4/1/2005,21:40,headache,assessed for level of pain and need for pain meds,given 2 (400 mg) ibuprofen PO,No,23,655,relieving headache,4/1/2005,22:00
+26,446,C3A,4/3/2005,17:30,pt complaints of constipation,Colace will be given at HS,discussed medication protocol with NASA coordinator,No,25,655,Not reported,Not reported,Not reported
+27,446,C3A,4/11/2005,Not reported,headache at a 3 on a 0-10 scale,assessed for medication need,gave 800 mg ibuprofen  2 (400 mg tabs) PO,No,33,655,22:00 headache resolved,4/11/2005,22:00
+28,446,C3A,4/16/2005,14:30,"c/o HA to frontal region that is ""throbbing"" & = to ""3.5"" on 0-10 scale",800 mg ibuprofen given PO,Not reported,No,38,655,"Pt states pain = 3, but denies need for analgesic.  Will cont to monitor HA.",4/16/2005,15:25
+29,446,C3A,4/16/2005,16:35,"c/o HA = ""7"" on 0-10 scale",325 mg aspirin PO,Not reported,No,38,655,"pain increase to ""8"", pt requests more aspirin",4/16/2005,17:45
+30,446,C3A,4/16/2005,17:45,"c/o HA = ""8""",325 mg aspirin PO,Not reported,No,38,655,still headache @ a 8,4/16/2005,20:00
+31,446,C3A,4/16/2005,20:00,c/o headache of 8 on 0-10 scale,assessed for need of pain meds,given 400mg PO for headache Motrin,No,38,655,21:55 headache @ a 4,4/16/2005,21:55
+32,446,C3A,4/16/2005,21:55,c/o headache 4 on 0-10 scale,assessed for need of pain meds,given 650 mg PO for headache 650 mg Tylenol,No,38,655,23:00 pt sleeping quietly,4/16/2005,23:00
+33,446,C3A,4/16/2005,23:30,still c/o headache,assessed for comfort measures,get ice bag for subject's head,No,38,655,pt. Sleeping quietly,4/16/2005,1:30
+34,446,C3A,4/17/2005,8:50,HA (headache),ice pack applied Motrin given,will await Dr. Ware,No,39,655,decrease in HA pain,4/17/2005,10:10
+35,446,C3A,4/17/2005,19:00,headache,assessed level of pain,gave Motrin 400 mg x 1 tab PO,No,39,655,decrease in pain from an 8 to a 4,4/17/2005,20:00
+36,446,C3A,4/17/2005,21:50,headache,"assessed for comfort measures, declined ice bag",given 1 (325 mg) ASA PO,No,39,655,23:00 sleeping peacefully,4/17/2005,23:00
+37,446,C3A,4/25/2005,20:40,"frontal region HA = ""1"" on 0-10 scale pain is an ""ache"" present c/o",800 mg ibuprofen PO,Not reported,No,47,655,HA persists - no increase or decrease in pain intensity.  No change in quality/location.,4/25/2005,21:40
+38,446,C3A,4/25/2005,21:50,"frontal HA persists = ""1"" on 0-10 scale. No relief with ibuprofen",325 mg aspirin PO,Not reported,No,47,655,no further c/o HA - resting in bed with eyes closed,4/25/2005,22:30
+39,446,C3A,4/27/2005,7:10,bruise  - top foot with soreness up left lateral ankle,"assess, ice pack applied",will use ice pack et heating pad to area,No,49,655,"soreness ""better""",4/27/2005,13:30
+40,446,C3A,4/27/2005,12:25,HA (headache) due to nitro given for test,assessment, Motrin given,No,49,655,HA gone,4/27/2005,13:30
+41,446,C3A,4/27/2005,15:25,HA (headache),assessment,Tylenol given,No,49,655,HA remains ice pack applied,4/27/2005,16:30
+42,446,C3A,4/27/2005,18:00,HA (headache),assessment,ASA 325 mg given,No,49,655,HA still present,4/27/2005,21:20
+43,446,C3A,4/27/2005,21:20,HA (headache),assessment,Tylenol 650 mg,No,49,655,Not reported,Not reported,Not reported
+44,446,C3A,4/29/2005,19:15,frontal headache,assessed for comfort measures vs medication or both,2 Motrin (400 mg) @ PO,No,51,655,slight residual headache,4/29/2005,21:00
+45,446,C3A,4/29/2005,21:00,slight residual headache,assessed for comfort /  meds,1- 325 mg ASA given PO,No,51,655,gone,4/29/2005,21:30
+46,446,C3A,4/30/2005,7:30,HA - caused by light hurting eyes,assessed,Motrin given,No,52,655,Not reported,Not reported,Not reported
+47,446,C3A,4/30/2005,8:20,HA - caused by light hurting eyes,assessed,Motrin given ice pack to head,No,52,655,"""little better""",4/30/2005,9:10
+48,446,C3A,4/30/2005,12:10,HA - caused by light hurting eyes,assessed,pt with sunglasses on- voices helps,No,52,655,"""pretty well gone""",4/30/2005,14:10
+49,446,C3A,5/2/2005,22:00,HA (headache),assessment,Motrin 1 tab PO lights out,No,54,655,Not reported,Not reported,Not reported
+50,446,C3A,5/8/2005,19:00,"headache from today's testing, tilt test",assessed for comfort measures because no meds status,"Offered ice pack for head, pt declined and stated would get before lights out",No,60,655,23:00 pt sleeping ice pack given 22:00,5/8/2005,23:00
+51,446,C3A,5/10/2005,17:40,"""slight headache""",Tylenol 650 mg PO given,pain assessment done (using numerical scale),No,62,655,Tylenol 650 mg PO given,5/10/2005,17:40
+52,446,C3A,5/10/2005,21:30,slight headache,assessed need for comfort measure vs meds,2 Tylenol 325 mg @ given PO,No,62,655,"22:00 - reports headache a little better, 23:00 - pt sleeping",5/11/2005,22:00
+53,446,C3A,5/14/2005,14:00,blood (small amount) was found on toilet paper,will notify nursing staff,assessment made,No,66,655,monitoring of pts BMs & toilet paper to identify any bleeding episodes,5/14/2005,14:30
+54,446,C3A,5/16/2005,20:50,"worried can't sleep, upset tummy",assessed for needed meds,50 mg Benadryl PO given for sleep & nausea,No,68,655,"stomach better, feeling sleepy",5/15/2005,22:00
+55,446,C3A,5/16/2005,16:40,headache,Tylenol given,Tylenol 650 mg PO given,No,68,655,"headache ""3"" at 17:40",5/16/2005,17:40
+56,446,C3A,5/18/2005,11:20,HA (headache),assessed,Tylenol given,No,70,655,"HA ""gone""",5/18/2005,16:30
+57,446,C3A,5/18/2005,19:50,"frontal HA = ""2"" on pain scale, present x 30 min",assessed,650 mg acetaminophen,No,70,655,"states HA still present but refuses ice pack.  States pain still ""2""",5/18/2005,20:30
+58,446,C3A,5/19/2005,10:50,HA (headache),assessed,Tylenol given,No,71,655,"""almost gone"" per pt.",5/19/2005,11:50
+59,446,C3A,5/19/2005,17:30,HA (headache) ,assessed,Tylenol given,No,71,655,Not reported,Not reported,Not reported
+60,446,C3A,5/23/2005,22:20,headache a 2 on 0-10 scale,assessed for comfort measures,none - pt declined ice pack for head,No,75,655,Pt. Sleeping re: camera by 23:30,5/23/2005,23:30
+61,446,C3A,5/23/2005,18:30,HA (headache),medication,Tylenol - 2,No,75,655,19:50 headache almost gone,5/23/2005,Not reported
+62,446,C3A,5/23/2005,21:55,headache,assessed for needed pain med vs comfort measure,2 (325 mg each) Tylenol given PO,No,75,655,23:50 - pt asleep by camera,5/23/2005,Not reported
+63,446,C3A,5/24/2005,14:30,wrist pain (after weight bearing),Tylenol 650 mg PO given,assessment made,No,76,655,effective (Tylenol 650 mg),5/24/2005,18:15
+64,446,C3A,5/24/2005,21:45,wrist pain continues,assessment for comfort measures vs meds ,gave 2 (325 mg) Tylenols PO,No,76,655,effective at relieving,5/24/2005,22:00
+65,446,C3A,5/25/2005,19:00,tooth pain,assessed,Tylenol given,No,77,655,Not reported,Not reported,Not reported
+66,446,C3A,5/26/2005,6:10,"toothache to left upper jaw = ""3"" on 0-10 pain scale",assessment,acetaminophen 650 mg,No,78,655,"7:10 - cont. with ""3"" pain feels due to partial needing adjusted.  Wants to wait until end of day to see if gets better.",5/26/2005,7:10
+67,446,C3A,5/26/2005,12:20,tooth pain,"assess - feels ""root"" not partial causing",Tylenol 325 mg tab 2 given ,No,78,655,"""better"" until ate lunch",Not reported,Not reported
+68,446,C3A,5/26/2005,19:20,tooth pain,Not reported,Tylenol 325 mg tab 2 given,No,78,655,"pain decrease to ~ ""3"" ""not bothering me much now""",5/26/2005,19:40
+69,446,C3A,5/26/2005,22:03,"tooth pain = ""6"" throbbing",assessment,aspirin 325 mg PO,No,78,655,"pain still = ""6"" Pt has had ""very little"" sleep",5/26/2005,23:40
+70,446,C3A,5/26/2005,23:40,"tooth pain = ""6""",assessment,ice pack per pt request,No,78,655,appears to be resting quietly - no further c/o pain,5/27/2005,1:00
+71,446,C3A,5/27/2005,6:05,"tooth pain = ""6-7""",assessment,acetaminophen 650 mg PO,No,79,655,Not reported,Not reported,Not reported
+72,446,C3A,5/27/2005,8:15,toothache left side,Tylenol 650 mg PO given,dental consult will be requested Dr. Ware was notified.,No,79,655,Not reported,Not reported,Not reported
+73,446,C3A,5/27/2005,13:00,toothache left side,ice pack applied ,Not reported,No,79,655,Not reported,Not reported,Not reported
+74,446,C3A,5/27/2005,16:20,toothache left side,Tylenol 650 mg PO given,Pt. Was assessed by dental consult team.  Recommendations are on the chart.,No,79,655,"19:00 - cont to c/o pain = ""6"" to tooth, but does not want additional meds @ this time",5/27/2005,19:00
+75,446,C3A,5/27/2005,21:30,"c/o tooth pain to left upper jaw = ""6"" on pain scale, throbbing ""comes and goes"" x 3 days",assessment,acetaminophen 650 mg PO as requested by pt,No,79,655,"22:00 - prepared for ""lights out"" no change in pain",5/27/2005,22:00
+76,446,C3A,5/27/2005,23:10,"c/o increase tooth pain = ""8"" & now difficulty sleeping",assessment,aspirin 325 mg PO.  Pt offered Benadryl or Ambien for sleeping assistance - pt refuses at this time.,No,79,655,24:00 - appears to be resting quietly.  No signs of pain.,5/28/2005,0:00
+77,446,C3A,5/27/2005,8:00,toothache,Tylenol 650 mg PO given,pain assessment done,No,79,655,evaluation of effectiveness of Tylenol (effective),5/28/2005,12:00
+78,446,C3A,5/28/2005,14:10,toothache,Tylenol aspirin given,pain assessment performed,No,80,655,"1910 - pain = ""5-6"" but pt denies med - states ""doing ok""",5/28/2005,19:10
+79,446,C3A,5/28/2005,21:50,"tooth pain - left upper jaw.  Pain = ""5""",assessment,"acetaminophen 650 mg PO, aspirin 325 mg PO per pt request",No,80,655,Not reported,Not reported,Not reported
+80,446,C3A,5/29/2005,6:10,"tooth pain - pinching = ""5"" on 0-10 scale",assessment,aspirin 325 mg PO,No,81,655,"""somewhat effective""",5/29/2005,7:30
+81,446,C3A,5/29/2005,10:40,toothache,assessment,Tylenol 650 mg PO 1305,No,81,655,Not reported,Not reported,Not reported
+82,446,C3A,5/29/2005,19:40,"tooth pain = ""5"" to left upper jaw",assessment,acetaminophen 650 mg PO,No,81,655,no change in symptom,5/29/2005,20:10
+83,446,C3A,5/29/2005,20:10,no pain relief to tooth,assessment,ASA 325 mg PO,No,81,655,RN at BS - pt no longer c/o tooth pain,5/29/2005,21:45
+84,446,C3A,5/30/2005,4:00,"tooth pain = ""5"" requests Tylenol - no meds allowed due to testing",assessment - offered ice pack,refuses ice pack,No,82,655,Not reported,Not reported,Not reported
+85,446,C3A,5/30/2005,0:00,left upper tooth ache,assessed for comfort measures,icepack given to patient to apply to jaw for tooth ache,No,82,655,01:00 pt sleeping,5/31/2005,1:00
+86,446,C3A,6/4/2005,12:55,"headache ""3""",Tylenol 650 mg PO given,nursing assessment done,No,87,655,still has a headache,6/4/2005,21:15
+87,446,C3A,6/4/2005,21:30,headache of 3 on -10 scale,assessed for comfort vs pain medicine,gave (2) 325 mg Tylenol,No,87,655,still has @ 23:00,6/4/2005,23:00
+88,446,C3A,6/4/2005,23:00,aspirin for continued headache,assessed for comfort vs pain med,gave (1) 325 mg ASA,No,87,655,pt sleeping @ 0:00,6/4/2005,0:00
+89,446,C3A,6/4/2005,23:00,c/o can't sleep,assessed for sleep medication need,gave (1) 5 mg Ambien,No,87,655,pt sleeping @ 00:00 ,6/4/2005,0:00
+90,446,C3A,6/5/2005,22:10,Right lateral-dorsal foot pain 4 on 0-10 scale from old IV site.  No bruising noted.,assessed for comfort measures vs meds,gave (2) 325 mg Tylenol PO and ice pack for comfort,No,88,655,00:00 pt sleeping quietly,6/5/2005,0:00
+91,446,C3A,6/7/2005,16:30,HA (headache),assessed,offered ice pack - declined no meds due to testing,No,90,655,"17:45 - ""some better""",Not reported,Not reported
+92,446,C3A,6/8/2005,14:30,itchiness to both legs,assessed areas,"offered skin lotion but denied, subject offered alcohol preps until CV testing over, declined.",No,0,655,Not reported,Not reported,Not reported
+93,446,C3A,6/8/2005,16:00,itchiness to both legs,assessed areas,spoke with S. Dryer JSC will give oatmeal bath,No,0,655,subject states itching/rash resolved.  No erythema noted to both feet,6/8/2005,19:10
+94,446,C3A,6/8/2005,19:30,"c/o abd discomfort - states feeling ""bloated""",assessment discussed with massage therapist,massage techniques by therapist,No,0,655,vocalizes some relief; states will go around unit in w/c for activity to help relieve gas,6/8/2005,20:40
+95,446,C3A,6/8/2005,23:00,"abdominal discomfort = ""4"" + distension",Assessment. Education for positioning techniques,Raises HOB + positions self on right side.  Encouraged to call RN for continued discomfort.,No,0,655,"resting quietly, no further complaints",6/9/2005,0:00
+96,446,C3A,6/10/2005,0:15,c/o headache at 4 on 0-10 scale of pain,assessed for comfort vs meds,2 (325 mg) Tylenol given PO,No,2,655,01:30 pt sleeping has not rung out again,6/10/2005,1:30
+97,446,C3A,6/10/2005,10:00,"pressure ""behind pt's eyes""",no meds  - CV testing tomorrow,assessment done Dr. Ware notified,No,2,655,Dr. Ware notified & aware of pt's complaints continue monitoring,6/10/2005,13:00
+98,446,C3A,6/10/2005,10:00,"left foot ""is sore""",no meds relaxation techniques discussed,assessment Dr. Ware notified,No,2,655,Dr. Ware notified & aware of pt's complaints continue monitoring,6/10/2005,13:00
+99,446,C3A,6/10/2005,17:30,pain in the pelvic area related to exercises ,"no meds CV testing  tomorrow, relaxation techniques discussed",nursing assessment,No,2,655,continue monitoring,6/10/2005,17:30
+100,446,C3A,6/11/2005,13:10,HA from nitro given during testing (5),assessed,Tylenol 325 mg tab 2 PO given,No,3,655,"voices HA now ""2"" on pain scale",6/11/2005,14:10
+101,446,C3A,6/14/2005,13:00,HA (headache),assessed,Tylenol 325 mg tab 2 given,No,6,655,Not reported,Not reported,Not reported
+102,446,C3A,6/14/2005,19:20,left muscle tightness to bilat calves,assessment,relaxation following massage,No,6,655,"22:00 - no further complaints, ambulates without difficulty",6/14/2005,22:00
+103,446,C3A,6/18/2005,5:25,headache,assessed for comfort measures vs meds or both,gave 2 (325 mg) Tylenol PO,No,10,655,"06:30 pt ""feeling better""",6/18/2005,6:30
+104,446,C3A,6/20/2005,3:10,"dull throbbing to lateral dorsal surface of left foot = ""4"" on scale hurting since 24:00",assessment,heating pad as requested per subject,No,12,655,resting quietly without further complaint,6/20/2005,4:00
+105,446,C3A,6/20/2005,5:00,"continued pain to lateral dorsal surface of left foot = ""4"".  No improvement with heat.",assessment,"elevated foot of bed & placed left foot on pillow with ice pack applied, relaxation encouraged",No,12,655,Not reported,Not reported,Not reported
+106,446,C3A,6/20/2005,8:30,"left foot ""is sore""",assessment done,Dr. Ware notified offered ice packs to effected area (pt refused) Consult with ortho ordered per Dr. Ware.,No,12,655,Not reported,Not reported,Not reported
+107,446,C3A,6/21/2005,8:10,"""pain on left foot comes and goes""",assessment done,Ortho-consult contacted.  X-ray 3 views of left foot scheduled prior to D/C.  Pt refused Tylenol offered by staff.,No,13,655,"pt reports pain ""0-2""",6/21/2005,11:40

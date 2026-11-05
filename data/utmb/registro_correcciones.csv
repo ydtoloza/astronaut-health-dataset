@@ -1,0 +1,46 @@
+tipo,sujeto,detalle
+archivo_omitido,,CRF_Campaign_1_Daily_Vitals_All: duplica los archivos Subject_1..3 de la campaña 1
+valor_imposible,224,2005-03-05 resp_rpm=116.0 -> vacío
+valor_imposible,7984,2007-03-22 resp_rpm=56.0 -> vacío
+valor_imposible,6607,2008-08-24 peso_kg=0.0 -> vacío
+valor_imposible,6607,2008-08-26 peso_kg=0.0 -> vacío
+valor_imposible,8072,2013-01-26 pulso_lpm=16.0 -> vacío
+fecha_corregida,C1G0001,2001-10-29 -> 2004-10-29 (año mal tipeado)
+fecha_corregida,C1G0002,2001-10-29 -> 2004-10-29 (año mal tipeado)
+duplicado,5788,2005-02-27: registro duplicado del mismo día
+br_day_inconsistente,3985,"2007-04-08: BR_Day 34, por fecha 65; se usa la fecha"
+br_day_inconsistente,7984,"2007-02-24: BR_Day 1, por fecha 13; se usa la fecha"
+br_day_inconsistente,7984,"2007-03-09: BR_Day 5, por fecha 26; se usa la fecha"
+br_day_inconsistente,7984,"2007-04-21: BR_Day 59, por fecha 69; se usa la fecha"
+archivo_omitido,,BRSMACT_Campagin_1_Actigraphy_Query_Result: exportación de consulta ambigua; se usa el archivo principal
+duplicado,C1G0001,2004-08-30: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-08-31: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-09-02: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-09-04: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-09-07: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-09-08: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-09-22: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-11-01: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-11-09: sesión WinSCAT duplicada
+duplicado,C1G0001,2004-11-15: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-08-30: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-08-31: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-09-02: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-09-04: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-09-07: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-09-08: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-09-22: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-11-01: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-11-09: sesión WinSCAT duplicada
+duplicado,C1G0002,2004-11-15: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-08-30: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-08-31: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-09-02: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-09-04: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-09-07: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-09-08: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-09-22: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-11-01: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-11-09: sesión WinSCAT duplicada
+duplicado,C1G0003,2004-11-15: sesión WinSCAT duplicada
+dato_excluido,,Tilt campaña 1: el archivo MR001G_Campaign_1_Tilt_HR es idéntico al de DBP en el origen; no hay pulso verificable

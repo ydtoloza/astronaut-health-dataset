@@ -1,0 +1,6 @@
+﻿ID,Campaign,Subject,Date,Test_Phase,BR_Day,preHGB_g/dl,preHCT%,preCOHB%Hgb,postHGB_g/dl,postCOHB%Hgb,postHCT%,RBCvol_l,Bvtot_l,Pvtot_l,Notes
+1,C3B,3768,7/18/2006,PRE_TEST,12,11.9,34.8,1.03,12.2,10.63,36.4,1.24,3.41,2.17,NA
+2,C3B,3768,7/23/2006,PRE_TEST,5,11.5,33.5,1.8,11.4,11.5,33,1.18,3.59,2.4,NA
+3,C3B,3768,8/18/2005,IN_TEST,21,12.1,35.2,1.93,12.2,12.23,35.7,1.12,3.14,2.02,NA
+4,C3B,3768,cancelled,IN_TEST,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,C3B,3768,9/19/2005,IN_TEST,52,12.3,36.1,1.53,12.3,11.73,35.3,1.12,3.18,2.05,Campaign ended early due to hurricane evacuation of test facility

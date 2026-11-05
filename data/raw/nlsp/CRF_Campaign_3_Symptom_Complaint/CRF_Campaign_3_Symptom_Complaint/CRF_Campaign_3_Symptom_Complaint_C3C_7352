@@ -1,0 +1,29 @@
+﻿ID,Subject,Date,Campaign,Time,Symptom/Complaint,Action_Taken,Intervention,Result_of_Test?_Y/N,Test_Phase,BR_Day,Protocol,Resolution,Resolution_Date,Resolution_Time
+C3A,7352,4/6/2006,C3C,22:20,Repeated sneezing and nasal congestion,Assessed need for meds versus comfort: warm rag to sinus area,Gave Oxymetazoline 0.05% - 15ml 2 sprays per nostril Q12° PRN,No,PRE_TEST,12,655,23:00 - subject sleeping quietly.  No more sneezing no c/o (complaint of)  discomfort.,4/6/2006,23:05
+C3A,7352,4/10/2006,C3C,21:00,Sensation of urgency just before urination.  Unable to stop urine stream once started.,Assessment,Discussed Kegel exercises - subject education,No,PRE_TEST,8,655,Not reported,Not reported,Not reported
+C3A,7352,4/18/2006,C3C,10:30,Post muscle bx (biopsy) pain,Assessed,Tylenol 325 mg tab (2) PO given - ice pack on,Yes,IN_TEST,1,655,Subject has relief of pain - pain free presently,4/18/2006,11:38
+C3A,7352,4/18/2006,C3C,12:35,Post muscle pain biopsy,Subject tried to move over bed table this is difficult to push 2 hours post biopsy,Refilled ice pack - subject returned to bed,No,IN_TEST,1,655,Subject returned to bed,4/18/2006,13:15
+C3A,7352,4/18/2006,C3C,15:15,Post muscle bx (biopsy) pain,Assessed,Tylenol 325 mg tab (2) PO given,Yes,IN_TEST,1,655,Pain remains at 5 on 0-10 scale.  Decline putting Ace wrap or ice pack on.,4/18/2006,16:55
+C3A,7352,4/21/2006,C3C,10:00,Lower-mid back ache more muscle than bone,Assessed need for comfort measures vs. meds,Tylenol 325 mg (2) tabs PO and heating pad applied,No,IN_TEST,4,655,11:00 Pain resolved,4/21/2006,11:00
+C3A,7352,4/21/2006,C3C,21:55,Subject c/o (complaint of) inability to sleep throughout night; c/o feeling drowsy during day 2° lack of sleep,Informed subject of prn med per protocol,Administered Ambien 5 mg as ordered per protocol,No,IN_TEST,4,655,22:15 subject appears to be sleeping,4/21/2005,22:15
+C3A,7352,4/22/2006,C3C,17:40,C/o (complaint of) back starting to ache,Assessed,Declines meds or heating pad.   Teaching on position done.,No,IN_TEST,5,655,No c/o pain discomfort,4/22/2006,22:00
+C3A,7352,4/24/2006,C3C,13:45,Headache post vascular testing & PE nitroglycerine,Assessed need for meds 4 pain level,Tylenol 650 mg PO,Yes,IN_TEST,7,655,Moderate relief 1-1.5 hours post Tylenol,4/24/2006,15:15
+C3A,7352,4/26/2006,C3C,22:45,Unable to sleep,Assessed subjects needs,Ambien 5 mg PO given,No,IN_TEST,9,655,Asleep,4/26/2006,0:00
+C3A,7352,4/28/2006,C3C,23:00,Unable to fall asleep,Assessed,5mg Ambien given @ 2300,No,IN_TEST,11,655,Not reported,Not reported,Not reported
+C3A,7352,4/29/2006,C3C,11:00,Rash to back,Assessed Dr. Ware notified,Aquaphor as needed,No,IN_TEST,12,655,Not reported,Not reported,Not reported
+C3A,7352,5/3/2006,C3C,14:00,"C/o (complaint of) cramping lower, middle abdomen with attempt to have a BM",Assessed need for comfort measure.  Paged Dr. Ware to make aware.,Applied heating pad x 20 minutes to area for comfort.  Educated subject on Colace usage.,No,IN_TEST,16,655,Subject states heating pad is bringing some relief,5/3/2006,14:30
+C3A,7352,5/6/2006,C3C,13:30,C/o (complaint of) increased redness & soreness to left thigh muscle biopsy site,Dr. Ware notified,Bacitracin oinment as needed.,No,IN_TEST,19,655,No signs/symptoms of increased redness ,5/6/2006,17:55
+C3A,7352,5/9/2006,C3C,23:00,C/o (complaint of) restlessness,Assessment,Ambien 5mg PO,No,IN_TEST,22,655,Not reported,Not reported,Not reported
+C3A,7352,5/19/2006,C3C,15:30,Subject still has headache post Nitroglycerine (refused Rx earlier),Tylenol 325 mg PO,Headache medication,Yes,IN_TEST,32,655,Headache relieved 1.5 hours later,5/19/2006,17:45
+C3A,7352,5/27/2006,C3C,21:50,Left sided lower back pain - onset 2-3 days ago-intermittent,Tylenol 625 mg PO,Medicated - heating pad offered - subject declined,No,IN_TEST,40,655,Not reported,Not reported,Not reported
+C3A,7352,6/5/2006,C3C,13:00,HA (headache) - from SL Nirtoglycerine,Assessed,Tylenol 325 mg PO given.  Denies use of ice pack.,Yes,IN_TEST,49,3C,HA (headache) gone,6/5/2006,14:00
+C3A,7352,6/5/2006,C3C,19:00,HA (headache) - returning,Assessed,Tylenol 325 mg PO given,Yes,IN_TEST,49,3C,Not reported,Not reported,Not reported
+C3A,7352,6/13/2006,C3C,10:05,Left leg discomfort,Tylenol 650 mg PO,Ice pack & ace wrap,Yes,IN_TEST,57,655,3/10 leg pain,6/13/2006,11:45
+C3A,7352,7/4/2006,C3C,10:55,"Nasal/head congestion - watery eyes, burning nose",Assessed,Tylenol 650 mg PO given,No,IN_TEST,78,3C,Feeling better,7/4/2006,12:00
+C3A,7352,7/4/2006,C3C,15:40,Nasal/head congestion,Assessed,Oxymetazoline nasal spray,No,IN_TEST,78,3C,Some relief,7/4/2006,17:50
+C3A,7352,7/4/2006,C3C,21:30,Nasal/head congestion clear - yellow nasal drainage,Assessed BS+,Tylenol 650 mg PO given,No,IN_TEST,78,C3,Helped me sleep,7/5/2006,6:15
+C3A,7352,7/5/2006,C3C,8:53,Head congestion,Assessed,Tylenol 650 mg given PO,No,IN_TEST,79,655,Zero pain,7/5/2006,11:57
+C3A,7352,7/5/2006,C3C,21:30,Insomnia,Confirmed with coordinator that OK to given,Zolpidem 5 mg ,No,IN_TEST,79,655,Not reported,Not reported,Not reported
+C3A,7352,7/10/2006,C3C,14:15,Noted pustule to plantar surface to right foot under 4th toe.,Assessment,Bacitracin ointment applied,No,IN_TEST,84,666,Will continue to monitor,7/10/2006,14:15
+C3A,7352,7/15/2006,C3C,11:08,Nausea,Assessment,Monitoring,Yes,IN_TEST,89,655,Continue to monitor; no nausea,7/15/2006,13:30
+C3A,7352,7/19/2006,C3C,18:00,Achy all over 9 on 0-10 scale,Heating pad offered,Subject desires heating pad,No,POST_TEST,2,655,Getting (higher).  Will continue to monitor response to intervention. 1900 - helping decrease aches,7/19/2006,18:30

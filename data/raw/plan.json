@@ -1,0 +1,9 @@
+[
+ {"id": "eeb9bd34-bdd4-5115-b139-adf2c9927962", "labels": ["CRF_CFT70_VITALS", "CRF_CFT70_SYMPTOMS", "CRF_Campaign_1_Daily_Vitals", "CRF_Campaign_3_Daily_Vitals", "CRF_Campaign_3_Symptom_Complaint"]},
+ {"id": "2858df7a-0072-5cb4-ae70-cf73997832a8", "labels": ["MR010G_Campaign_1_Clinical_Laboratory_Assessment", "MR010G_Campaign_3_Clinical_Laboratory_Assessment"]},
+ {"id": "09bd2406-b323-5f7c-b0ac-d4585f0015ff", "labels": ["MR001G_Campaign_1_Tilt", "MR001G_Campaign_3_Tilt"]},
+ {"id": "cd8a4a16-fcfd-5c32-a61f-22c590a10b35", "labels": ["BRSMACT_Campaign_1_Actigraphy"]},
+ {"id": "80ee3231-7c42-5be4-b6c2-b8c788feeb50", "labels": ["MR085G_Campaign_1_WinSCAT", "MR085G_Campaign_3_WinSCAT"]},
+ {"id": "adf51ad3-4370-545b-8d48-fbd33d73e796", "labels": ["BRSMPV_CFT70_PLASMA_VOLUME", "BRSMPV_Campaign_3_Plasma_Volume"]},
+ {"id": "4469ebdc-0a65-55e8-bbff-3cf6b044c4c6", "labels": ["MR035G_Campaign_1_DXA", "MR035G_Campaign_3_DXA_Hip", "MR035G_Campaign_3_DXA_Spine", "MR035G_Campaign_3_DXA_ReadMe"]}
+]

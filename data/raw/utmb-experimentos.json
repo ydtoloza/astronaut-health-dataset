@@ -1,0 +1,420 @@
+[
+ {
+  "id": "07f12dd0-6725-582c-a4d2-618ed8b8c452",
+  "title": "Aerobic Capacity (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "7ab565bb-f9d6-510f-bd07-407caccaeb9f",
+  "title": "Bed Rest Standard Measures:  Acetaminophen Test",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "cd8a4a16-fcfd-5c32-a61f-22c590a10b35",
+  "title": "Bed Rest Standard Measures:  Actilight",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "0efe87dd-d04a-5755-add7-860dc0f67e56",
+  "title": "Bed Rest Standard Measures:  Performance Testing",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "4b0bbf22-c9d7-51fa-9262-7328f3ad70df",
+  "title": "Bed Rest Standard Measures:  Urea Breath Test",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "9af6f9ba-3730-54ab-a82a-1a32798667ae",
+  "title": "Bed Rest Standard Measures: Cardiovascular Function",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "dcff3b64-7700-5441-b4c3-2af31b9bb7b0",
+  "title": "Bed Rest Standard Measures: Functional Mobility Test",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "99479246-dbfe-5e92-bb6b-8ff96457a0b5",
+  "title": "Bed Rest Standard Measures: Functional Stretch Reflex",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "e21cc209-b6c4-5b47-b33b-6e31f51b784f",
+  "title": "Bed Rest Standard Measures: General Immunity",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "8aae3ece-7d06-5078-8b48-ec84eb633833",
+  "title": "Bed Rest Standard Measures: Glucose Breath Test",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "f1a74e0f-dad5-5109-992c-7271f39da690",
+  "title": "Bed Rest Standard Measures: Hepatic and Renal Function",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "5ff5f10d-fb82-5af3-b2eb-ffd60cad1381",
+  "title": "Bed Rest Standard Measures: Lactulose Test",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "28d79ca9-2cb0-5fbe-a4ac-021be1cd2df8",
+  "title": "Bed Rest Standard Measures: Latent Virus Reactivation",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "adf51ad3-4370-545b-8d48-fbd33d73e796",
+  "title": "Bed Rest Standard Measures: Plasma Volume",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "adc0daf5-c8ac-5418-8fc7-d11115617671",
+  "title": "Bed Rest Standard Measures: Reactive Hyperemia and Vasodilation (Vascular Function)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "a3090eb9-34bd-5248-8549-4c8fbde4b76a",
+  "title": "Bed Rest Standard Measures: Tendon Reflex",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "82e288d5-82d9-51a0-8e33-bc9bef232dfe",
+  "title": "Bed Rest Standard Measures: Viral Specific Immunity",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "4469ebdc-0a65-55e8-bbff-3cf6b044c4c6",
+  "title": "Bone Densitometry Assessment (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "eeb9bd34-bdd4-5115-b139-adf2c9927962",
+  "title": "Case Report Form",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "2858df7a-0072-5cb4-ae70-cf73997832a8",
+  "title": "Clinical Laboratory Assessment (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "72616c68-3046-5d36-8f1d-a26d856107ff",
+  "title": "Clinical Nutritional Assessment (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "b70ca856-2dc3-5c50-b690-6ff45be3a126",
+  "title": "Functional Fitness Assessment (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "df780931-6b24-5a6e-b9b1-ab6fd5efe8b1",
+  "title": "Functional Neurological Assessment: Computerized Dynamic Posturography (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "707feb44-29c9-50b1-863a-8348c61f0359",
+  "title": "Gender Differences in Bedrest: Autonomic and Neuroendocrine Changes and Vascular Responses in Lower and Upper Extremities",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "950b2ce4-5f5b-5f00-a870-1f24e2897771",
+  "title": "Human Cerebral Cortex Plasticity in Response to Long-term Bedrest as an Analog to Microgravity",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "f97392b8-b9dd-5bae-af9e-dd76a33bf049",
+  "title": "Isokinetic Muscle Function (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "80ee3231-7c42-5be4-b6c2-b8c788feeb50",
+  "title": "Neurocognitive Assessment (WinSCAT) (Cognitive Assessment Tool for Windows) (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "09bd2406-b323-5f7c-b0ac-d4585f0015ff",
+  "title": "Neuroendocrine and Cardiovascular Response to Tilt (Flight Analog)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 1",
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "abf33b2e-3085-5c85-ad58-487ccbeaa762",
+  "title": "Peripheral Quantitative Computed Tomography (pQCT)",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "26a8b51f-df92-5a52-9fc0-b8b77067246a",
+  "title": "Retention of Skeletal, Musculature, and Postural Status with a Non-Invasive, Extremely Low-Level Mechanical Signal: A Ground-Based Evaluation of Efficacy",
+  "public": true,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "f48b517c-44f6-5ad7-9ac9-6750450698b5",
+  "title": "AD ASTRA: Automated Detection of Attitudes and States through Transaction Recordings Analysis",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "17dcac68-0b7c-5a8d-bafb-dc988c314b61",
+  "title": "Alterations of Steroidogenesis by Exercise Countermeasures during Bed Rest",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 1"
+  ]
+ },
+ {
+  "id": "4baf392a-f08e-5fc3-896a-2fc7d94c68ab",
+  "title": "Bed Rest Standard Measures: Functional Neurological Status Exam",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 1"
+  ]
+ },
+ {
+  "id": "caa3b09f-28b8-5c50-b0af-5f6540147f24",
+  "title": "Bed Rest Standard Measures: Intelligent Dual-Energy X-ray Absorptiometry",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "c961d7f4-bf8f-502c-97d7-ef7fed16218a",
+  "title": "Bed Rest Standard Measures: Physiological Stress Measures",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "1fa64cbd-ae4a-5368-85b0-f9df9fa26937",
+  "title": "Bed Rest Standard Measures: Psychological Stress Measures",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "ec4d5d93-3c06-5468-ba11-36a6000a6b01",
+  "title": "Bed Rest Standard Measures: Vertical Jump",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "943468a7-3de2-5b6f-b777-69ef96c1952b",
+  "title": "Bed Rest and Immunity",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 1"
+  ]
+ },
+ {
+  "id": "e76e94d1-500e-56e2-88e6-36ec83bd0239",
+  "title": "Bed Rest as a Spaceflight Analog to Study Neurocognitive Changes: Extent, Longevity, and Neural Bases",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "5a13785c-1a9f-5a3f-b09d-ca2d6004bf1c",
+  "title": "Combined Effects of Nutritional and Exercise Countermeasures",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "a9f342db-fd12-52b0-8e17-0bf264f392f5",
+  "title": "Effects of Retronasal Smelling, Variety and Choice on Appetite and Satiety",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "bb0a11e1-ecc4-5b2c-8f0f-cf7da73e159c",
+  "title": "Integrated Resistance and Aerobic Exercise Training With Small Compact Exercise Equipment",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "2cf34b75-eb36-5661-9dd7-d65d26dc7320",
+  "title": "Non-Invasive Near Infrared Spectroscopy",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "ab997b6f-ef4e-5316-9ac2-9badfca1ddf1",
+  "title": "Physiological Factors Contributing to Post Bed Rest Changes in Functional Performance (Functional Task Test)",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "185ce6b8-ca27-581f-a908-3678065f3798",
+  "title": "Quantitative Computerized Tomography",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11",
+   "UTMB Campaign 3"
+  ]
+ },
+ {
+  "id": "71c993e7-1b34-5ceb-8abf-b4ec8450de8f",
+  "title": "Surveillance of Ocular Parameters and Visual Function in Bed Rest Subjects",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "7b314f94-efbd-565d-bea2-9403e48b997f",
+  "title": "Testosterone Supplementation as a Countermeasure against Musculoskeletal Losses during Space Exploration",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 11"
+  ]
+ },
+ {
+  "id": "c8b8e8f7-0ebe-58f0-81f7-12648a716a12",
+  "title": "Ultrasonic Bone Stimulation: Countermeasure to Orthostatic Intolerance",
+  "public": false,
+  "missions": [
+   "UTMB Campaign 3"
+  ]
+ }
+]
