@@ -21,7 +21,8 @@ Dataset verificado para el desafío [Create Health Monitoring Software for Astro
 │   ├── config.py       rutas, fases, columnas simuladas, rangos plausibles
 │   ├── build.py        pipeline: raw -> interim -> processed
 │   ├── load.py         funciones de carga con tipos (cargar_diario, cargar_laboratorio…)
-│   └── validate.py     reglas de integridad
+│   ├── validate.py     reglas de integridad
+│   └── alertas.py      motor de alertas verde/amarillo/rojo (docs/alertas.md)
 ├── notebooks/          01-exploracion.ipynb (plantilla de análisis)
 ├── reports/figures/    figuras generadas por los notebooks
 ├── tests/              tests de integridad y de las cifras verificadas
@@ -49,6 +50,7 @@ pip install -r requirements.txt
 | Regenerar los datos | `make data` | `$env:PYTHONPATH="src"; python -m astrohealth.build` |
 | Revisar integridad | `make validate` | `$env:PYTHONPATH="src"; python -m astrohealth.validate` |
 | Ejecutar tests | `make test` | `python -m pytest` |
+| Resumen de alertas | `make alertas` | `$env:PYTHONPATH="src"; python -m astrohealth.alertas` |
 | Abrir el notebook | `jupyter lab notebooks/` | `jupyter lab notebooks/` |
 
 ## Usar los datos en tu análisis
@@ -63,6 +65,9 @@ serie_astronauta("UTMB-05", ["pulso_lpm", "pas_mmhg", "estado_vitales"])
 ```
 
 Para un análisis nuevo, copia `notebooks/01-exploracion.ipynb` con un número correlativo (`02-…`). El diccionario de columnas está en `data/processed/LEEME.md`.
+
+## Alertas
+`evaluar(cargar_diario(), cargar_lineas_base())` devuelve una fila por alerta con su nivel, acción y fuente. Combina umbrales clínicos absolutos con el desvío de la línea base personal, e incluye un catálogo de síntomas (reactivación viral, posible trombosis venosa, SANS…) y la dosis de radiación frente al límite de carrera de 600 mSv. Reglas y fuentes en `docs/alertas.md`.
 
 ## Revisión y calidad
 - **`make validate`**: 17 reglas (sin duplicados, rangos plausibles, fases, semáforo, simulados aislados, cobertura de PhenoAge).

@@ -2,13 +2,14 @@
 PY ?= python
 export PYTHONPATH := src
 
-.PHONY: help install data validate test notebook all clean
+.PHONY: help install data validate test alertas notebook all clean
 
 help:
 	@echo "make install   instala dependencias (requirements.txt)"
 	@echo "make data      regenera data/interim y data/processed desde data/raw"
 	@echo "make validate  revisa la integridad del dataset procesado"
 	@echo "make test      ejecuta los tests (validaciones + cifras verificadas)"
+	@echo "make alertas   resume las alertas del dataset por condición y regla"
 	@echo "make notebook  ejecuta el notebook de exploración y guarda las figuras"
 	@echo "make all       data + validate + test"
 
@@ -23,6 +24,9 @@ validate:
 
 test:
 	$(PY) -m pytest -q tests
+
+alertas:
+	$(PY) -m astrohealth.alertas
 
 notebook:
 	$(PY) -m jupyter nbconvert --to notebook --execute --inplace notebooks/01-exploracion.ipynb

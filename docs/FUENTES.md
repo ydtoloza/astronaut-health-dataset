@@ -269,3 +269,11 @@ Textos citados de las páginas de cada fuente, tal como se leyeron el 2026-11-05
 ## Notas de la lista para el coordinador
 - Las cifras de los archivos 00 a 14 no se han revisado más allá de las citas, salvo lo indicado en la sección 2. Las fuentes 55, 56, 57 y Lee 2020 no tienen fuente identificable: retirar sus usos en 02 y 07 o reemplazarlos antes de presentar.
 - Pendiente de nueva consulta (Europe PMC y PubMed inestables): páginas de Lloyd-Jones 2022; PMID de Comfort 2021, Fu 2019 y Hardy 2025; cifra 1,56 de Jarczok 2022 en el resumen; licencias de PhysioNet; conflicto de licencia de NLSP.
+
+## Recursos oficiales del reto (añadidos 2026-11-13)
+Detalle en `15-recursos-oficiales-reto.md`.
+- NASA HRP, 5 Hazards of Human Spaceflight. https://www.nasa.gov/hrp/hazards/
+- NASA HRP, Risks of Human Spaceflight. https://www.nasa.gov/hrp/risks/
+- NASA HRP, Ongoing HRP Research in Space. https://www.nasa.gov/hrp/ongoing-hrp-research/ (ARCHeR, Immune Biomarkers, Artemis II Standard Measures, Standard Measures, Venous Haemostasis, Tempus Pro)
+- CSA, Monitoring Radiation for Astronaut Health (2026-02-26). https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-02-26-monitoring-radiation-astronaut-health.asp
+- CSA, Why Do We Conduct Science Experiments in Space? https://www.asc-csa.gc.ca/eng/iss/science/why-do-we-conduct-science-experiments-in-space.asp
