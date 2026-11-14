@@ -1,0 +1,1177 @@
+drm,meses,eva,sexo,condicion,prob_al_menos_un_evento,prob_es_cota_inferior,adaptacion_espacial
+LEO,6,1,M,LATE INSOMNIA,0.912,False,False
+LEO,6,1,F,LATE INSOMNIA,0.912,False,False
+LEO,6,1,M,SKIN ABRASION,0.821,False,False
+LEO,6,1,F,SKIN ABRASION,0.821,False,False
+LEO,6,1,M,SKIN RASH,0.821,False,False
+LEO,6,1,F,SKIN RASH,0.821,False,False
+LEO,6,1,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+LEO,6,1,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+LEO,6,1,M,EYE ABRASION (FOREIGN BODY),0.722,False,False
+LEO,6,1,F,EYE ABRASION (FOREIGN BODY),0.722,False,False
+LEO,6,1,M,HEADACHE (LATE),0.592,False,False
+LEO,6,1,F,HEADACHE (LATE),0.592,False,False
+LEO,6,1,M,NASAL CONGESTION (SA),0.586,False,True
+LEO,6,1,F,NASAL CONGESTION (SA),0.586,False,True
+LEO,6,1,M,BACK PAIN (SA),0.525,False,True
+LEO,6,1,F,BACK PAIN (SA),0.525,False,True
+LEO,6,1,M,DIARRHEA,0.453,False,False
+LEO,6,1,F,URINARY TRACT INFECTION,0.49,False,False
+LEO,6,1,M,RESPIRATORY INFECTION,0.453,False,False
+LEO,6,1,F,DIARRHEA,0.453,False,False
+LEO,6,1,M,INSOMNIA (SA),0.45,False,True
+LEO,6,1,F,RESPIRATORY INFECTION,0.453,False,False
+LEO,6,1,M,BACK INJURY,0.443,False,False
+LEO,6,1,F,INSOMNIA (SA),0.45,False,True
+LEO,6,1,M,BAROTRAUMA (EAR/SINUS BLOCK),0.433,False,False
+LEO,6,1,F,BACK INJURY,0.443,False,False
+LEO,6,1,M,HEADACHE (SA),0.351,False,True
+LEO,6,1,F,BAROTRAUMA (EAR/SINUS BLOCK),0.433,False,False
+LEO,6,1,M,VIIP (SA),0.341,False,True
+LEO,6,1,F,HEADACHE (SA),0.351,False,True
+LEO,6,1,M,SHOULDER SPRAIN/STRAIN,0.34,False,False
+LEO,6,1,F,VIIP (SA),0.341,False,True
+LEO,6,1,M,HEADACHE (CO2 INDUCED),0.306,False,False
+LEO,6,1,F,SHOULDER SPRAIN/STRAIN,0.34,False,False
+LEO,6,1,M,SKIN INFECTION,0.211,False,False
+LEO,6,1,F,HEADACHE (CO2 INDUCED),0.306,False,False
+LEO,6,1,M,ELBOW SPRAIN/STRAIN,0.203,False,False
+LEO,6,1,F,SKIN INFECTION,0.211,False,False
+LEO,6,1,M,ANKLE SPRAIN/STRAIN,0.188,False,False
+LEO,6,1,F,ELBOW SPRAIN/STRAIN,0.203,False,False
+LEO,6,1,M,ALLERGIC REACTION (MILD TO MODERATE),0.182,False,False
+LEO,6,1,F,ANKLE SPRAIN/STRAIN,0.188,False,False
+LEO,6,1,M,PHARYNGITIS,0.182,False,False
+LEO,6,1,F,ALLERGIC REACTION (MILD TO MODERATE),0.182,False,False
+LEO,6,1,M,CONSTIPATION (SA),0.17,False,True
+LEO,6,1,F,PHARYNGITIS,0.182,False,False
+LEO,6,1,M,NECK INJURY,0.156,False,False
+LEO,6,1,F,CONSTIPATION (SA),0.17,False,True
+LEO,6,1,M,MOUTH ULCER,0.152,False,False
+LEO,6,1,F,NECK INJURY,0.156,False,False
+LEO,6,1,M,Dental Caries,0.139,False,False
+LEO,6,1,F,MOUTH ULCER,0.152,False,False
+LEO,6,1,M,KNEE SPRAIN/STRAIN,0.124,False,False
+LEO,6,1,F,Dental Caries,0.139,False,False
+LEO,6,1,M,PARESTHESIAS,0.105,False,False
+LEO,6,1,F,KNEE SPRAIN/STRAIN,0.124,False,False
+LEO,6,1,M,ACUTE SINUSITIS,0.104,False,False
+LEO,6,1,F,PARESTHESIAS,0.105,False,False
+LEO,6,1,M,EYE CHEMICAL BURN,0.104,False,False
+LEO,6,1,F,ACUTE SINUSITIS,0.104,False,False
+LEO,6,1,M,INDIGESTION,0.104,False,False
+LEO,6,1,F,EYE CHEMICAL BURN,0.104,False,False
+LEO,6,1,M,HEARING LOSS,0.0937,False,False
+LEO,6,1,F,INDIGESTION,0.104,False,False
+LEO,6,1,M,WRIST SPRAIN/STRAIN,0.0902,False,False
+LEO,6,1,F,HEARING LOSS,0.0937,False,False
+LEO,6,1,M,EYE INFECTION,0.0873,False,False
+LEO,6,1,F,WRIST SPRAIN/STRAIN,0.0902,False,False
+LEO,6,1,M,URINARY TRACT INFECTION,0.0811,False,False
+LEO,6,1,F,EYE INFECTION,0.0873,False,False
+LEO,6,1,M,HIP SPRAIN/STRAIN,0.0728,False,False
+LEO,6,1,F,HIP SPRAIN/STRAIN,0.0728,False,False
+LEO,6,1,M,GASTROENTERITIS,0.0705,False,False
+LEO,6,1,F,GASTROENTERITIS,0.0705,False,False
+LEO,6,1,M,FINGERNAIL DELAMINATION,0.0648,False,False
+LEO,6,1,F,FINGERNAIL DELAMINATION,0.0648,False,False
+LEO,6,1,M,CHOKING/OBSTRUCTED AIRWAY,0.0533,False,False
+LEO,6,1,F,URINARY INCONTINENCE (SA),0.0556,False,True
+LEO,6,1,M,OTITIS EXTERNA,0.0533,False,False
+LEO,6,1,F,URINARY RETENTION (SA),0.0556,False,True
+LEO,6,1,M,OTITIS MEDIA,0.0533,False,False
+LEO,6,1,F,CHOKING/OBSTRUCTED AIRWAY,0.0533,False,False
+LEO,6,1,M,HEMORRHOIDS,0.0359,False,False
+LEO,6,1,F,OTITIS EXTERNA,0.0533,False,False
+LEO,6,1,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.0359,False,False
+LEO,6,1,F,OTITIS MEDIA,0.0533,False,False
+LEO,6,1,M,Lower Extremity Stress Fracture,0.0208,False,False
+LEO,6,1,F,HEMORRHOIDS,0.0359,False,False
+LEO,6,1,M,FINGER DISLOCATION,0.0181,False,False
+LEO,6,1,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.0359,False,False
+LEO,6,1,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.0181,False,False
+LEO,6,1,F,Lower Extremity Stress Fracture,0.0329,False,False
+LEO,6,1,M,INFLUENZA,0.0181,False,False
+LEO,6,1,F,Vaginal Yeast Infection,0.0317,False,False
+LEO,6,1,M,SKIN LACERATION,0.0181,False,False
+LEO,6,1,F,Abnormal Uterine Bleeding,0.0257,False,False
+LEO,6,1,M,Decompression Sickness Secondary to EVA,0.0116,False,False
+LEO,6,1,F,FINGER DISLOCATION,0.0181,False,False
+LEO,6,1,M,Dental: Abscess,0.0114,False,False
+LEO,6,1,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.0181,False,False
+LEO,6,1,M,SMOKE INHALATION,0.0112,False,False
+LEO,6,1,F,INFLUENZA,0.0181,False,False
+LEO,6,1,M,Dental : Exposed Pulp,0.01,False,False
+LEO,6,1,F,SKIN LACERATION,0.0181,False,False
+LEO,6,1,M,NOSE BLEED (SA),0.00904,False,True
+LEO,6,1,F,Decompression Sickness Secondary to EVA,0.0116,False,False
+LEO,6,1,M,URINARY RETENTION (SA),0.00697,False,True
+LEO,6,1,F,Dental: Abscess,0.0114,False,False
+LEO,6,1,M,Burns Secondary to Fire,0.00526,False,False
+LEO,6,1,F,SMOKE INHALATION,0.0112,False,False
+LEO,6,1,M,Hypertension,0.00322,False,False
+LEO,6,1,F,Dental : Exposed Pulp,0.01,False,False
+LEO,6,1,M,Dental: Filling Loss,0.00255,False,False
+LEO,6,1,F,NOSE BLEED (SA),0.00904,False,True
+LEO,6,1,M,Acute Prostatitis,0.00245,False,False
+LEO,6,1,F,Burns Secondary to Fire,0.00526,False,False
+LEO,6,1,M,Nephrolithiasis,0.00182,False,False
+LEO,6,1,F,Anxiety,0.00354,False,False
+LEO,6,1,M,Dental: Avulsion (tooth loss),0.00146,False,False
+LEO,6,1,F,Hypertension,0.00322,False,False
+LEO,6,1,M,Depression,0.00145,False,False
+LEO,6,1,F,Dental: Filling Loss,0.00255,False,False
+LEO,6,1,M,Acute Radiation Syndrome,0.00141,False,False
+LEO,6,1,F,Acute Arthritis,0.00188,False,False
+LEO,6,1,M,Sepsis,0.0012,False,False
+LEO,6,1,F,Nephrolithiasis,0.00182,False,False
+LEO,6,1,M,Wrist Fracture,0.00118,False,False
+LEO,6,1,F,Depression,0.0018,False,False
+LEO,6,1,M,Anxiety,0.00095,False,False
+LEO,6,1,F,Dental: Avulsion (tooth loss),0.00146,False,False
+LEO,6,1,M,Acute Arthritis,0.000765,False,False
+LEO,6,1,F,Acute Radiation Syndrome,0.00141,False,False
+LEO,6,1,M,Acute Diverticulitis,0.00071,False,False
+LEO,6,1,F,Sepsis,0.0012,False,False
+LEO,6,1,M,Stroke (Cerebrovascular Accident),0.00049,False,False
+LEO,6,1,F,Wrist Fracture,0.00118,False,False
+LEO,6,1,M,Appendicitis,0.000467,False,False
+LEO,6,1,F,Acute Diverticulitis,0.00071,False,False
+LEO,6,1,M,Acute Cholecystitis/Billiary Colic,0.000384,False,False
+LEO,6,1,F,Acute Cholecystitis/Billiary Colic,0.000635,False,False
+LEO,6,1,M,Atrial Fibrillation/Atrial Flutter,0.000355,False,False
+LEO,6,1,F,Appendicitis,0.000467,False,False
+LEO,6,1,M,Traumatic Hypovolemic Shock,0.00032,False,False
+LEO,6,1,F,Stroke (Cerebrovascular Accident),0.00034,False,False
+LEO,6,1,M,Angina/Myocardial Infarction,0.000315,False,False
+LEO,6,1,F,Traumatic Hypovolemic Shock,0.00032,False,False
+LEO,6,1,M,Anaphylaxis,0.000245,False,False
+LEO,6,1,F,Anaphylaxis,0.000245,False,False
+LEO,6,1,M,Abdominal Wall Hernia,0.000225,False,False
+LEO,6,1,F,Angina/Myocardial Infarction,0.000235,False,False
+LEO,6,1,M,Head Injury,0.000211,False,False
+LEO,6,1,F,Abdominal Wall Hernia,0.000225,False,False
+LEO,6,1,M,Hip/Proximal Femur Fracture,0.000209,False,False
+LEO,6,1,F,Head Injury,0.000211,False,False
+LEO,6,1,M,Acute Pancreatitis,0.000154,False,False
+LEO,6,1,F,Acute Pancreatitis,0.000154,False,False
+LEO,6,1,M,Seizures,0.000135,False,False
+LEO,6,1,F,Seizures,0.000135,False,False
+LEO,6,1,M,Chest Injury,0.000128,False,False
+LEO,6,1,F,Chest Injury,0.000128,False,False
+LEO,6,1,M,Lumbar Spine Fracture,0.0001,False,False
+LEO,6,1,F,Atrial Fibrillation/Atrial Flutter,0.000117,False,False
+LEO,6,1,M,Abdominal Injury,8.22e-05,False,False
+LEO,6,1,F,Lumbar Spine Fracture,8.64e-05,False,False
+LEO,6,1,M,Eye Corneal Ulcer,7e-05,False,False
+LEO,6,1,F,Abdominal Injury,8.22e-05,False,False
+LEO,6,1,M,Retinal Detachment,5.95e-05,False,False
+LEO,6,1,F,Eye Corneal Ulcer,7e-05,False,False
+LEO,6,1,M,Acute Compartment Syndrome,3.65e-05,False,False
+LEO,6,1,F,Hip/Proximal Femur Fracture,5.61e-05,False,False
+LEO,6,1,M,Altitude Sickness,2.71e-05,False,False
+LEO,6,1,F,Retinal Detachment,3.27e-05,False,False
+LEO,6,1,M,Elbow Dislocation,2.6e-05,False,False
+LEO,6,1,F,Acute Glaucoma,2.84e-05,False,False
+LEO,6,1,M,Shoulder Dislocation,1.86e-05,False,False
+LEO,6,1,F,Altitude Sickness,2.71e-05,False,False
+LEO,6,1,M,Acute Glaucoma,1.35e-05,False,False
+LEO,6,1,F,Elbow Dislocation,2.6e-05,False,False
+LEO,6,1,M,Sudden Cardiac Arrest,7.5e-06,False,False
+LEO,6,1,F,Shoulder Dislocation,1.86e-05,False,False
+LEO,6,1,M,Behavioral Emergency,7.15e-06,False,False
+LEO,6,1,F,Sudden Cardiac Arrest,7.5e-06,False,False
+LEO,6,1,M,Eye Penetration (foreign body),4.67e-06,False,False
+LEO,6,1,F,Behavioral Emergency,7.15e-06,False,False
+LEO,6,1,M,Cardiogenic Shock Secondary to Myocardial Infarction,3.74e-06,False,False
+LEO,6,1,F,Eye Penetration (foreign body),4.67e-06,False,False
+LEO,6,1,M,Neurogenic Shock,2.49e-06,False,False
+LEO,6,1,F,Acute Compartment Syndrome,3.5e-06,False,False
+LEO,6,1,M,Toxic Exposure: Ammonia,7.25e-07,False,False
+LEO,6,1,F,Cardiogenic Shock Secondary to Myocardial Infarction,2.64e-06,False,False
+LEO,6,1,M,Abnormal Uterine Bleeding,0.0,False,False
+LEO,6,1,F,Neurogenic Shock,2.49e-06,False,False
+LEO,6,1,M,URINARY INCONTINENCE (SA),0.0,False,True
+LEO,6,1,F,Toxic Exposure: Ammonia,7.25e-07,False,False
+LEO,6,1,M,Vaginal Yeast Infection,0.0,False,False
+LEO,6,1,F,Acute Prostatitis,0.0,False,False
+LEO,12,2,M,LATE INSOMNIA,0.992,False,False
+LEO,12,2,F,LATE INSOMNIA,0.992,False,False
+LEO,12,2,M,SKIN ABRASION,0.968,False,False
+LEO,12,2,F,SKIN ABRASION,0.968,False,False
+LEO,12,2,M,SKIN RASH,0.968,False,False
+LEO,12,2,F,SKIN RASH,0.968,False,False
+LEO,12,2,M,EYE ABRASION (FOREIGN BODY),0.923,False,False
+LEO,12,2,F,EYE ABRASION (FOREIGN BODY),0.923,False,False
+LEO,12,2,M,HEADACHE (LATE),0.833,False,False
+LEO,12,2,F,HEADACHE (LATE),0.833,False,False
+LEO,12,2,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+LEO,12,2,F,URINARY TRACT INFECTION,0.74,False,False
+LEO,12,2,M,DIARRHEA,0.701,False,False
+LEO,12,2,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+LEO,12,2,M,RESPIRATORY INFECTION,0.701,False,False
+LEO,12,2,F,DIARRHEA,0.701,False,False
+LEO,12,2,M,BACK INJURY,0.69,False,False
+LEO,12,2,F,RESPIRATORY INFECTION,0.701,False,False
+LEO,12,2,M,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+LEO,12,2,F,BACK INJURY,0.69,False,False
+LEO,12,2,M,NASAL CONGESTION (SA),0.586,False,True
+LEO,12,2,F,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+LEO,12,2,M,SHOULDER SPRAIN/STRAIN,0.565,False,False
+LEO,12,2,F,NASAL CONGESTION (SA),0.586,False,True
+LEO,12,2,M,BACK PAIN (SA),0.525,False,True
+LEO,12,2,F,SHOULDER SPRAIN/STRAIN,0.565,False,False
+LEO,12,2,M,HEADACHE (CO2 INDUCED),0.519,False,False
+LEO,12,2,F,BACK PAIN (SA),0.525,False,True
+LEO,12,2,M,INSOMNIA (SA),0.45,False,True
+LEO,12,2,F,HEADACHE (CO2 INDUCED),0.519,False,False
+LEO,12,2,M,SKIN INFECTION,0.378,False,False
+LEO,12,2,F,INSOMNIA (SA),0.45,False,True
+LEO,12,2,M,ELBOW SPRAIN/STRAIN,0.365,False,False
+LEO,12,2,F,SKIN INFECTION,0.378,False,False
+LEO,12,2,M,HEADACHE (SA),0.351,False,True
+LEO,12,2,F,ELBOW SPRAIN/STRAIN,0.365,False,False
+LEO,12,2,M,VIIP (SA),0.341,False,True
+LEO,12,2,F,HEADACHE (SA),0.351,False,True
+LEO,12,2,M,ANKLE SPRAIN/STRAIN,0.34,False,False
+LEO,12,2,F,VIIP (SA),0.341,False,True
+LEO,12,2,M,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+LEO,12,2,F,ANKLE SPRAIN/STRAIN,0.34,False,False
+LEO,12,2,M,PHARYNGITIS,0.331,False,False
+LEO,12,2,F,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+LEO,12,2,M,NECK INJURY,0.288,False,False
+LEO,12,2,F,PHARYNGITIS,0.331,False,False
+LEO,12,2,M,MOUTH ULCER,0.28,False,False
+LEO,12,2,F,NECK INJURY,0.288,False,False
+LEO,12,2,M,Dental Caries,0.259,False,False
+LEO,12,2,F,MOUTH ULCER,0.28,False,False
+LEO,12,2,M,KNEE SPRAIN/STRAIN,0.233,False,False
+LEO,12,2,F,Dental Caries,0.259,False,False
+LEO,12,2,M,PARESTHESIAS,0.199,False,False
+LEO,12,2,F,KNEE SPRAIN/STRAIN,0.233,False,False
+LEO,12,2,M,ACUTE SINUSITIS,0.197,False,False
+LEO,12,2,F,PARESTHESIAS,0.199,False,False
+LEO,12,2,M,EYE CHEMICAL BURN,0.197,False,False
+LEO,12,2,F,ACUTE SINUSITIS,0.197,False,False
+LEO,12,2,M,INDIGESTION,0.197,False,False
+LEO,12,2,F,EYE CHEMICAL BURN,0.197,False,False
+LEO,12,2,M,HEARING LOSS,0.179,False,False
+LEO,12,2,F,INDIGESTION,0.197,False,False
+LEO,12,2,M,WRIST SPRAIN/STRAIN,0.172,False,False
+LEO,12,2,F,HEARING LOSS,0.179,False,False
+LEO,12,2,M,CONSTIPATION (SA),0.17,False,True
+LEO,12,2,F,WRIST SPRAIN/STRAIN,0.172,False,False
+LEO,12,2,M,EYE INFECTION,0.167,False,False
+LEO,12,2,F,CONSTIPATION (SA),0.17,False,True
+LEO,12,2,M,URINARY TRACT INFECTION,0.156,False,False
+LEO,12,2,F,EYE INFECTION,0.167,False,False
+LEO,12,2,M,HIP SPRAIN/STRAIN,0.14,False,False
+LEO,12,2,F,HIP SPRAIN/STRAIN,0.14,False,False
+LEO,12,2,M,GASTROENTERITIS,0.136,False,False
+LEO,12,2,F,GASTROENTERITIS,0.136,False,False
+LEO,12,2,M,FINGERNAIL DELAMINATION,0.125,False,False
+LEO,12,2,F,FINGERNAIL DELAMINATION,0.125,False,False
+LEO,12,2,M,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+LEO,12,2,F,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+LEO,12,2,M,OTITIS EXTERNA,0.104,False,False
+LEO,12,2,F,OTITIS EXTERNA,0.104,False,False
+LEO,12,2,M,OTITIS MEDIA,0.104,False,False
+LEO,12,2,F,OTITIS MEDIA,0.104,False,False
+LEO,12,2,M,HEMORRHOIDS,0.0705,False,False
+LEO,12,2,F,HEMORRHOIDS,0.0705,False,False
+LEO,12,2,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+LEO,12,2,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+LEO,12,2,M,Lower Extremity Stress Fracture,0.0411,False,False
+LEO,12,2,F,Lower Extremity Stress Fracture,0.0648,False,False
+LEO,12,2,M,FINGER DISLOCATION,0.0359,False,False
+LEO,12,2,F,Vaginal Yeast Infection,0.0625,False,False
+LEO,12,2,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+LEO,12,2,F,URINARY INCONTINENCE (SA),0.0556,False,True
+LEO,12,2,M,INFLUENZA,0.0359,False,False
+LEO,12,2,F,URINARY RETENTION (SA),0.0556,False,True
+LEO,12,2,M,SKIN LACERATION,0.0359,False,False
+LEO,12,2,F,Abnormal Uterine Bleeding,0.0507,False,False
+LEO,12,2,M,Decompression Sickness Secondary to EVA,0.023,False,False
+LEO,12,2,F,FINGER DISLOCATION,0.0359,False,False
+LEO,12,2,M,Dental: Abscess,0.0227,False,False
+LEO,12,2,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+LEO,12,2,M,SMOKE INHALATION,0.0222,False,False
+LEO,12,2,F,INFLUENZA,0.0359,False,False
+LEO,12,2,M,Dental : Exposed Pulp,0.0199,False,False
+LEO,12,2,F,SKIN LACERATION,0.0359,False,False
+LEO,12,2,M,Burns Secondary to Fire,0.0105,False,False
+LEO,12,2,F,Decompression Sickness Secondary to EVA,0.023,False,False
+LEO,12,2,M,NOSE BLEED (SA),0.00904,False,True
+LEO,12,2,F,Dental: Abscess,0.0227,False,False
+LEO,12,2,M,URINARY RETENTION (SA),0.00697,False,True
+LEO,12,2,F,SMOKE INHALATION,0.0222,False,False
+LEO,12,2,M,Hypertension,0.00644,False,False
+LEO,12,2,F,Dental : Exposed Pulp,0.0199,False,False
+LEO,12,2,M,Dental: Filling Loss,0.0051,False,False
+LEO,12,2,F,Burns Secondary to Fire,0.0105,False,False
+LEO,12,2,M,Acute Prostatitis,0.00489,False,False
+LEO,12,2,F,NOSE BLEED (SA),0.00904,False,True
+LEO,12,2,M,Nephrolithiasis,0.00364,False,False
+LEO,12,2,F,Anxiety,0.00707,False,False
+LEO,12,2,M,Dental: Avulsion (tooth loss),0.00292,False,False
+LEO,12,2,F,Hypertension,0.00644,False,False
+LEO,12,2,M,Depression,0.0029,False,False
+LEO,12,2,F,Dental: Filling Loss,0.0051,False,False
+LEO,12,2,M,Acute Radiation Syndrome,0.00283,False,False
+LEO,12,2,F,Acute Arthritis,0.00375,False,False
+LEO,12,2,M,Sepsis,0.0024,False,False
+LEO,12,2,F,Nephrolithiasis,0.00364,False,False
+LEO,12,2,M,Wrist Fracture,0.00236,False,False
+LEO,12,2,F,Depression,0.00359,False,False
+LEO,12,2,M,Anxiety,0.0019,False,False
+LEO,12,2,F,Dental: Avulsion (tooth loss),0.00292,False,False
+LEO,12,2,M,Acute Arthritis,0.00153,False,False
+LEO,12,2,F,Acute Radiation Syndrome,0.00283,False,False
+LEO,12,2,M,Acute Diverticulitis,0.00142,False,False
+LEO,12,2,F,Sepsis,0.0024,False,False
+LEO,12,2,M,Stroke (Cerebrovascular Accident),0.00098,False,False
+LEO,12,2,F,Wrist Fracture,0.00236,False,False
+LEO,12,2,M,Appendicitis,0.000935,False,False
+LEO,12,2,F,Acute Diverticulitis,0.00142,False,False
+LEO,12,2,M,Acute Cholecystitis/Billiary Colic,0.000769,False,False
+LEO,12,2,F,Acute Cholecystitis/Billiary Colic,0.00127,False,False
+LEO,12,2,M,Atrial Fibrillation/Atrial Flutter,0.00071,False,False
+LEO,12,2,F,Appendicitis,0.000935,False,False
+LEO,12,2,M,Traumatic Hypovolemic Shock,0.000641,False,False
+LEO,12,2,F,Stroke (Cerebrovascular Accident),0.00068,False,False
+LEO,12,2,M,Angina/Myocardial Infarction,0.00063,False,False
+LEO,12,2,F,Traumatic Hypovolemic Shock,0.000641,False,False
+LEO,12,2,M,Anaphylaxis,0.000491,False,False
+LEO,12,2,F,Anaphylaxis,0.000491,False,False
+LEO,12,2,M,Abdominal Wall Hernia,0.00045,False,False
+LEO,12,2,F,Angina/Myocardial Infarction,0.00047,False,False
+LEO,12,2,M,Head Injury,0.000422,False,False
+LEO,12,2,F,Abdominal Wall Hernia,0.00045,False,False
+LEO,12,2,M,Hip/Proximal Femur Fracture,0.000418,False,False
+LEO,12,2,F,Head Injury,0.000422,False,False
+LEO,12,2,M,Acute Pancreatitis,0.000307,False,False
+LEO,12,2,F,Acute Pancreatitis,0.000307,False,False
+LEO,12,2,M,Seizures,0.00027,False,False
+LEO,12,2,F,Seizures,0.00027,False,False
+LEO,12,2,M,Chest Injury,0.000256,False,False
+LEO,12,2,F,Chest Injury,0.000256,False,False
+LEO,12,2,M,Lumbar Spine Fracture,0.000201,False,False
+LEO,12,2,F,Atrial Fibrillation/Atrial Flutter,0.000234,False,False
+LEO,12,2,M,Abdominal Injury,0.000164,False,False
+LEO,12,2,F,Lumbar Spine Fracture,0.000173,False,False
+LEO,12,2,M,Eye Corneal Ulcer,0.00014,False,False
+LEO,12,2,F,Abdominal Injury,0.000164,False,False
+LEO,12,2,M,Retinal Detachment,0.000119,False,False
+LEO,12,2,F,Eye Corneal Ulcer,0.00014,False,False
+LEO,12,2,M,Acute Compartment Syndrome,7.3e-05,False,False
+LEO,12,2,F,Hip/Proximal Femur Fracture,0.000112,False,False
+LEO,12,2,M,Altitude Sickness,5.43e-05,False,False
+LEO,12,2,F,Retinal Detachment,6.55e-05,False,False
+LEO,12,2,M,Elbow Dislocation,5.21e-05,False,False
+LEO,12,2,F,Acute Glaucoma,5.68e-05,False,False
+LEO,12,2,M,Shoulder Dislocation,3.72e-05,False,False
+LEO,12,2,F,Altitude Sickness,5.43e-05,False,False
+LEO,12,2,M,Acute Glaucoma,2.7e-05,False,False
+LEO,12,2,F,Elbow Dislocation,5.21e-05,False,False
+LEO,12,2,M,Sudden Cardiac Arrest,1.5e-05,False,False
+LEO,12,2,F,Shoulder Dislocation,3.72e-05,False,False
+LEO,12,2,M,Behavioral Emergency,1.43e-05,False,False
+LEO,12,2,F,Sudden Cardiac Arrest,1.5e-05,False,False
+LEO,12,2,M,Eye Penetration (foreign body),9.33e-06,False,False
+LEO,12,2,F,Behavioral Emergency,1.43e-05,False,False
+LEO,12,2,M,Cardiogenic Shock Secondary to Myocardial Infarction,7.49e-06,False,False
+LEO,12,2,F,Eye Penetration (foreign body),9.33e-06,False,False
+LEO,12,2,M,Neurogenic Shock,4.98e-06,False,False
+LEO,12,2,F,Acute Compartment Syndrome,7e-06,False,False
+LEO,12,2,M,Toxic Exposure: Ammonia,1.45e-06,False,False
+LEO,12,2,F,Cardiogenic Shock Secondary to Myocardial Infarction,5.29e-06,False,False
+LEO,12,2,M,Abnormal Uterine Bleeding,0.0,False,False
+LEO,12,2,F,Neurogenic Shock,4.98e-06,False,False
+LEO,12,2,M,URINARY INCONTINENCE (SA),0.0,False,True
+LEO,12,2,F,Toxic Exposure: Ammonia,1.45e-06,False,False
+LEO,12,2,M,Vaginal Yeast Infection,0.0,False,False
+LEO,12,2,F,Acute Prostatitis,0.0,False,False
+Deep Space Sortie,1,5,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+Deep Space Sortie,1,5,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+Deep Space Sortie,1,5,M,NASAL CONGESTION (SA),0.586,False,True
+Deep Space Sortie,1,5,F,NASAL CONGESTION (SA),0.586,False,True
+Deep Space Sortie,1,5,M,BACK PAIN (SA),0.525,False,True
+Deep Space Sortie,1,5,F,BACK PAIN (SA),0.525,False,True
+Deep Space Sortie,1,5,M,INSOMNIA (SA),0.45,False,True
+Deep Space Sortie,1,5,F,INSOMNIA (SA),0.45,False,True
+Deep Space Sortie,1,5,M,PARESTHESIAS,0.427,False,False
+Deep Space Sortie,1,5,F,PARESTHESIAS,0.427,False,False
+Deep Space Sortie,1,5,M,HEADACHE (SA),0.351,False,True
+Deep Space Sortie,1,5,F,HEADACHE (SA),0.351,False,True
+Deep Space Sortie,1,5,M,VIIP (SA),0.341,False,True
+Deep Space Sortie,1,5,F,VIIP (SA),0.341,False,True
+Deep Space Sortie,1,5,M,LATE INSOMNIA,0.333,False,False
+Deep Space Sortie,1,5,F,LATE INSOMNIA,0.333,False,False
+Deep Space Sortie,1,5,M,FINGERNAIL DELAMINATION,0.285,False,False
+Deep Space Sortie,1,5,F,FINGERNAIL DELAMINATION,0.285,False,False
+Deep Space Sortie,1,5,M,SKIN ABRASION,0.249,False,False
+Deep Space Sortie,1,5,F,SKIN ABRASION,0.249,False,False
+Deep Space Sortie,1,5,M,SKIN RASH,0.249,False,False
+Deep Space Sortie,1,5,F,SKIN RASH,0.249,False,False
+Deep Space Sortie,1,5,M,EYE ABRASION (FOREIGN BODY),0.192,False,False
+Deep Space Sortie,1,5,F,EYE ABRASION (FOREIGN BODY),0.192,False,False
+Deep Space Sortie,1,5,M,CONSTIPATION (SA),0.17,False,True
+Deep Space Sortie,1,5,F,CONSTIPATION (SA),0.17,False,True
+Deep Space Sortie,1,5,M,HEADACHE (LATE),0.139,False,False
+Deep Space Sortie,1,5,F,HEADACHE (LATE),0.139,False,False
+Deep Space Sortie,1,5,M,DIARRHEA,0.0956,False,False
+Deep Space Sortie,1,5,F,URINARY TRACT INFECTION,0.106,False,False
+Deep Space Sortie,1,5,M,RESPIRATORY INFECTION,0.0956,False,False
+Deep Space Sortie,1,5,F,DIARRHEA,0.0956,False,False
+Deep Space Sortie,1,5,M,BACK INJURY,0.0931,False,False
+Deep Space Sortie,1,5,F,RESPIRATORY INFECTION,0.0956,False,False
+Deep Space Sortie,1,5,M,BAROTRAUMA (EAR/SINUS BLOCK),0.0901,False,False
+Deep Space Sortie,1,5,F,BACK INJURY,0.0931,False,False
+Deep Space Sortie,1,5,M,SHOULDER SPRAIN/STRAIN,0.067,False,False
+Deep Space Sortie,1,5,F,BAROTRAUMA (EAR/SINUS BLOCK),0.0901,False,False
+Deep Space Sortie,1,5,M,HEADACHE (CO2 INDUCED),0.0591,False,False
+Deep Space Sortie,1,5,F,SHOULDER SPRAIN/STRAIN,0.067,False,False
+Deep Space Sortie,1,5,M,Decompression Sickness Secondary to EVA,0.0565,False,False
+Deep Space Sortie,1,5,F,HEADACHE (CO2 INDUCED),0.0591,False,False
+Deep Space Sortie,1,5,M,SKIN INFECTION,0.0388,False,False
+Deep Space Sortie,1,5,F,Decompression Sickness Secondary to EVA,0.0565,False,False
+Deep Space Sortie,1,5,M,ELBOW SPRAIN/STRAIN,0.0371,False,False
+Deep Space Sortie,1,5,F,URINARY INCONTINENCE (SA),0.0556,False,True
+Deep Space Sortie,1,5,M,ANKLE SPRAIN/STRAIN,0.0341,False,False
+Deep Space Sortie,1,5,F,URINARY RETENTION (SA),0.0556,False,True
+Deep Space Sortie,1,5,M,ALLERGIC REACTION (MILD TO MODERATE),0.0329,False,False
+Deep Space Sortie,1,5,F,SKIN INFECTION,0.0388,False,False
+Deep Space Sortie,1,5,M,PHARYNGITIS,0.0329,False,False
+Deep Space Sortie,1,5,F,ELBOW SPRAIN/STRAIN,0.0371,False,False
+Deep Space Sortie,1,5,M,NECK INJURY,0.028,False,False
+Deep Space Sortie,1,5,F,ANKLE SPRAIN/STRAIN,0.0341,False,False
+Deep Space Sortie,1,5,M,MOUTH ULCER,0.027,False,False
+Deep Space Sortie,1,5,F,ALLERGIC REACTION (MILD TO MODERATE),0.0329,False,False
+Deep Space Sortie,1,5,M,Dental Caries,0.0247,False,False
+Deep Space Sortie,1,5,F,PHARYNGITIS,0.0329,False,False
+Deep Space Sortie,1,5,M,KNEE SPRAIN/STRAIN,0.0218,False,False
+Deep Space Sortie,1,5,F,NECK INJURY,0.028,False,False
+Deep Space Sortie,1,5,M,ACUTE SINUSITIS,0.0181,False,False
+Deep Space Sortie,1,5,F,MOUTH ULCER,0.027,False,False
+Deep Space Sortie,1,5,M,EYE CHEMICAL BURN,0.0181,False,False
+Deep Space Sortie,1,5,F,Dental Caries,0.0247,False,False
+Deep Space Sortie,1,5,M,INDIGESTION,0.0181,False,False
+Deep Space Sortie,1,5,F,KNEE SPRAIN/STRAIN,0.0218,False,False
+Deep Space Sortie,1,5,M,HEARING LOSS,0.0163,False,False
+Deep Space Sortie,1,5,F,ACUTE SINUSITIS,0.0181,False,False
+Deep Space Sortie,1,5,M,WRIST SPRAIN/STRAIN,0.0156,False,False
+Deep Space Sortie,1,5,F,EYE CHEMICAL BURN,0.0181,False,False
+Deep Space Sortie,1,5,M,EYE INFECTION,0.0151,False,False
+Deep Space Sortie,1,5,F,INDIGESTION,0.0181,False,False
+Deep Space Sortie,1,5,M,URINARY TRACT INFECTION,0.014,False,False
+Deep Space Sortie,1,5,F,HEARING LOSS,0.0163,False,False
+Deep Space Sortie,1,5,M,HIP SPRAIN/STRAIN,0.0125,False,False
+Deep Space Sortie,1,5,F,WRIST SPRAIN/STRAIN,0.0156,False,False
+Deep Space Sortie,1,5,M,GASTROENTERITIS,0.0121,False,False
+Deep Space Sortie,1,5,F,EYE INFECTION,0.0151,False,False
+Deep Space Sortie,1,5,M,CHOKING/OBSTRUCTED AIRWAY,0.0091,False,False
+Deep Space Sortie,1,5,F,HIP SPRAIN/STRAIN,0.0125,False,False
+Deep Space Sortie,1,5,M,OTITIS EXTERNA,0.0091,False,False
+Deep Space Sortie,1,5,F,GASTROENTERITIS,0.0121,False,False
+Deep Space Sortie,1,5,M,OTITIS MEDIA,0.0091,False,False
+Deep Space Sortie,1,5,F,CHOKING/OBSTRUCTED AIRWAY,0.0091,False,False
+Deep Space Sortie,1,5,M,NOSE BLEED (SA),0.00904,False,True
+Deep Space Sortie,1,5,F,OTITIS EXTERNA,0.0091,False,False
+Deep Space Sortie,1,5,M,URINARY RETENTION (SA),0.00697,False,True
+Deep Space Sortie,1,5,F,OTITIS MEDIA,0.0091,False,False
+Deep Space Sortie,1,5,M,HEMORRHOIDS,0.00607,False,False
+Deep Space Sortie,1,5,F,NOSE BLEED (SA),0.00904,False,True
+Deep Space Sortie,1,5,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.00607,False,False
+Deep Space Sortie,1,5,F,HEMORRHOIDS,0.00607,False,False
+Deep Space Sortie,1,5,M,Lower Extremity Stress Fracture,0.00349,False,False
+Deep Space Sortie,1,5,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.00607,False,False
+Deep Space Sortie,1,5,M,FINGER DISLOCATION,0.00304,False,False
+Deep Space Sortie,1,5,F,Lower Extremity Stress Fracture,0.00557,False,False
+Deep Space Sortie,1,5,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.00304,False,False
+Deep Space Sortie,1,5,F,Vaginal Yeast Infection,0.00536,False,False
+Deep Space Sortie,1,5,M,INFLUENZA,0.00304,False,False
+Deep Space Sortie,1,5,F,Abnormal Uterine Bleeding,0.00432,False,False
+Deep Space Sortie,1,5,M,SKIN LACERATION,0.00304,False,False
+Deep Space Sortie,1,5,F,FINGER DISLOCATION,0.00304,False,False
+Deep Space Sortie,1,5,M,Dental: Abscess,0.00191,False,False
+Deep Space Sortie,1,5,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.00304,False,False
+Deep Space Sortie,1,5,M,SMOKE INHALATION,0.00187,False,False
+Deep Space Sortie,1,5,F,INFLUENZA,0.00304,False,False
+Deep Space Sortie,1,5,M,Dental : Exposed Pulp,0.00167,False,False
+Deep Space Sortie,1,5,F,SKIN LACERATION,0.00304,False,False
+Deep Space Sortie,1,5,M,Burns Secondary to Fire,0.000878,False,False
+Deep Space Sortie,1,5,F,Dental: Abscess,0.00191,False,False
+Deep Space Sortie,1,5,M,Hypertension,0.000538,False,False
+Deep Space Sortie,1,5,F,SMOKE INHALATION,0.00187,False,False
+Deep Space Sortie,1,5,M,Dental: Filling Loss,0.000426,False,False
+Deep Space Sortie,1,5,F,Dental : Exposed Pulp,0.00167,False,False
+Deep Space Sortie,1,5,M,Acute Prostatitis,0.000408,False,False
+Deep Space Sortie,1,5,F,Burns Secondary to Fire,0.000878,False,False
+Deep Space Sortie,1,5,M,Nephrolithiasis,0.000304,False,False
+Deep Space Sortie,1,5,F,Anxiety,0.000591,False,False
+Deep Space Sortie,1,5,M,Dental: Avulsion (tooth loss),0.000243,False,False
+Deep Space Sortie,1,5,F,Hypertension,0.000538,False,False
+Deep Space Sortie,1,5,M,Depression,0.000242,False,False
+Deep Space Sortie,1,5,F,Dental: Filling Loss,0.000426,False,False
+Deep Space Sortie,1,5,M,Acute Radiation Syndrome,0.000236,False,False
+Deep Space Sortie,1,5,F,Acute Arthritis,0.000313,False,False
+Deep Space Sortie,1,5,M,Sepsis,0.0002,False,False
+Deep Space Sortie,1,5,F,Nephrolithiasis,0.000304,False,False
+Deep Space Sortie,1,5,M,Wrist Fracture,0.000197,False,False
+Deep Space Sortie,1,5,F,Depression,0.0003,False,False
+Deep Space Sortie,1,5,M,Anxiety,0.000158,False,False
+Deep Space Sortie,1,5,F,Dental: Avulsion (tooth loss),0.000243,False,False
+Deep Space Sortie,1,5,M,Acute Arthritis,0.000127,False,False
+Deep Space Sortie,1,5,F,Acute Radiation Syndrome,0.000236,False,False
+Deep Space Sortie,1,5,M,Acute Diverticulitis,0.000118,False,False
+Deep Space Sortie,1,5,F,Sepsis,0.0002,False,False
+Deep Space Sortie,1,5,M,Stroke (Cerebrovascular Accident),8.17e-05,False,False
+Deep Space Sortie,1,5,F,Wrist Fracture,0.000197,False,False
+Deep Space Sortie,1,5,M,Appendicitis,7.79e-05,False,False
+Deep Space Sortie,1,5,F,Acute Diverticulitis,0.000118,False,False
+Deep Space Sortie,1,5,M,Acute Cholecystitis/Billiary Colic,6.41e-05,False,False
+Deep Space Sortie,1,5,F,Acute Cholecystitis/Billiary Colic,0.000106,False,False
+Deep Space Sortie,1,5,M,Atrial Fibrillation/Atrial Flutter,5.92e-05,False,False
+Deep Space Sortie,1,5,F,Appendicitis,7.79e-05,False,False
+Deep Space Sortie,1,5,M,Traumatic Hypovolemic Shock,5.34e-05,False,False
+Deep Space Sortie,1,5,F,Stroke (Cerebrovascular Accident),5.67e-05,False,False
+Deep Space Sortie,1,5,M,Angina/Myocardial Infarction,5.25e-05,False,False
+Deep Space Sortie,1,5,F,Traumatic Hypovolemic Shock,5.34e-05,False,False
+Deep Space Sortie,1,5,M,Anaphylaxis,4.09e-05,False,False
+Deep Space Sortie,1,5,F,Anaphylaxis,4.09e-05,False,False
+Deep Space Sortie,1,5,M,Abdominal Wall Hernia,3.75e-05,False,False
+Deep Space Sortie,1,5,F,Angina/Myocardial Infarction,3.92e-05,False,False
+Deep Space Sortie,1,5,M,Head Injury,3.52e-05,False,False
+Deep Space Sortie,1,5,F,Abdominal Wall Hernia,3.75e-05,False,False
+Deep Space Sortie,1,5,M,Hip/Proximal Femur Fracture,3.48e-05,False,False
+Deep Space Sortie,1,5,F,Head Injury,3.52e-05,False,False
+Deep Space Sortie,1,5,M,Acute Pancreatitis,2.56e-05,False,False
+Deep Space Sortie,1,5,F,Acute Pancreatitis,2.56e-05,False,False
+Deep Space Sortie,1,5,M,Seizures,2.25e-05,False,False
+Deep Space Sortie,1,5,F,Seizures,2.25e-05,False,False
+Deep Space Sortie,1,5,M,Chest Injury,2.14e-05,False,False
+Deep Space Sortie,1,5,F,Chest Injury,2.14e-05,False,False
+Deep Space Sortie,1,5,M,Lumbar Spine Fracture,1.67e-05,False,False
+Deep Space Sortie,1,5,F,Atrial Fibrillation/Atrial Flutter,1.95e-05,False,False
+Deep Space Sortie,1,5,M,Abdominal Injury,1.37e-05,False,False
+Deep Space Sortie,1,5,F,Lumbar Spine Fracture,1.44e-05,False,False
+Deep Space Sortie,1,5,M,Eye Corneal Ulcer,1.17e-05,False,False
+Deep Space Sortie,1,5,F,Abdominal Injury,1.37e-05,False,False
+Deep Space Sortie,1,5,M,Retinal Detachment,9.92e-06,False,False
+Deep Space Sortie,1,5,F,Eye Corneal Ulcer,1.17e-05,False,False
+Deep Space Sortie,1,5,M,Acute Compartment Syndrome,6.08e-06,False,False
+Deep Space Sortie,1,5,F,Hip/Proximal Femur Fracture,9.35e-06,False,False
+Deep Space Sortie,1,5,M,Altitude Sickness,4.52e-06,False,False
+Deep Space Sortie,1,5,F,Retinal Detachment,5.46e-06,False,False
+Deep Space Sortie,1,5,M,Elbow Dislocation,4.34e-06,False,False
+Deep Space Sortie,1,5,F,Acute Glaucoma,4.73e-06,False,False
+Deep Space Sortie,1,5,M,Shoulder Dislocation,3.1e-06,False,False
+Deep Space Sortie,1,5,F,Altitude Sickness,4.52e-06,False,False
+Deep Space Sortie,1,5,M,Acute Glaucoma,2.25e-06,False,False
+Deep Space Sortie,1,5,F,Elbow Dislocation,4.34e-06,False,False
+Deep Space Sortie,1,5,M,Sudden Cardiac Arrest,1.25e-06,False,False
+Deep Space Sortie,1,5,F,Shoulder Dislocation,3.1e-06,False,False
+Deep Space Sortie,1,5,M,Behavioral Emergency,1.19e-06,False,False
+Deep Space Sortie,1,5,F,Sudden Cardiac Arrest,1.25e-06,False,False
+Deep Space Sortie,1,5,M,Eye Penetration (foreign body),7.78e-07,False,False
+Deep Space Sortie,1,5,F,Behavioral Emergency,1.19e-06,False,False
+Deep Space Sortie,1,5,M,Cardiogenic Shock Secondary to Myocardial Infarction,6.24e-07,False,False
+Deep Space Sortie,1,5,F,Eye Penetration (foreign body),7.78e-07,False,False
+Deep Space Sortie,1,5,M,Neurogenic Shock,4.15e-07,False,False
+Deep Space Sortie,1,5,F,Acute Compartment Syndrome,5.83e-07,False,False
+Deep Space Sortie,1,5,M,Toxic Exposure: Ammonia,1.21e-07,False,False
+Deep Space Sortie,1,5,F,Cardiogenic Shock Secondary to Myocardial Infarction,4.41e-07,False,False
+Deep Space Sortie,1,5,M,Abnormal Uterine Bleeding,0.0,False,False
+Deep Space Sortie,1,5,F,Neurogenic Shock,4.15e-07,False,False
+Deep Space Sortie,1,5,M,URINARY INCONTINENCE (SA),0.0,False,True
+Deep Space Sortie,1,5,F,Toxic Exposure: Ammonia,1.21e-07,False,False
+Deep Space Sortie,1,5,M,Vaginal Yeast Infection,0.0,False,False
+Deep Space Sortie,1,5,F,Acute Prostatitis,0.0,False,False
+Lunar visita/habitación,12,50,M,PARESTHESIAS,0.996,False,False
+Lunar visita/habitación,12,50,F,PARESTHESIAS,0.996,False,False
+Lunar visita/habitación,12,50,M,LATE INSOMNIA,0.992,False,False
+Lunar visita/habitación,12,50,F,LATE INSOMNIA,0.992,False,False
+Lunar visita/habitación,12,50,M,SKIN ABRASION,0.968,False,False
+Lunar visita/habitación,12,50,F,SKIN ABRASION,0.968,False,False
+Lunar visita/habitación,12,50,M,SKIN RASH,0.968,False,False
+Lunar visita/habitación,12,50,F,SKIN RASH,0.968,False,False
+Lunar visita/habitación,12,50,M,FINGERNAIL DELAMINATION,0.965,False,False
+Lunar visita/habitación,12,50,F,FINGERNAIL DELAMINATION,0.965,False,False
+Lunar visita/habitación,12,50,M,EYE ABRASION (FOREIGN BODY),0.923,False,False
+Lunar visita/habitación,12,50,F,EYE ABRASION (FOREIGN BODY),0.923,False,False
+Lunar visita/habitación,12,50,M,HEADACHE (LATE),0.833,False,False
+Lunar visita/habitación,12,50,F,HEADACHE (LATE),0.833,False,False
+Lunar visita/habitación,12,50,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+Lunar visita/habitación,12,50,F,URINARY TRACT INFECTION,0.74,False,False
+Lunar visita/habitación,12,50,M,DIARRHEA,0.701,False,False
+Lunar visita/habitación,12,50,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+Lunar visita/habitación,12,50,M,RESPIRATORY INFECTION,0.701,False,False
+Lunar visita/habitación,12,50,F,DIARRHEA,0.701,False,False
+Lunar visita/habitación,12,50,M,BACK INJURY,0.69,False,False
+Lunar visita/habitación,12,50,F,RESPIRATORY INFECTION,0.701,False,False
+Lunar visita/habitación,12,50,M,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+Lunar visita/habitación,12,50,F,BACK INJURY,0.69,False,False
+Lunar visita/habitación,12,50,M,NASAL CONGESTION (SA),0.586,False,True
+Lunar visita/habitación,12,50,F,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+Lunar visita/habitación,12,50,M,SHOULDER SPRAIN/STRAIN,0.565,False,False
+Lunar visita/habitación,12,50,F,NASAL CONGESTION (SA),0.586,False,True
+Lunar visita/habitación,12,50,M,BACK PAIN (SA),0.525,False,True
+Lunar visita/habitación,12,50,F,SHOULDER SPRAIN/STRAIN,0.565,False,False
+Lunar visita/habitación,12,50,M,HEADACHE (CO2 INDUCED),0.519,False,False
+Lunar visita/habitación,12,50,F,BACK PAIN (SA),0.525,False,True
+Lunar visita/habitación,12,50,M,INSOMNIA (SA),0.45,False,True
+Lunar visita/habitación,12,50,F,HEADACHE (CO2 INDUCED),0.519,False,False
+Lunar visita/habitación,12,50,M,Decompression Sickness Secondary to EVA,0.441,False,False
+Lunar visita/habitación,12,50,F,INSOMNIA (SA),0.45,False,True
+Lunar visita/habitación,12,50,M,SKIN INFECTION,0.378,False,False
+Lunar visita/habitación,12,50,F,Decompression Sickness Secondary to EVA,0.441,False,False
+Lunar visita/habitación,12,50,M,ELBOW SPRAIN/STRAIN,0.365,False,False
+Lunar visita/habitación,12,50,F,SKIN INFECTION,0.378,False,False
+Lunar visita/habitación,12,50,M,HEADACHE (SA),0.351,False,True
+Lunar visita/habitación,12,50,F,ELBOW SPRAIN/STRAIN,0.365,False,False
+Lunar visita/habitación,12,50,M,VIIP (SA),0.341,False,True
+Lunar visita/habitación,12,50,F,HEADACHE (SA),0.351,False,True
+Lunar visita/habitación,12,50,M,ANKLE SPRAIN/STRAIN,0.34,False,False
+Lunar visita/habitación,12,50,F,VIIP (SA),0.341,False,True
+Lunar visita/habitación,12,50,M,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+Lunar visita/habitación,12,50,F,ANKLE SPRAIN/STRAIN,0.34,False,False
+Lunar visita/habitación,12,50,M,PHARYNGITIS,0.331,False,False
+Lunar visita/habitación,12,50,F,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+Lunar visita/habitación,12,50,M,NECK INJURY,0.288,False,False
+Lunar visita/habitación,12,50,F,PHARYNGITIS,0.331,False,False
+Lunar visita/habitación,12,50,M,MOUTH ULCER,0.28,False,False
+Lunar visita/habitación,12,50,F,NECK INJURY,0.288,False,False
+Lunar visita/habitación,12,50,M,Dental Caries,0.259,False,False
+Lunar visita/habitación,12,50,F,MOUTH ULCER,0.28,False,False
+Lunar visita/habitación,12,50,M,KNEE SPRAIN/STRAIN,0.233,False,False
+Lunar visita/habitación,12,50,F,Dental Caries,0.259,False,False
+Lunar visita/habitación,12,50,M,ACUTE SINUSITIS,0.197,False,False
+Lunar visita/habitación,12,50,F,KNEE SPRAIN/STRAIN,0.233,False,False
+Lunar visita/habitación,12,50,M,EYE CHEMICAL BURN,0.197,False,False
+Lunar visita/habitación,12,50,F,ACUTE SINUSITIS,0.197,False,False
+Lunar visita/habitación,12,50,M,INDIGESTION,0.197,False,False
+Lunar visita/habitación,12,50,F,EYE CHEMICAL BURN,0.197,False,False
+Lunar visita/habitación,12,50,M,HEARING LOSS,0.179,False,False
+Lunar visita/habitación,12,50,F,INDIGESTION,0.197,False,False
+Lunar visita/habitación,12,50,M,WRIST SPRAIN/STRAIN,0.172,False,False
+Lunar visita/habitación,12,50,F,HEARING LOSS,0.179,False,False
+Lunar visita/habitación,12,50,M,CONSTIPATION (SA),0.17,False,True
+Lunar visita/habitación,12,50,F,WRIST SPRAIN/STRAIN,0.172,False,False
+Lunar visita/habitación,12,50,M,EYE INFECTION,0.167,False,False
+Lunar visita/habitación,12,50,F,CONSTIPATION (SA),0.17,False,True
+Lunar visita/habitación,12,50,M,URINARY TRACT INFECTION,0.156,False,False
+Lunar visita/habitación,12,50,F,EYE INFECTION,0.167,False,False
+Lunar visita/habitación,12,50,M,HIP SPRAIN/STRAIN,0.14,False,False
+Lunar visita/habitación,12,50,F,HIP SPRAIN/STRAIN,0.14,False,False
+Lunar visita/habitación,12,50,M,GASTROENTERITIS,0.136,False,False
+Lunar visita/habitación,12,50,F,GASTROENTERITIS,0.136,False,False
+Lunar visita/habitación,12,50,M,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+Lunar visita/habitación,12,50,F,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+Lunar visita/habitación,12,50,M,OTITIS EXTERNA,0.104,False,False
+Lunar visita/habitación,12,50,F,OTITIS EXTERNA,0.104,False,False
+Lunar visita/habitación,12,50,M,OTITIS MEDIA,0.104,False,False
+Lunar visita/habitación,12,50,F,OTITIS MEDIA,0.104,False,False
+Lunar visita/habitación,12,50,M,HEMORRHOIDS,0.0705,False,False
+Lunar visita/habitación,12,50,F,HEMORRHOIDS,0.0705,False,False
+Lunar visita/habitación,12,50,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+Lunar visita/habitación,12,50,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+Lunar visita/habitación,12,50,M,Lower Extremity Stress Fracture,0.0411,False,False
+Lunar visita/habitación,12,50,F,Lower Extremity Stress Fracture,0.0648,False,False
+Lunar visita/habitación,12,50,M,FINGER DISLOCATION,0.0359,False,False
+Lunar visita/habitación,12,50,F,Vaginal Yeast Infection,0.0625,False,False
+Lunar visita/habitación,12,50,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+Lunar visita/habitación,12,50,F,URINARY INCONTINENCE (SA),0.0556,False,True
+Lunar visita/habitación,12,50,M,INFLUENZA,0.0359,False,False
+Lunar visita/habitación,12,50,F,URINARY RETENTION (SA),0.0556,False,True
+Lunar visita/habitación,12,50,M,SKIN LACERATION,0.0359,False,False
+Lunar visita/habitación,12,50,F,Abnormal Uterine Bleeding,0.0507,False,False
+Lunar visita/habitación,12,50,M,Dental: Abscess,0.0227,False,False
+Lunar visita/habitación,12,50,F,FINGER DISLOCATION,0.0359,False,False
+Lunar visita/habitación,12,50,M,SMOKE INHALATION,0.0222,False,False
+Lunar visita/habitación,12,50,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+Lunar visita/habitación,12,50,M,Dental : Exposed Pulp,0.0199,False,False
+Lunar visita/habitación,12,50,F,INFLUENZA,0.0359,False,False
+Lunar visita/habitación,12,50,M,Burns Secondary to Fire,0.0105,False,False
+Lunar visita/habitación,12,50,F,SKIN LACERATION,0.0359,False,False
+Lunar visita/habitación,12,50,M,NOSE BLEED (SA),0.00904,False,True
+Lunar visita/habitación,12,50,F,Dental: Abscess,0.0227,False,False
+Lunar visita/habitación,12,50,M,URINARY RETENTION (SA),0.00697,False,True
+Lunar visita/habitación,12,50,F,SMOKE INHALATION,0.0222,False,False
+Lunar visita/habitación,12,50,M,Hypertension,0.00644,False,False
+Lunar visita/habitación,12,50,F,Dental : Exposed Pulp,0.0199,False,False
+Lunar visita/habitación,12,50,M,Dental: Filling Loss,0.0051,False,False
+Lunar visita/habitación,12,50,F,Burns Secondary to Fire,0.0105,False,False
+Lunar visita/habitación,12,50,M,Acute Prostatitis,0.00489,False,False
+Lunar visita/habitación,12,50,F,NOSE BLEED (SA),0.00904,False,True
+Lunar visita/habitación,12,50,M,Nephrolithiasis,0.00364,False,False
+Lunar visita/habitación,12,50,F,Anxiety,0.00707,False,False
+Lunar visita/habitación,12,50,M,Dental: Avulsion (tooth loss),0.00292,False,False
+Lunar visita/habitación,12,50,F,Hypertension,0.00644,False,False
+Lunar visita/habitación,12,50,M,Depression,0.0029,False,False
+Lunar visita/habitación,12,50,F,Dental: Filling Loss,0.0051,False,False
+Lunar visita/habitación,12,50,M,Acute Radiation Syndrome,0.00283,False,False
+Lunar visita/habitación,12,50,F,Acute Arthritis,0.00375,False,False
+Lunar visita/habitación,12,50,M,Sepsis,0.0024,False,False
+Lunar visita/habitación,12,50,F,Nephrolithiasis,0.00364,False,False
+Lunar visita/habitación,12,50,M,Wrist Fracture,0.00236,False,False
+Lunar visita/habitación,12,50,F,Depression,0.00359,False,False
+Lunar visita/habitación,12,50,M,Anxiety,0.0019,False,False
+Lunar visita/habitación,12,50,F,Dental: Avulsion (tooth loss),0.00292,False,False
+Lunar visita/habitación,12,50,M,Acute Arthritis,0.00153,False,False
+Lunar visita/habitación,12,50,F,Acute Radiation Syndrome,0.00283,False,False
+Lunar visita/habitación,12,50,M,Acute Diverticulitis,0.00142,False,False
+Lunar visita/habitación,12,50,F,Sepsis,0.0024,False,False
+Lunar visita/habitación,12,50,M,Stroke (Cerebrovascular Accident),0.00098,False,False
+Lunar visita/habitación,12,50,F,Wrist Fracture,0.00236,False,False
+Lunar visita/habitación,12,50,M,Appendicitis,0.000935,False,False
+Lunar visita/habitación,12,50,F,Acute Diverticulitis,0.00142,False,False
+Lunar visita/habitación,12,50,M,Acute Cholecystitis/Billiary Colic,0.000769,False,False
+Lunar visita/habitación,12,50,F,Acute Cholecystitis/Billiary Colic,0.00127,False,False
+Lunar visita/habitación,12,50,M,Atrial Fibrillation/Atrial Flutter,0.00071,False,False
+Lunar visita/habitación,12,50,F,Appendicitis,0.000935,False,False
+Lunar visita/habitación,12,50,M,Traumatic Hypovolemic Shock,0.000641,False,False
+Lunar visita/habitación,12,50,F,Stroke (Cerebrovascular Accident),0.00068,False,False
+Lunar visita/habitación,12,50,M,Angina/Myocardial Infarction,0.00063,False,False
+Lunar visita/habitación,12,50,F,Traumatic Hypovolemic Shock,0.000641,False,False
+Lunar visita/habitación,12,50,M,Anaphylaxis,0.000491,False,False
+Lunar visita/habitación,12,50,F,Anaphylaxis,0.000491,False,False
+Lunar visita/habitación,12,50,M,Abdominal Wall Hernia,0.00045,False,False
+Lunar visita/habitación,12,50,F,Angina/Myocardial Infarction,0.00047,False,False
+Lunar visita/habitación,12,50,M,Head Injury,0.000422,False,False
+Lunar visita/habitación,12,50,F,Abdominal Wall Hernia,0.00045,False,False
+Lunar visita/habitación,12,50,M,Hip/Proximal Femur Fracture,0.000418,False,False
+Lunar visita/habitación,12,50,F,Head Injury,0.000422,False,False
+Lunar visita/habitación,12,50,M,Acute Pancreatitis,0.000307,False,False
+Lunar visita/habitación,12,50,F,Acute Pancreatitis,0.000307,False,False
+Lunar visita/habitación,12,50,M,Seizures,0.00027,False,False
+Lunar visita/habitación,12,50,F,Seizures,0.00027,False,False
+Lunar visita/habitación,12,50,M,Chest Injury,0.000256,False,False
+Lunar visita/habitación,12,50,F,Chest Injury,0.000256,False,False
+Lunar visita/habitación,12,50,M,Lumbar Spine Fracture,0.000201,False,False
+Lunar visita/habitación,12,50,F,Atrial Fibrillation/Atrial Flutter,0.000234,False,False
+Lunar visita/habitación,12,50,M,Abdominal Injury,0.000164,False,False
+Lunar visita/habitación,12,50,F,Lumbar Spine Fracture,0.000173,False,False
+Lunar visita/habitación,12,50,M,Eye Corneal Ulcer,0.00014,False,False
+Lunar visita/habitación,12,50,F,Abdominal Injury,0.000164,False,False
+Lunar visita/habitación,12,50,M,Retinal Detachment,0.000119,False,False
+Lunar visita/habitación,12,50,F,Eye Corneal Ulcer,0.00014,False,False
+Lunar visita/habitación,12,50,M,Acute Compartment Syndrome,7.3e-05,False,False
+Lunar visita/habitación,12,50,F,Hip/Proximal Femur Fracture,0.000112,False,False
+Lunar visita/habitación,12,50,M,Altitude Sickness,5.43e-05,False,False
+Lunar visita/habitación,12,50,F,Retinal Detachment,6.55e-05,False,False
+Lunar visita/habitación,12,50,M,Elbow Dislocation,5.21e-05,False,False
+Lunar visita/habitación,12,50,F,Acute Glaucoma,5.68e-05,False,False
+Lunar visita/habitación,12,50,M,Shoulder Dislocation,3.72e-05,False,False
+Lunar visita/habitación,12,50,F,Altitude Sickness,5.43e-05,False,False
+Lunar visita/habitación,12,50,M,Acute Glaucoma,2.7e-05,False,False
+Lunar visita/habitación,12,50,F,Elbow Dislocation,5.21e-05,False,False
+Lunar visita/habitación,12,50,M,Sudden Cardiac Arrest,1.5e-05,False,False
+Lunar visita/habitación,12,50,F,Shoulder Dislocation,3.72e-05,False,False
+Lunar visita/habitación,12,50,M,Behavioral Emergency,1.43e-05,False,False
+Lunar visita/habitación,12,50,F,Sudden Cardiac Arrest,1.5e-05,False,False
+Lunar visita/habitación,12,50,M,Eye Penetration (foreign body),9.33e-06,False,False
+Lunar visita/habitación,12,50,F,Behavioral Emergency,1.43e-05,False,False
+Lunar visita/habitación,12,50,M,Cardiogenic Shock Secondary to Myocardial Infarction,7.49e-06,False,False
+Lunar visita/habitación,12,50,F,Eye Penetration (foreign body),9.33e-06,False,False
+Lunar visita/habitación,12,50,M,Neurogenic Shock,4.98e-06,False,False
+Lunar visita/habitación,12,50,F,Acute Compartment Syndrome,7e-06,False,False
+Lunar visita/habitación,12,50,M,Toxic Exposure: Ammonia,1.45e-06,False,False
+Lunar visita/habitación,12,50,F,Cardiogenic Shock Secondary to Myocardial Infarction,5.29e-06,False,False
+Lunar visita/habitación,12,50,M,Abnormal Uterine Bleeding,0.0,False,False
+Lunar visita/habitación,12,50,F,Neurogenic Shock,4.98e-06,False,False
+Lunar visita/habitación,12,50,M,URINARY INCONTINENCE (SA),0.0,False,True
+Lunar visita/habitación,12,50,F,Toxic Exposure: Ammonia,1.45e-06,False,False
+Lunar visita/habitación,12,50,M,Vaginal Yeast Infection,0.0,False,False
+Lunar visita/habitación,12,50,F,Acute Prostatitis,0.0,False,False
+Deep Space viaje/habitación,12,5,M,LATE INSOMNIA,0.992,False,False
+Deep Space viaje/habitación,12,5,F,LATE INSOMNIA,0.992,False,False
+Deep Space viaje/habitación,12,5,M,SKIN ABRASION,0.968,False,False
+Deep Space viaje/habitación,12,5,F,SKIN ABRASION,0.968,False,False
+Deep Space viaje/habitación,12,5,M,SKIN RASH,0.968,False,False
+Deep Space viaje/habitación,12,5,F,SKIN RASH,0.968,False,False
+Deep Space viaje/habitación,12,5,M,EYE ABRASION (FOREIGN BODY),0.923,False,False
+Deep Space viaje/habitación,12,5,F,EYE ABRASION (FOREIGN BODY),0.923,False,False
+Deep Space viaje/habitación,12,5,M,HEADACHE (LATE),0.833,False,False
+Deep Space viaje/habitación,12,5,F,HEADACHE (LATE),0.833,False,False
+Deep Space viaje/habitación,12,5,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+Deep Space viaje/habitación,12,5,F,URINARY TRACT INFECTION,0.74,False,False
+Deep Space viaje/habitación,12,5,M,DIARRHEA,0.701,False,False
+Deep Space viaje/habitación,12,5,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+Deep Space viaje/habitación,12,5,M,RESPIRATORY INFECTION,0.701,False,False
+Deep Space viaje/habitación,12,5,F,DIARRHEA,0.701,False,False
+Deep Space viaje/habitación,12,5,M,BACK INJURY,0.69,False,False
+Deep Space viaje/habitación,12,5,F,RESPIRATORY INFECTION,0.701,False,False
+Deep Space viaje/habitación,12,5,M,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+Deep Space viaje/habitación,12,5,F,BACK INJURY,0.69,False,False
+Deep Space viaje/habitación,12,5,M,NASAL CONGESTION (SA),0.586,False,True
+Deep Space viaje/habitación,12,5,F,BAROTRAUMA (EAR/SINUS BLOCK),0.678,False,False
+Deep Space viaje/habitación,12,5,M,SHOULDER SPRAIN/STRAIN,0.565,False,False
+Deep Space viaje/habitación,12,5,F,NASAL CONGESTION (SA),0.586,False,True
+Deep Space viaje/habitación,12,5,M,BACK PAIN (SA),0.525,False,True
+Deep Space viaje/habitación,12,5,F,SHOULDER SPRAIN/STRAIN,0.565,False,False
+Deep Space viaje/habitación,12,5,M,HEADACHE (CO2 INDUCED),0.519,False,False
+Deep Space viaje/habitación,12,5,F,BACK PAIN (SA),0.525,False,True
+Deep Space viaje/habitación,12,5,M,INSOMNIA (SA),0.45,False,True
+Deep Space viaje/habitación,12,5,F,HEADACHE (CO2 INDUCED),0.519,False,False
+Deep Space viaje/habitación,12,5,M,PARESTHESIAS,0.427,False,False
+Deep Space viaje/habitación,12,5,F,INSOMNIA (SA),0.45,False,True
+Deep Space viaje/habitación,12,5,M,SKIN INFECTION,0.378,False,False
+Deep Space viaje/habitación,12,5,F,PARESTHESIAS,0.427,False,False
+Deep Space viaje/habitación,12,5,M,ELBOW SPRAIN/STRAIN,0.365,False,False
+Deep Space viaje/habitación,12,5,F,SKIN INFECTION,0.378,False,False
+Deep Space viaje/habitación,12,5,M,HEADACHE (SA),0.351,False,True
+Deep Space viaje/habitación,12,5,F,ELBOW SPRAIN/STRAIN,0.365,False,False
+Deep Space viaje/habitación,12,5,M,VIIP (SA),0.341,False,True
+Deep Space viaje/habitación,12,5,F,HEADACHE (SA),0.351,False,True
+Deep Space viaje/habitación,12,5,M,ANKLE SPRAIN/STRAIN,0.34,False,False
+Deep Space viaje/habitación,12,5,F,VIIP (SA),0.341,False,True
+Deep Space viaje/habitación,12,5,M,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+Deep Space viaje/habitación,12,5,F,ANKLE SPRAIN/STRAIN,0.34,False,False
+Deep Space viaje/habitación,12,5,M,PHARYNGITIS,0.331,False,False
+Deep Space viaje/habitación,12,5,F,ALLERGIC REACTION (MILD TO MODERATE),0.331,False,False
+Deep Space viaje/habitación,12,5,M,NECK INJURY,0.288,False,False
+Deep Space viaje/habitación,12,5,F,PHARYNGITIS,0.331,False,False
+Deep Space viaje/habitación,12,5,M,FINGERNAIL DELAMINATION,0.285,False,False
+Deep Space viaje/habitación,12,5,F,NECK INJURY,0.288,False,False
+Deep Space viaje/habitación,12,5,M,MOUTH ULCER,0.28,False,False
+Deep Space viaje/habitación,12,5,F,FINGERNAIL DELAMINATION,0.285,False,False
+Deep Space viaje/habitación,12,5,M,Dental Caries,0.259,False,False
+Deep Space viaje/habitación,12,5,F,MOUTH ULCER,0.28,False,False
+Deep Space viaje/habitación,12,5,M,KNEE SPRAIN/STRAIN,0.233,False,False
+Deep Space viaje/habitación,12,5,F,Dental Caries,0.259,False,False
+Deep Space viaje/habitación,12,5,M,ACUTE SINUSITIS,0.197,False,False
+Deep Space viaje/habitación,12,5,F,KNEE SPRAIN/STRAIN,0.233,False,False
+Deep Space viaje/habitación,12,5,M,EYE CHEMICAL BURN,0.197,False,False
+Deep Space viaje/habitación,12,5,F,ACUTE SINUSITIS,0.197,False,False
+Deep Space viaje/habitación,12,5,M,INDIGESTION,0.197,False,False
+Deep Space viaje/habitación,12,5,F,EYE CHEMICAL BURN,0.197,False,False
+Deep Space viaje/habitación,12,5,M,HEARING LOSS,0.179,False,False
+Deep Space viaje/habitación,12,5,F,INDIGESTION,0.197,False,False
+Deep Space viaje/habitación,12,5,M,WRIST SPRAIN/STRAIN,0.172,False,False
+Deep Space viaje/habitación,12,5,F,HEARING LOSS,0.179,False,False
+Deep Space viaje/habitación,12,5,M,CONSTIPATION (SA),0.17,False,True
+Deep Space viaje/habitación,12,5,F,WRIST SPRAIN/STRAIN,0.172,False,False
+Deep Space viaje/habitación,12,5,M,EYE INFECTION,0.167,False,False
+Deep Space viaje/habitación,12,5,F,CONSTIPATION (SA),0.17,False,True
+Deep Space viaje/habitación,12,5,M,URINARY TRACT INFECTION,0.156,False,False
+Deep Space viaje/habitación,12,5,F,EYE INFECTION,0.167,False,False
+Deep Space viaje/habitación,12,5,M,HIP SPRAIN/STRAIN,0.14,False,False
+Deep Space viaje/habitación,12,5,F,HIP SPRAIN/STRAIN,0.14,False,False
+Deep Space viaje/habitación,12,5,M,GASTROENTERITIS,0.136,False,False
+Deep Space viaje/habitación,12,5,F,GASTROENTERITIS,0.136,False,False
+Deep Space viaje/habitación,12,5,M,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+Deep Space viaje/habitación,12,5,F,CHOKING/OBSTRUCTED AIRWAY,0.104,False,False
+Deep Space viaje/habitación,12,5,M,OTITIS EXTERNA,0.104,False,False
+Deep Space viaje/habitación,12,5,F,OTITIS EXTERNA,0.104,False,False
+Deep Space viaje/habitación,12,5,M,OTITIS MEDIA,0.104,False,False
+Deep Space viaje/habitación,12,5,F,OTITIS MEDIA,0.104,False,False
+Deep Space viaje/habitación,12,5,M,HEMORRHOIDS,0.0705,False,False
+Deep Space viaje/habitación,12,5,F,HEMORRHOIDS,0.0705,False,False
+Deep Space viaje/habitación,12,5,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+Deep Space viaje/habitación,12,5,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.0705,False,False
+Deep Space viaje/habitación,12,5,M,Decompression Sickness Secondary to EVA,0.0565,False,False
+Deep Space viaje/habitación,12,5,F,Lower Extremity Stress Fracture,0.0648,False,False
+Deep Space viaje/habitación,12,5,M,Lower Extremity Stress Fracture,0.0411,False,False
+Deep Space viaje/habitación,12,5,F,Vaginal Yeast Infection,0.0625,False,False
+Deep Space viaje/habitación,12,5,M,FINGER DISLOCATION,0.0359,False,False
+Deep Space viaje/habitación,12,5,F,Decompression Sickness Secondary to EVA,0.0565,False,False
+Deep Space viaje/habitación,12,5,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+Deep Space viaje/habitación,12,5,F,URINARY INCONTINENCE (SA),0.0556,False,True
+Deep Space viaje/habitación,12,5,M,INFLUENZA,0.0359,False,False
+Deep Space viaje/habitación,12,5,F,URINARY RETENTION (SA),0.0556,False,True
+Deep Space viaje/habitación,12,5,M,SKIN LACERATION,0.0359,False,False
+Deep Space viaje/habitación,12,5,F,Abnormal Uterine Bleeding,0.0507,False,False
+Deep Space viaje/habitación,12,5,M,Dental: Abscess,0.0227,False,False
+Deep Space viaje/habitación,12,5,F,FINGER DISLOCATION,0.0359,False,False
+Deep Space viaje/habitación,12,5,M,SMOKE INHALATION,0.0222,False,False
+Deep Space viaje/habitación,12,5,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.0359,False,False
+Deep Space viaje/habitación,12,5,M,Dental : Exposed Pulp,0.0199,False,False
+Deep Space viaje/habitación,12,5,F,INFLUENZA,0.0359,False,False
+Deep Space viaje/habitación,12,5,M,Burns Secondary to Fire,0.0105,False,False
+Deep Space viaje/habitación,12,5,F,SKIN LACERATION,0.0359,False,False
+Deep Space viaje/habitación,12,5,M,NOSE BLEED (SA),0.00904,False,True
+Deep Space viaje/habitación,12,5,F,Dental: Abscess,0.0227,False,False
+Deep Space viaje/habitación,12,5,M,URINARY RETENTION (SA),0.00697,False,True
+Deep Space viaje/habitación,12,5,F,SMOKE INHALATION,0.0222,False,False
+Deep Space viaje/habitación,12,5,M,Hypertension,0.00644,False,False
+Deep Space viaje/habitación,12,5,F,Dental : Exposed Pulp,0.0199,False,False
+Deep Space viaje/habitación,12,5,M,Dental: Filling Loss,0.0051,False,False
+Deep Space viaje/habitación,12,5,F,Burns Secondary to Fire,0.0105,False,False
+Deep Space viaje/habitación,12,5,M,Acute Prostatitis,0.00489,False,False
+Deep Space viaje/habitación,12,5,F,NOSE BLEED (SA),0.00904,False,True
+Deep Space viaje/habitación,12,5,M,Nephrolithiasis,0.00364,False,False
+Deep Space viaje/habitación,12,5,F,Anxiety,0.00707,False,False
+Deep Space viaje/habitación,12,5,M,Dental: Avulsion (tooth loss),0.00292,False,False
+Deep Space viaje/habitación,12,5,F,Hypertension,0.00644,False,False
+Deep Space viaje/habitación,12,5,M,Depression,0.0029,False,False
+Deep Space viaje/habitación,12,5,F,Dental: Filling Loss,0.0051,False,False
+Deep Space viaje/habitación,12,5,M,Acute Radiation Syndrome,0.00283,False,False
+Deep Space viaje/habitación,12,5,F,Acute Arthritis,0.00375,False,False
+Deep Space viaje/habitación,12,5,M,Sepsis,0.0024,False,False
+Deep Space viaje/habitación,12,5,F,Nephrolithiasis,0.00364,False,False
+Deep Space viaje/habitación,12,5,M,Wrist Fracture,0.00236,False,False
+Deep Space viaje/habitación,12,5,F,Depression,0.00359,False,False
+Deep Space viaje/habitación,12,5,M,Anxiety,0.0019,False,False
+Deep Space viaje/habitación,12,5,F,Dental: Avulsion (tooth loss),0.00292,False,False
+Deep Space viaje/habitación,12,5,M,Acute Arthritis,0.00153,False,False
+Deep Space viaje/habitación,12,5,F,Acute Radiation Syndrome,0.00283,False,False
+Deep Space viaje/habitación,12,5,M,Acute Diverticulitis,0.00142,False,False
+Deep Space viaje/habitación,12,5,F,Sepsis,0.0024,False,False
+Deep Space viaje/habitación,12,5,M,Stroke (Cerebrovascular Accident),0.00098,False,False
+Deep Space viaje/habitación,12,5,F,Wrist Fracture,0.00236,False,False
+Deep Space viaje/habitación,12,5,M,Appendicitis,0.000935,False,False
+Deep Space viaje/habitación,12,5,F,Acute Diverticulitis,0.00142,False,False
+Deep Space viaje/habitación,12,5,M,Acute Cholecystitis/Billiary Colic,0.000769,False,False
+Deep Space viaje/habitación,12,5,F,Acute Cholecystitis/Billiary Colic,0.00127,False,False
+Deep Space viaje/habitación,12,5,M,Atrial Fibrillation/Atrial Flutter,0.00071,False,False
+Deep Space viaje/habitación,12,5,F,Appendicitis,0.000935,False,False
+Deep Space viaje/habitación,12,5,M,Traumatic Hypovolemic Shock,0.000641,False,False
+Deep Space viaje/habitación,12,5,F,Stroke (Cerebrovascular Accident),0.00068,False,False
+Deep Space viaje/habitación,12,5,M,Angina/Myocardial Infarction,0.00063,False,False
+Deep Space viaje/habitación,12,5,F,Traumatic Hypovolemic Shock,0.000641,False,False
+Deep Space viaje/habitación,12,5,M,Anaphylaxis,0.000491,False,False
+Deep Space viaje/habitación,12,5,F,Anaphylaxis,0.000491,False,False
+Deep Space viaje/habitación,12,5,M,Abdominal Wall Hernia,0.00045,False,False
+Deep Space viaje/habitación,12,5,F,Angina/Myocardial Infarction,0.00047,False,False
+Deep Space viaje/habitación,12,5,M,Head Injury,0.000422,False,False
+Deep Space viaje/habitación,12,5,F,Abdominal Wall Hernia,0.00045,False,False
+Deep Space viaje/habitación,12,5,M,Hip/Proximal Femur Fracture,0.000418,False,False
+Deep Space viaje/habitación,12,5,F,Head Injury,0.000422,False,False
+Deep Space viaje/habitación,12,5,M,Acute Pancreatitis,0.000307,False,False
+Deep Space viaje/habitación,12,5,F,Acute Pancreatitis,0.000307,False,False
+Deep Space viaje/habitación,12,5,M,Seizures,0.00027,False,False
+Deep Space viaje/habitación,12,5,F,Seizures,0.00027,False,False
+Deep Space viaje/habitación,12,5,M,Chest Injury,0.000256,False,False
+Deep Space viaje/habitación,12,5,F,Chest Injury,0.000256,False,False
+Deep Space viaje/habitación,12,5,M,Lumbar Spine Fracture,0.000201,False,False
+Deep Space viaje/habitación,12,5,F,Atrial Fibrillation/Atrial Flutter,0.000234,False,False
+Deep Space viaje/habitación,12,5,M,Abdominal Injury,0.000164,False,False
+Deep Space viaje/habitación,12,5,F,Lumbar Spine Fracture,0.000173,False,False
+Deep Space viaje/habitación,12,5,M,Eye Corneal Ulcer,0.00014,False,False
+Deep Space viaje/habitación,12,5,F,Abdominal Injury,0.000164,False,False
+Deep Space viaje/habitación,12,5,M,Retinal Detachment,0.000119,False,False
+Deep Space viaje/habitación,12,5,F,Eye Corneal Ulcer,0.00014,False,False
+Deep Space viaje/habitación,12,5,M,Acute Compartment Syndrome,7.3e-05,False,False
+Deep Space viaje/habitación,12,5,F,Hip/Proximal Femur Fracture,0.000112,False,False
+Deep Space viaje/habitación,12,5,M,Altitude Sickness,5.43e-05,False,False
+Deep Space viaje/habitación,12,5,F,Retinal Detachment,6.55e-05,False,False
+Deep Space viaje/habitación,12,5,M,Elbow Dislocation,5.21e-05,False,False
+Deep Space viaje/habitación,12,5,F,Acute Glaucoma,5.68e-05,False,False
+Deep Space viaje/habitación,12,5,M,Shoulder Dislocation,3.72e-05,False,False
+Deep Space viaje/habitación,12,5,F,Altitude Sickness,5.43e-05,False,False
+Deep Space viaje/habitación,12,5,M,Acute Glaucoma,2.7e-05,False,False
+Deep Space viaje/habitación,12,5,F,Elbow Dislocation,5.21e-05,False,False
+Deep Space viaje/habitación,12,5,M,Sudden Cardiac Arrest,1.5e-05,False,False
+Deep Space viaje/habitación,12,5,F,Shoulder Dislocation,3.72e-05,False,False
+Deep Space viaje/habitación,12,5,M,Behavioral Emergency,1.43e-05,False,False
+Deep Space viaje/habitación,12,5,F,Sudden Cardiac Arrest,1.5e-05,False,False
+Deep Space viaje/habitación,12,5,M,Eye Penetration (foreign body),9.33e-06,False,False
+Deep Space viaje/habitación,12,5,F,Behavioral Emergency,1.43e-05,False,False
+Deep Space viaje/habitación,12,5,M,Cardiogenic Shock Secondary to Myocardial Infarction,7.49e-06,False,False
+Deep Space viaje/habitación,12,5,F,Eye Penetration (foreign body),9.33e-06,False,False
+Deep Space viaje/habitación,12,5,M,Neurogenic Shock,4.98e-06,False,False
+Deep Space viaje/habitación,12,5,F,Acute Compartment Syndrome,7e-06,False,False
+Deep Space viaje/habitación,12,5,M,Toxic Exposure: Ammonia,1.45e-06,False,False
+Deep Space viaje/habitación,12,5,F,Cardiogenic Shock Secondary to Myocardial Infarction,5.29e-06,False,False
+Deep Space viaje/habitación,12,5,M,Abnormal Uterine Bleeding,0.0,False,False
+Deep Space viaje/habitación,12,5,F,Neurogenic Shock,4.98e-06,False,False
+Deep Space viaje/habitación,12,5,M,URINARY INCONTINENCE (SA),0.0,False,True
+Deep Space viaje/habitación,12,5,F,Toxic Exposure: Ammonia,1.45e-06,False,False
+Deep Space viaje/habitación,12,5,M,Vaginal Yeast Infection,0.0,False,False
+Deep Space viaje/habitación,12,5,F,Acute Prostatitis,0.0,False,False
+Planetaria,36,50,M,LATE INSOMNIA,0.999,True,False
+Planetaria,36,50,F,LATE INSOMNIA,0.999,True,False
+Planetaria,36,50,M,SKIN ABRASION,0.999,True,False
+Planetaria,36,50,F,SKIN ABRASION,0.999,True,False
+Planetaria,36,50,M,SKIN RASH,0.999,True,False
+Planetaria,36,50,F,SKIN RASH,0.999,True,False
+Planetaria,36,50,M,EYE ABRASION (FOREIGN BODY),0.999,True,False
+Planetaria,36,50,F,EYE ABRASION (FOREIGN BODY),0.999,True,False
+Planetaria,36,50,M,PARESTHESIAS,0.996,False,False
+Planetaria,36,50,F,PARESTHESIAS,0.996,False,False
+Planetaria,36,50,M,HEADACHE (LATE),0.995,False,False
+Planetaria,36,50,F,HEADACHE (LATE),0.995,False,False
+Planetaria,36,50,M,DIARRHEA,0.973,False,False
+Planetaria,36,50,F,URINARY TRACT INFECTION,0.982,False,False
+Planetaria,36,50,M,RESPIRATORY INFECTION,0.973,False,False
+Planetaria,36,50,F,DIARRHEA,0.973,False,False
+Planetaria,36,50,M,BACK INJURY,0.97,False,False
+Planetaria,36,50,F,RESPIRATORY INFECTION,0.973,False,False
+Planetaria,36,50,M,BAROTRAUMA (EAR/SINUS BLOCK),0.967,False,False
+Planetaria,36,50,F,BACK INJURY,0.97,False,False
+Planetaria,36,50,M,FINGERNAIL DELAMINATION,0.965,False,False
+Planetaria,36,50,F,BAROTRAUMA (EAR/SINUS BLOCK),0.967,False,False
+Planetaria,36,50,M,SHOULDER SPRAIN/STRAIN,0.918,False,False
+Planetaria,36,50,F,FINGERNAIL DELAMINATION,0.965,False,False
+Planetaria,36,50,M,HEADACHE (CO2 INDUCED),0.888,False,False
+Planetaria,36,50,F,SHOULDER SPRAIN/STRAIN,0.918,False,False
+Planetaria,36,50,M,SKIN INFECTION,0.76,False,False
+Planetaria,36,50,F,HEADACHE (CO2 INDUCED),0.888,False,False
+Planetaria,36,50,M,ELBOW SPRAIN/STRAIN,0.744,False,False
+Planetaria,36,50,F,SKIN INFECTION,0.76,False,False
+Planetaria,36,50,M,SPACE MOTION SICKNESS (SA),0.73,False,True
+Planetaria,36,50,F,ELBOW SPRAIN/STRAIN,0.744,False,False
+Planetaria,36,50,M,ANKLE SPRAIN/STRAIN,0.713,False,False
+Planetaria,36,50,F,SPACE MOTION SICKNESS (SA),0.73,False,True
+Planetaria,36,50,M,ALLERGIC REACTION (MILD TO MODERATE),0.701,False,False
+Planetaria,36,50,F,ANKLE SPRAIN/STRAIN,0.713,False,False
+Planetaria,36,50,M,PHARYNGITIS,0.701,False,False
+Planetaria,36,50,F,ALLERGIC REACTION (MILD TO MODERATE),0.701,False,False
+Planetaria,36,50,M,NECK INJURY,0.64,False,False
+Planetaria,36,50,F,PHARYNGITIS,0.701,False,False
+Planetaria,36,50,M,MOUTH ULCER,0.627,False,False
+Planetaria,36,50,F,NECK INJURY,0.64,False,False
+Planetaria,36,50,M,Dental Caries,0.593,False,False
+Planetaria,36,50,F,MOUTH ULCER,0.627,False,False
+Planetaria,36,50,M,NASAL CONGESTION (SA),0.586,False,True
+Planetaria,36,50,F,Dental Caries,0.593,False,False
+Planetaria,36,50,M,KNEE SPRAIN/STRAIN,0.548,False,False
+Planetaria,36,50,F,NASAL CONGESTION (SA),0.586,False,True
+Planetaria,36,50,M,BACK PAIN (SA),0.525,False,True
+Planetaria,36,50,F,KNEE SPRAIN/STRAIN,0.548,False,False
+Planetaria,36,50,M,ACUTE SINUSITIS,0.482,False,False
+Planetaria,36,50,F,BACK PAIN (SA),0.525,False,True
+Planetaria,36,50,M,EYE CHEMICAL BURN,0.482,False,False
+Planetaria,36,50,F,ACUTE SINUSITIS,0.482,False,False
+Planetaria,36,50,M,INDIGESTION,0.482,False,False
+Planetaria,36,50,F,EYE CHEMICAL BURN,0.482,False,False
+Planetaria,36,50,M,INSOMNIA (SA),0.45,False,True
+Planetaria,36,50,F,INDIGESTION,0.482,False,False
+Planetaria,36,50,M,HEARING LOSS,0.446,False,False
+Planetaria,36,50,F,INSOMNIA (SA),0.45,False,True
+Planetaria,36,50,M,Decompression Sickness Secondary to EVA,0.441,False,False
+Planetaria,36,50,F,HEARING LOSS,0.446,False,False
+Planetaria,36,50,M,WRIST SPRAIN/STRAIN,0.433,False,False
+Planetaria,36,50,F,Decompression Sickness Secondary to EVA,0.441,False,False
+Planetaria,36,50,M,EYE INFECTION,0.422,False,False
+Planetaria,36,50,F,WRIST SPRAIN/STRAIN,0.433,False,False
+Planetaria,36,50,M,URINARY TRACT INFECTION,0.398,False,False
+Planetaria,36,50,F,EYE INFECTION,0.422,False,False
+Planetaria,36,50,M,HIP SPRAIN/STRAIN,0.365,False,False
+Planetaria,36,50,F,HIP SPRAIN/STRAIN,0.365,False,False
+Planetaria,36,50,M,GASTROENTERITIS,0.355,False,False
+Planetaria,36,50,F,GASTROENTERITIS,0.355,False,False
+Planetaria,36,50,M,HEADACHE (SA),0.351,False,True
+Planetaria,36,50,F,HEADACHE (SA),0.351,False,True
+Planetaria,36,50,M,VIIP (SA),0.341,False,True
+Planetaria,36,50,F,VIIP (SA),0.341,False,True
+Planetaria,36,50,M,CHOKING/OBSTRUCTED AIRWAY,0.28,False,False
+Planetaria,36,50,F,CHOKING/OBSTRUCTED AIRWAY,0.28,False,False
+Planetaria,36,50,M,OTITIS EXTERNA,0.28,False,False
+Planetaria,36,50,F,OTITIS EXTERNA,0.28,False,False
+Planetaria,36,50,M,OTITIS MEDIA,0.28,False,False
+Planetaria,36,50,F,OTITIS MEDIA,0.28,False,False
+Planetaria,36,50,M,HEMORRHOIDS,0.197,False,False
+Planetaria,36,50,F,HEMORRHOIDS,0.197,False,False
+Planetaria,36,50,M,MEDICATION OVERDOSE/ADVERSE REACTION,0.197,False,False
+Planetaria,36,50,F,MEDICATION OVERDOSE/ADVERSE REACTION,0.197,False,False
+Planetaria,36,50,M,CONSTIPATION (SA),0.17,False,True
+Planetaria,36,50,F,Lower Extremity Stress Fracture,0.182,False,False
+Planetaria,36,50,M,Lower Extremity Stress Fracture,0.118,False,False
+Planetaria,36,50,F,Vaginal Yeast Infection,0.176,False,False
+Planetaria,36,50,M,FINGER DISLOCATION,0.104,False,False
+Planetaria,36,50,F,CONSTIPATION (SA),0.17,False,True
+Planetaria,36,50,M,HERPES ZOSTER REACTIVATION (SHINGLES),0.104,False,False
+Planetaria,36,50,F,Abnormal Uterine Bleeding,0.144,False,False
+Planetaria,36,50,M,INFLUENZA,0.104,False,False
+Planetaria,36,50,F,FINGER DISLOCATION,0.104,False,False
+Planetaria,36,50,M,SKIN LACERATION,0.104,False,False
+Planetaria,36,50,F,HERPES ZOSTER REACTIVATION (SHINGLES),0.104,False,False
+Planetaria,36,50,M,Dental: Abscess,0.0667,False,False
+Planetaria,36,50,F,INFLUENZA,0.104,False,False
+Planetaria,36,50,M,SMOKE INHALATION,0.0651,False,False
+Planetaria,36,50,F,SKIN LACERATION,0.104,False,False
+Planetaria,36,50,M,Dental : Exposed Pulp,0.0585,False,False
+Planetaria,36,50,F,Dental: Abscess,0.0667,False,False
+Planetaria,36,50,M,Burns Secondary to Fire,0.0311,False,False
+Planetaria,36,50,F,SMOKE INHALATION,0.0651,False,False
+Planetaria,36,50,M,Hypertension,0.0192,False,False
+Planetaria,36,50,F,Dental : Exposed Pulp,0.0585,False,False
+Planetaria,36,50,M,Dental: Filling Loss,0.0152,False,False
+Planetaria,36,50,F,URINARY INCONTINENCE (SA),0.0556,False,True
+Planetaria,36,50,M,Acute Prostatitis,0.0146,False,False
+Planetaria,36,50,F,URINARY RETENTION (SA),0.0556,False,True
+Planetaria,36,50,M,Nephrolithiasis,0.0109,False,False
+Planetaria,36,50,F,Burns Secondary to Fire,0.0311,False,False
+Planetaria,36,50,M,NOSE BLEED (SA),0.00904,False,True
+Planetaria,36,50,F,Anxiety,0.0211,False,False
+Planetaria,36,50,M,Dental: Avulsion (tooth loss),0.00872,False,False
+Planetaria,36,50,F,Hypertension,0.0192,False,False
+Planetaria,36,50,M,Depression,0.00866,False,False
+Planetaria,36,50,F,Dental: Filling Loss,0.0152,False,False
+Planetaria,36,50,M,Acute Radiation Syndrome,0.00845,False,False
+Planetaria,36,50,F,Acute Arthritis,0.0112,False,False
+Planetaria,36,50,M,Sepsis,0.00717,False,False
+Planetaria,36,50,F,Nephrolithiasis,0.0109,False,False
+Planetaria,36,50,M,Wrist Fracture,0.00705,False,False
+Planetaria,36,50,F,Depression,0.0107,False,False
+Planetaria,36,50,M,URINARY RETENTION (SA),0.00697,False,True
+Planetaria,36,50,F,NOSE BLEED (SA),0.00904,False,True
+Planetaria,36,50,M,Anxiety,0.00568,False,False
+Planetaria,36,50,F,Dental: Avulsion (tooth loss),0.00872,False,False
+Planetaria,36,50,M,Acute Arthritis,0.00458,False,False
+Planetaria,36,50,F,Acute Radiation Syndrome,0.00845,False,False
+Planetaria,36,50,M,Acute Diverticulitis,0.00425,False,False
+Planetaria,36,50,F,Sepsis,0.00717,False,False
+Planetaria,36,50,M,Stroke (Cerebrovascular Accident),0.00294,False,False
+Planetaria,36,50,F,Wrist Fracture,0.00705,False,False
+Planetaria,36,50,M,Appendicitis,0.0028,False,False
+Planetaria,36,50,F,Acute Diverticulitis,0.00425,False,False
+Planetaria,36,50,M,Acute Cholecystitis/Billiary Colic,0.0023,False,False
+Planetaria,36,50,F,Acute Cholecystitis/Billiary Colic,0.0038,False,False
+Planetaria,36,50,M,Atrial Fibrillation/Atrial Flutter,0.00213,False,False
+Planetaria,36,50,F,Appendicitis,0.0028,False,False
+Planetaria,36,50,M,Traumatic Hypovolemic Shock,0.00192,False,False
+Planetaria,36,50,F,Stroke (Cerebrovascular Accident),0.00204,False,False
+Planetaria,36,50,M,Angina/Myocardial Infarction,0.00189,False,False
+Planetaria,36,50,F,Traumatic Hypovolemic Shock,0.00192,False,False
+Planetaria,36,50,M,Anaphylaxis,0.00147,False,False
+Planetaria,36,50,F,Anaphylaxis,0.00147,False,False
+Planetaria,36,50,M,Abdominal Wall Hernia,0.00135,False,False
+Planetaria,36,50,F,Angina/Myocardial Infarction,0.00141,False,False
+Planetaria,36,50,M,Head Injury,0.00127,False,False
+Planetaria,36,50,F,Abdominal Wall Hernia,0.00135,False,False
+Planetaria,36,50,M,Hip/Proximal Femur Fracture,0.00125,False,False
+Planetaria,36,50,F,Head Injury,0.00127,False,False
+Planetaria,36,50,M,Acute Pancreatitis,0.000922,False,False
+Planetaria,36,50,F,Acute Pancreatitis,0.000922,False,False
+Planetaria,36,50,M,Seizures,0.00081,False,False
+Planetaria,36,50,F,Seizures,0.00081,False,False
+Planetaria,36,50,M,Chest Injury,0.000769,False,False
+Planetaria,36,50,F,Chest Injury,0.000769,False,False
+Planetaria,36,50,M,Lumbar Spine Fracture,0.000603,False,False
+Planetaria,36,50,F,Atrial Fibrillation/Atrial Flutter,0.000703,False,False
+Planetaria,36,50,M,Abdominal Injury,0.000493,False,False
+Planetaria,36,50,F,Lumbar Spine Fracture,0.000518,False,False
+Planetaria,36,50,M,Eye Corneal Ulcer,0.00042,False,False
+Planetaria,36,50,F,Abdominal Injury,0.000493,False,False
+Planetaria,36,50,M,Retinal Detachment,0.000357,False,False
+Planetaria,36,50,F,Eye Corneal Ulcer,0.00042,False,False
+Planetaria,36,50,M,Acute Compartment Syndrome,0.000219,False,False
+Planetaria,36,50,F,Hip/Proximal Femur Fracture,0.000337,False,False
+Planetaria,36,50,M,Altitude Sickness,0.000163,False,False
+Planetaria,36,50,F,Retinal Detachment,0.000196,False,False
+Planetaria,36,50,M,Elbow Dislocation,0.000156,False,False
+Planetaria,36,50,F,Acute Glaucoma,0.00017,False,False
+Planetaria,36,50,M,Shoulder Dislocation,0.000112,False,False
+Planetaria,36,50,F,Altitude Sickness,0.000163,False,False
+Planetaria,36,50,M,Acute Glaucoma,8.1e-05,False,False
+Planetaria,36,50,F,Elbow Dislocation,0.000156,False,False
+Planetaria,36,50,M,Sudden Cardiac Arrest,4.5e-05,False,False
+Planetaria,36,50,F,Shoulder Dislocation,0.000112,False,False
+Planetaria,36,50,M,Behavioral Emergency,4.29e-05,False,False
+Planetaria,36,50,F,Sudden Cardiac Arrest,4.5e-05,False,False
+Planetaria,36,50,M,Eye Penetration (foreign body),2.8e-05,False,False
+Planetaria,36,50,F,Behavioral Emergency,4.29e-05,False,False
+Planetaria,36,50,M,Cardiogenic Shock Secondary to Myocardial Infarction,2.25e-05,False,False
+Planetaria,36,50,F,Eye Penetration (foreign body),2.8e-05,False,False
+Planetaria,36,50,M,Neurogenic Shock,1.5e-05,False,False
+Planetaria,36,50,F,Acute Compartment Syndrome,2.1e-05,False,False
+Planetaria,36,50,M,Toxic Exposure: Ammonia,4.35e-06,False,False
+Planetaria,36,50,F,Cardiogenic Shock Secondary to Myocardial Infarction,1.59e-05,False,False
+Planetaria,36,50,M,Abnormal Uterine Bleeding,0.0,False,False
+Planetaria,36,50,F,Neurogenic Shock,1.5e-05,False,False
+Planetaria,36,50,M,URINARY INCONTINENCE (SA),0.0,False,True
+Planetaria,36,50,F,Toxic Exposure: Ammonia,4.35e-06,False,False
+Planetaria,36,50,M,Vaginal Yeast Infection,0.0,False,False
+Planetaria,36,50,F,Acute Prostatitis,0.0,False,False

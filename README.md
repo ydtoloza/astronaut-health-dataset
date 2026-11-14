@@ -8,6 +8,7 @@ Dataset verificado para el desafío [Create Health Monitoring Software for Astro
 |---|---|---|
 | **UTMB, reposo en cama** ([NASA Life Sciences Portal](https://nlsp.nasa.gov/)) | Análogo en tierra de la microgravedad: 60–70 días en cama inclinada 6° con la cabeza abajo | Vitales diarios de 29 sujetos (2.939 días), laboratorio de 31 sujetos (8.036 valores), cognición WinSCAT, sueño por actigrafía, prueba ortostática (tilt), 1.053 síntomas con la acción tomada |
 | **Inspiration4** ([NASA OSDR](https://osdr.nasa.gov/) OSD-569 y OSD-575) | Vuelo real (4 tripulantes, 3 días, septiembre de 2021) | Hemograma, panel metabólico y PCR en 7 tomas, de 92 días antes a 194 días después |
+| **NASA IMM** ([Integrated Medical Model](https://www.nasa.gov/nasa-integrated-medical-model-imm-overview/)) | Modelo de riesgo médico publicado | Probabilidad de 98 condiciones en 6 tipos de misión × sexo; eventos, Crew Health Index, evacuación y muerte para misiones de 14 a 1.195 días |
 | **Simulados** (columnas `*_sim`) | Escenario | Ánimo, HRV, SpO₂, radiación |
 
 ## Estructura
@@ -15,6 +16,7 @@ Dataset verificado para el desafío [Create Health Monitoring Software for Astro
 ```
 ├── data/
 │   ├── raw/            originales de NASA, nunca se editan (NLSP con .md5sum, OSDR)
+│   ├── external/imm/   resultados publicados del Integrated Medical Model de NASA (PDF + CSV)
 │   ├── interim/        tablas limpias por fuente + registro_correcciones.csv   (generado)
 │   └── processed/      dataset unificado para análisis y la app + LEEME.md     (generado)
 ├── src/astrohealth/

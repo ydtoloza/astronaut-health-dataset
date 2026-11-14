@@ -1,7 +1,7 @@
 """Funciones de carga con tipos correctos. Úsalas en notebooks y scripts en lugar de leer los CSV a mano."""
 import pandas as pd
 
-from astrohealth.config import COLUMNAS_SIMULADAS, FASES, PROCESSED
+from astrohealth.config import COLUMNAS_SIMULADAS, EXTERNAL_IMM, FASES, PROCESSED
 
 _FASE = pd.CategoricalDtype(FASES, ordered=True)
 
@@ -73,3 +73,20 @@ def laboratorio_ancho(lab: pd.DataFrame, analitos) -> pd.DataFrame:
     return (sub.pivot_table(index=["origen", "astronauta_id", "fase", "toma"], columns="analito",
                             values="valor", aggfunc="mean", observed=True)
             .reset_index())
+
+
+def cargar_imm_probabilidades() -> pd.DataFrame:
+    """IMM (NASA): probabilidad de al menos un evento por condición (98), misión de referencia y sexo.
+
+    Fuente: "Ranking of Medical Conditions by Probability" (iMED v5.0, 2015), data/external/imm/.
+    `prob_es_cota_inferior=True` significa que el PDF dice ">9.99E-01".
+    """
+    return pd.read_csv(EXTERNAL_IMM / "imm_probabilidades.csv")
+
+
+def cargar_imm_resultados() -> pd.DataFrame:
+    """IMM (NASA): eventos totales (TME), Crew Health Index (CHI), P(evacuación) y P(muerte) por duración.
+
+    Fuente: "Medical Risk Based on Mission Duration" (S-20180531-405, 2018), data/external/imm/.
+    """
+    return pd.read_csv(EXTERNAL_IMM / "imm_resultados_por_duracion.csv")

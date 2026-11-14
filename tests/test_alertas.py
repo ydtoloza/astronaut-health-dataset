@@ -71,3 +71,26 @@ def test_alertas_sobre_dataset(alertas):
 def test_estado_del_dia_un_nivel_por_condicion(alertas):
     e = estado_del_dia(alertas)
     assert not e.duplicated(["astronauta_id", "fecha", "condicion"]).any()
+
+
+def test_imm_datos():
+    from astrohealth.load import cargar_imm_probabilidades, cargar_imm_resultados
+    p = cargar_imm_probabilidades()
+    assert p["condicion"].nunique() == 98 and len(p) == 98 * 12
+    assert p["prob_al_menos_un_evento"].between(0, 1).all()
+    r = cargar_imm_resultados()
+    trat = r[r["escenario"] == "Tratado"].set_index("drm_dias")
+    assert trat.loc[1195, "chi_media"] == pytest.approx(86.87)          # Tabla 5 del PDF
+    assert trat.loc[[42, 365, 730, 1195], "p_locl"].is_monotonic_increasing   # 4 tripulantes: crece con la duración
+
+
+def test_imm_mapeo_y_probabilidades():
+    from astrohealth.alertas import IMM_CONDICION, probabilidad_imm
+    from astrohealth.load import cargar_imm_probabilidades
+    nombres = set(cargar_imm_probabilidades()["condicion"])
+    assert set(IMM_CONDICION.values()) <= nombres
+    assert set(IMM_CONDICION) <= set(SINTOMAS)
+    assert probabilidad_imm("dificultad_dormir") == pytest.approx(0.912)        # PDF, Tabla 2
+    assert probabilidad_imm("ardor_orina", sexo="F") == pytest.approx(0.490)
+    assert probabilidad_imm("zoster", "Planetaria", 36) > probabilidad_imm("zoster")
+    assert probabilidad_imm("ideas_danarse") is None

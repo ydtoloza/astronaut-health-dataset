@@ -277,3 +277,12 @@ Detalle en `15-recursos-oficiales-reto.md`.
 - NASA HRP, Ongoing HRP Research in Space. https://www.nasa.gov/hrp/ongoing-hrp-research/ (ARCHeR, Immune Biomarkers, Artemis II Standard Measures, Standard Measures, Venous Haemostasis, Tempus Pro)
 - CSA, Monitoring Radiation for Astronaut Health (2026-02-26). https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-02-26-monitoring-radiation-astronaut-health.asp
 - CSA, Why Do We Conduct Science Experiments in Space? https://www.asc-csa.gc.ca/eng/iss/science/why-do-we-conduct-science-experiments-in-space.asp
+
+## NASA Integrated Medical Model (añadido 2026-11-14)
+Detalle y limitaciones en `data/external/imm/LEEME.md`.
+- NASA. Integrated Medical Model (IMM) Overview. https://www.nasa.gov/nasa-integrated-medical-model-imm-overview/
+- NASA IMM. Ranking of Medical Conditions by Probability (iMED v5.0, 2015). https://www.nasa.gov/wp-content/uploads/2026/08/ranking-of-medical-conditions-by-probability.pdf
+- NASA IMM. Service Request S-20180531-405, Medical Risk Based on Mission Duration (2018). https://www.nasa.gov/wp-content/uploads/2026/08/medical-risk-based-on-mission-duration.pdf
+- NASA IMM. Service Request S-20190528-412, 2024 Lunar. https://www.nasa.gov/wp-content/uploads/2026/08/2024-lunar.pdf
+- NASA. Lunar Orbit and Surface IMM Runs. https://www.nasa.gov/lunar-orbit-and-surface-imm-runs/
+- NASA. Integrated Medical Model Documentation (CLiFF). https://www.nasa.gov/integrated-medical-model-documentation/

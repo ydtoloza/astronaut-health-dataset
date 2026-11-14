@@ -53,6 +53,11 @@ Resumen en consola: `make alertas` (Windows: `$env:PYTHONPATH="src"; python -m a
 | Conductual | Pensamientos de hacerse daño | 🔴 | PHQ-9 pregunta 9 |
 | Comunes en UTMB | Dolor de cabeza, insomnio, estreñimiento, dolor de espalda | 🟢 registro | UTMB (eventos) |
 | | Mareo | 🟡 | UTMB (eventos) |
+| **Frecuentes según el IMM de NASA** (LEO 6 meses) | Mareo espacial 73 %, congestión nasal 59 %, oído tapado 43 % | 🟢 registro | NASA IMM |
+| | Cuerpo extraño en el ojo 72 %, dolor de cabeza por CO₂ 31 %, diarrea 45 % | 🟡 | NASA IMM |
+| | Infección respiratoria 45 %, ardor al orinar 8 % (H) / 49 % (M) | 🟡 | NASA IMM |
+
+`probabilidad_imm(sintoma, drm, meses, sexo)` devuelve la probabilidad del IMM de que ocurra la condición asociada en la misión elegida (LEO, Luna, espacio profundo, planetaria). Sirve para ordenar el menú de síntomas y para explicar el riesgo al astronauta. Datos y limitaciones en `data/external/imm/LEEME.md`.
 
 En la pantalla de radiación se muestra como dato educativo que los neutrones aportan ~30 % de la radiación total en la ISS ([CSA, 2026](https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-02-26-monitoring-radiation-astronaut-health.asp)).
 

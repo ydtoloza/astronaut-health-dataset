@@ -119,6 +119,35 @@ SINTOMAS = {
     "estrenimiento": ("nutricion", "verde", "Estreñimiento", "Más agua y fibra", "UTMB: 41 eventos"),
     "dolor_espalda": ("comun", "verde", "Dolor de espalda", "Estiramientos; registrar", "UTMB: 29 eventos"),
     "mareo": ("comun", "amarillo", "Mareo", "Sentarse; medir PA y pulso", "UTMB: 20 eventos"),
+    # Frecuentes según el IMM de NASA (probabilidad en LEO de 6 meses, ver IMM_CONDICION)
+    "mareo_espacial": ("comun", "verde", "Mareo espacial (náusea los primeros días)", "Medicación antimareo; registrar",
+                       "NASA IMM: 73 % en LEO 6 meses"),
+    "congestion_nasal": ("comun", "verde", "Congestión nasal", "Registrar", "NASA IMM: 59 % en LEO 6 meses"),
+    "cuerpo_extrano_ojo": ("comun", "amarillo", "Algo en el ojo / ojo irritado", "Lavar con agua; avisar si persiste",
+                           "NASA IMM: 72 % en LEO 6 meses"),
+    "dolor_cabeza_co2": ("comun", "amarillo", "Dolor de cabeza con aire 'cargado' (posible CO₂ alto)",
+                         "Revisar el CO₂ de la cabina y ventilar", "NASA IMM: 31 % en LEO 6 meses"),
+    "oido_tapado": ("comun", "verde", "Oído o senos tapados (barotrauma)", "Maniobra de Valsalva; registrar",
+                    "NASA IMM: 43 % en LEO 6 meses"),
+    "infeccion_respiratoria": ("inmune", "amarillo", "Tos, dolor de garganta o resfrío", "Medir temperatura; registrar",
+                               "NASA IMM: 45 % en LEO 6 meses"),
+    "ardor_orina": ("inmune", "amarillo", "Ardor o urgencia al orinar (posible infección urinaria)",
+                    "Más agua; avisar en el próximo contacto", "NASA IMM: 8 % (H) / 49 % (M) en LEO 6 meses"),
+    "diarrea": ("nutricion", "amarillo", "Diarrea", "Hidratación oral; avisar si dura más de 2 días",
+                "NASA IMM: 45 % en LEO 6 meses"),
+}
+
+# Síntoma del catálogo → condición del IMM de NASA (data/external/imm/imm_probabilidades.csv)
+IMM_CONDICION = {
+    "dolor_pecho": "Angina/Myocardial Infarction", "palpitaciones": "Atrial Fibrillation/Atrial Flutter",
+    "zoster": "HERPES ZOSTER REACTIVATION (SHINGLES)", "sarpullido": "SKIN RASH",
+    "vision_borrosa": "VIIP (SA)", "presion_ojos": "VIIP (SA)", "dolor_flanco": "Nephrolithiasis",
+    "dolor_oseo_impacto": "Lower Extremity Stress Fracture", "dificultad_dormir": "LATE INSOMNIA",
+    "dolor_cabeza": "HEADACHE (LATE)", "estrenimiento": "CONSTIPATION (SA)", "dolor_espalda": "BACK PAIN (SA)",
+    "mareo_espacial": "SPACE MOTION SICKNESS (SA)", "congestion_nasal": "NASAL CONGESTION (SA)",
+    "cuerpo_extrano_ojo": "EYE ABRASION (FOREIGN BODY)", "dolor_cabeza_co2": "HEADACHE (CO2 INDUCED)",
+    "oido_tapado": "BAROTRAUMA (EAR/SINUS BLOCK)", "infeccion_respiratoria": "RESPIRATORY INFECTION",
+    "ardor_orina": "URINARY TRACT INFECTION", "diarrea": "DIARRHEA",
 }
 
 
@@ -195,6 +224,23 @@ def evaluar_sintoma(clave: str) -> dict:
         raise KeyError(f"Síntoma desconocido: {clave}. Opciones: {', '.join(SINTOMAS)}")
     condicion, nivel, texto, accion, fuente = SINTOMAS[clave]
     return dict(sintoma=clave, texto=texto, condicion=condicion, nivel=nivel, accion=accion, fuente=fuente)
+
+
+def probabilidad_imm(sintoma: str, drm: str = "LEO", meses: int = 6, sexo: str = "M"):
+    """Probabilidad (NASA IMM) de que la condición asociada al síntoma ocurra al menos una vez en la misión.
+
+    drm: "LEO", "Deep Space Sortie", "Lunar visita/habitación", "Deep Space viaje/habitación" o "Planetaria".
+    Devuelve None si el síntoma no tiene condición IMM asociada.
+    """
+    if sintoma not in IMM_CONDICION:
+        return None
+    from astrohealth.load import cargar_imm_probabilidades
+    d = cargar_imm_probabilidades()
+    fila = d[(d["condicion"] == IMM_CONDICION[sintoma]) & (d["drm"] == drm) & (d["meses"] == meses)
+             & (d["sexo"] == sexo)]
+    if fila.empty:
+        raise ValueError(f"No hay misión de referencia {drm}, {meses} meses, sexo {sexo}")
+    return float(fila["prob_al_menos_un_evento"].iloc[0])
 
 
 def dosis_radiacion(acumulada_msv: float) -> dict:

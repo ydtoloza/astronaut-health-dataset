@@ -1,15 +1,17 @@
 """astrohealth: carga, validación y reconstrucción del dataset de salud de astronautas."""
 from astrohealth.load import (cargar_astronautas, cargar_diario, cargar_eventos, cargar_laboratorio,
-                              cargar_lineas_base, cargar_todo, serie_astronauta)
+                              cargar_imm_probabilidades, cargar_imm_resultados, cargar_lineas_base,
+                              cargar_todo, serie_astronauta)
 
 __all__ = ["cargar_astronautas", "cargar_diario", "cargar_eventos", "cargar_laboratorio",
            "cargar_lineas_base", "cargar_todo", "serie_astronauta",
+           "cargar_imm_probabilidades", "cargar_imm_resultados", "probabilidad_imm",
            "evaluar", "estado_del_dia", "evaluar_sintoma", "dosis_radiacion"]
 
 
 def __getattr__(nombre):
     # Import diferido: permite `python -m astrohealth.alertas` sin importar el módulo dos veces.
-    if nombre in ("evaluar", "estado_del_dia", "evaluar_sintoma", "dosis_radiacion"):
+    if nombre in ("evaluar", "estado_del_dia", "evaluar_sintoma", "dosis_radiacion", "probabilidad_imm"):
         from astrohealth import alertas
         return getattr(alertas, nombre)
     raise AttributeError(nombre)
