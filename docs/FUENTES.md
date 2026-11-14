@@ -286,3 +286,13 @@ Detalle y limitaciones en `data/external/imm/LEEME.md`.
 - NASA IMM. Service Request S-20190528-412, 2024 Lunar. https://www.nasa.gov/wp-content/uploads/2026/08/2024-lunar.pdf
 - NASA. Lunar Orbit and Surface IMM Runs. https://www.nasa.gov/lunar-orbit-and-surface-imm-runs/
 - NASA. Integrated Medical Model Documentation (CLiFF). https://www.nasa.gov/integrated-medical-model-documentation/
+- NASA TechPort 157729. Multi-Functional Integrated Medical (MIM) Device (JSC, Mars Campaign Office, 2022–2026). https://techport.nasa.gov/projects/157729 — detalle en `17-techport-mim-device.md` (carpeta de investigación).
+- CSA. Radi-N2: Tracking space radiation and its risks. https://www.asc-csa.gc.ca/eng/sciences/radi-n2.asp — 150 µSv/día de neutrones en la ISS.
+- CSA. MOSFET radiation monitoring system / Matroshka-R. https://www.asc-csa.gc.ca/eng/astronauts/space-medicine/mosfet.asp
+- CSA. Little transistor records radiation levels (EVARM). https://www.asc-csa.gc.ca/eng/iss/evarm.asp — límites anuales por órgano (ICRP 1977); detalle en `18-csa-radiacion-instrumentos.md`.
+- NASA-STD-3001 Vol. 1 Rev. C (2023), §4.8 Radiación: [V1 4029–4032], Tablas 4.8-1 y 4.8-4. https://standards.nasa.gov/sites/default/files/standards/NASA/C//nasa-std-3001-vol-1-rev-c-signature.pdf
+- Shavers MR et al. Mir EVA dosimetry (Pille TLD), NTRS 20040065979. https://ntrs.nasa.gov/api/citations/20040065979/downloads/20040065979.pdf
+- Reitz G et al. 2009. Astronaut's organ doses inferred from measurements in a human phantom outside the ISS. Radiat Res 171:225-235. https://doi.org/10.1667/RR1559.1
+- NOAA SWPC. Space Weather Scales (S1–S5). https://www.swpc.noaa.gov/noaa-scales-explanation
+- NASA 2016. Orion radiation protection plan (refugio con bolsas, HERA). https://www.nasa.gov/feature/scientists-and-engineers-evaluate-orion-radiation-protection-plan
+- DLR 2024. Artemis I radiation findings. https://www.dlr.de/en/latest/news/2024/orion-spacecraft-radiation-protection-tested-initial-findings-from-artemis-i-moon-mission
