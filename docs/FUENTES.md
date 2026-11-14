@@ -297,3 +297,5 @@ Detalle y limitaciones en `data/external/imm/LEEME.md`.
 - NASA 2016. Orion radiation protection plan (refugio con bolsas, HERA). https://www.nasa.gov/feature/scientists-and-engineers-evaluate-orion-radiation-protection-plan
 - DLR 2024. Artemis I radiation findings. https://www.dlr.de/en/latest/news/2024/orion-spacecraft-radiation-protection-tested-initial-findings-from-artemis-i-moon-mission
 - CCMC. HESPERIA REleASE+ v1 (pronóstico de protones solares, 30–90 min). https://ccmc.gsfc.nasa.gov/models/HESPERIA-REleASE-Plus~v1/ ; datos JSON: https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/model/heliosphere/sep_scoreboard/RELEASE_PLUS/ ; Posner et al. 2024, https://doi.org/10.1029/2024SW004013
+- George SP, Gaza R, Matthiä D, et al. 2024. Space radiation measurements during the Artemis I lunar mission. Nature 634:48–52. https://doi.org/10.1038/s41586-024-07927-7 (CC BY 4.0; source data en `data/external/hera_artemis1/`).
+- Mirion. Crew Active Dosimeters en Artemis II (fabricante). https://www.mirion.com/news/mirion-crew-active-dosimeters-to-be-worn-by-astronauts-on-nasas-artemis-ii-mission

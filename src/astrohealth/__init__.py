@@ -1,11 +1,11 @@
 """astrohealth: carga, validación y reconstrucción del dataset de salud de astronautas."""
-from astrohealth.load import (cargar_astronautas, cargar_diario, cargar_eventos, cargar_laboratorio,
+from astrohealth.load import (cargar_artemis1_cad, cargar_artemis1_dosis, cargar_astronautas, cargar_diario, cargar_eventos, cargar_laboratorio,
                               cargar_imm_probabilidades, cargar_imm_resultados, cargar_lineas_base,
                               cargar_todo, serie_astronauta)
 
 __all__ = ["cargar_astronautas", "cargar_diario", "cargar_eventos", "cargar_laboratorio",
            "cargar_lineas_base", "cargar_todo", "serie_astronauta",
-           "cargar_imm_probabilidades", "cargar_imm_resultados", "probabilidad_imm",
+           "cargar_artemis1_dosis", "cargar_artemis1_cad", "cargar_imm_probabilidades", "cargar_imm_resultados", "probabilidad_imm",
            "evaluar", "estado_del_dia", "evaluar_sintoma", "dosis_radiacion"]
 
 

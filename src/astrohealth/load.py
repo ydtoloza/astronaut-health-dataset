@@ -1,7 +1,7 @@
 """Funciones de carga con tipos correctos. Úsalas en notebooks y scripts en lugar de leer los CSV a mano."""
 import pandas as pd
 
-from astrohealth.config import COLUMNAS_SIMULADAS, EXTERNAL_IMM, FASES, PROCESSED
+from astrohealth.config import COLUMNAS_SIMULADAS, EXTERNAL_HERA, EXTERNAL_IMM, FASES, PROCESSED
 
 _FASE = pd.CategoricalDtype(FASES, ordered=True)
 
@@ -90,3 +90,16 @@ def cargar_imm_resultados() -> pd.DataFrame:
     Fuente: "Medical Risk Based on Mission Duration" (S-20180531-405, 2018), data/external/imm/.
     """
     return pd.read_csv(EXTERNAL_IMM / "imm_resultados_por_duracion.csv")
+
+
+def cargar_artemis1_dosis() -> pd.DataFrame:
+    """Artemis I: tasa de dosis absorbida (µGy/min) por sensor (HERA HSU1/HSU2 cada 1 min, M-42 y EAD cada 5 min).
+
+    Fuente: George et al. 2024, Nature 634:48 (CC BY 4.0), data/external/hera_artemis1/.
+    """
+    return pd.read_csv(EXTERNAL_HERA / "artemis1_tasa_dosis.csv.gz", parse_dates=["tiempo_utc"])
+
+
+def cargar_artemis1_cad() -> pd.DataFrame:
+    """Artemis I: dosis acumulada (mGy) del Crew Active Dosimeter CAD SN82."""
+    return pd.read_csv(EXTERNAL_HERA / "artemis1_cad_acumulada.csv", parse_dates=["tiempo_utc"])

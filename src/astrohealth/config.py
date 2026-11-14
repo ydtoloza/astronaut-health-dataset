@@ -7,6 +7,7 @@ RAW = DATA / "raw"            # archivos originales de NASA, nunca se modifican
 RAW_NLSP = RAW / "nlsp"       # UTMB (NASA Life Sciences Portal)
 RAW_OSDR = RAW / "osdr"       # Inspiration4 (NASA OSDR)
 INTERIM = DATA / "interim"    # tablas limpias por fuente (generadas)
+EXTERNAL_HERA = DATA / "external" / "hera_artemis1"  # dosimetría real de Artemis I (Nature 2024, CC BY 4.0)
 EXTERNAL_IMM = DATA / "external" / "imm"  # resultados publicados del Integrated Medical Model (NASA)
 PROCESSED = DATA / "processed"  # dataset unificado para análisis y la app (generado)
 FIGURES = ROOT / "reports" / "figures"
